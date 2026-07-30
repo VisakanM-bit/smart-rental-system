@@ -45,3 +45,7 @@ The component is in app/components/leaflet_tracker.py and is a Streamlit Custom
 Components v2 implementation. It uses no deprecated Streamlit components.v1 APIs.
 The Dashboard path was validated with Streamlit's application test runner with no
 application exceptions.
+
+6. RELEASE DISTRIBUTION NOTE
+This Leaflet implementation guide is published with the project source so map setup,
+tile-provider limits, and GPS interpretation stay available to reviewers and users.

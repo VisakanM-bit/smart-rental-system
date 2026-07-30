@@ -100,3 +100,9 @@ framework. Login and every workspace page—Dashboard, Connected Operations, Ass
 Rental Records, Alerts, Forecasting, Analytics, ML Models, Maintenance, Integrity
 Ledger, Reports, and Admin Settings—completed with zero application exceptions.
 Python compilation and dependency consistency checks also passed.
+
+17. REPOSITORY PUBLICATION — 30 JULY 2026
+The validated project was committed and published to GitHub repository
+VisakanM-bit/smart-rental-system. The published history preserves the repository's
+original README commit and adds the complete FleetSight implementation, datasets,
+model artifacts, UI assets, integrity ledger, and documentation.

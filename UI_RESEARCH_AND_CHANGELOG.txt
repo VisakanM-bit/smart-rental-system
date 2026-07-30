@@ -74,3 +74,7 @@ history to keep the dashboard responsive.
 7. RELEASE VALIDATION — 30 JULY 2026
 All available workspaces were exercised with Streamlit's test runner after the
 latest UI, integrity, and Leaflet changes. No application exceptions were found.
+
+8. REPOSITORY PUBLICATION — 30 JULY 2026
+The complete validated project and this UI change log were published to the assigned
+GitHub repository as the final shareable project state.

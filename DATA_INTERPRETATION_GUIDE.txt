@@ -161,3 +161,7 @@ shown only within the authorised tenant/customer scope in production.
 The latest application validation produced no page-level exceptions. This confirms
 the presentation, Leaflet mapping, integrity proofs, and current dataset mappings
 can be loaded together; it does not change the source-data interpretation rules.
+
+12. RELEASE DISTRIBUTION NOTE — 30 JULY 2026
+This guide is included in the published project repository so reviewers receive the
+same range definitions, alert constraints, and limitations as the running app.
