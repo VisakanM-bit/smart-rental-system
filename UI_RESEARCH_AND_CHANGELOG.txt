@@ -1,0 +1,76 @@
+FLEETSIGHT UI RESEARCH, DESIGN DECISIONS, AND CHANGE LOG
+Updated: 30 July 2026
+
+1. RESEARCH CONCLUSION
+The reviewed platforms were assessed for relevance to a connected heavy-equipment
+rental operation rather than for visual imitation.
+
+Selected reference direction: Trackunit provides the strongest overall model for
+FleetSight because its rental proposition centers on mixed-fleet visibility,
+utilization, maintenance timing, insights, and action to reduce downtime. FleetSight
+uses this operating model as the primary UX direction.
+
+Secondary patterns adopted:
+- Hapn: map-first equipment awareness, GPS/geofence signals, engine hours, and
+  practical rental workflow context.
+- Track Star: direct equipment oversight, operational risk emphasis, and clear
+  loss/theft/maintenance messaging.
+- Point of Rental and RigNTap: rental lifecycle, bookings, commercial controls,
+  and multi-site operational organization.
+- Rentman: quick operational handoffs and the value of future QR/barcode return
+  workflows; FleetSight exposes this as a clearly-labelled future-ready module.
+- Effitrac: combined asset, maintenance, finance, and rental management view.
+
+Research sources used:
+- https://trackunit.com/rental/
+- https://gethapn.com/equipment-rental/
+- https://www.trackstar.com/gps-asset-tracking-system/rental-equipment
+- https://www.point-of-rental.com/
+- https://rentman.io/solutions/rental-equipment-tracking-software
+- https://www.rigntap.com/
+- https://www.effitrac.com/rental-management-software
+
+2. UI IMPLEMENTED TODAY
+- Dark navy, teal, and blue gradient command-center shell with high contrast.
+- Original FleetSight hero image generated for this project; no vendor screenshots,
+  logos, or proprietary product images are used.
+- Clear left-hand workspace navigation and identity area.
+- A concise dashboard hero, five KPI cards, fleet status, health distribution,
+  alert work queue, and live geographic footprint.
+- Dashboard focus control: Executive, Operations, and Risk. Selecting a focus
+  moves the relevant panel group to the top, which is the responsive component
+  movement mechanism for this Streamlit implementation.
+- Connected operations hub with eight visually separated capability boxes: location,
+  utilization, rental lifecycle, health, alerts, predictive models, scan-ready
+  returns, and reporting.
+- Redesigned assets, rentals, alerts, forecasting, maintenance, analytics, reports,
+  and ML model pages using consistent cards, clear labels, action-oriented copy,
+  progress columns, charts, and filters.
+
+3. COMPONENT MOVEMENT AND RESPONSIVE BEHAVIOR
+Native Streamlit components do not offer persistent drag-and-drop dashboard
+reordering without adding a custom JavaScript component. FleetSight instead uses a
+safe and reliable focus selector that changes panel priority, plus responsive
+horizontal containers and two-column grids that wrap naturally. This keeps the
+experience usable on desktop and narrower screens while preserving full data access.
+
+4. MAINTAINABILITY RULE
+When UI, business logic, ML logic, dataset mappings, thresholds, or project files
+change, update this log and REPORT.txt. When alert thresholds, score bands, or data
+ranges change, also update DATA_INTERPRETATION_GUIDE.txt. This file is the permanent
+human-readable UI/change record for reviewers.
+
+5. INTEGRITY LEDGER UI UPDATE — 30 JULY 2026
+Added an Integrity ledger workspace. It shows chain verification, current snapshot
+verification, tenant/domain proof counts, non-sensitive cryptographic proof metadata,
+and recent integrity events. The screen deliberately presents no raw customer data.
+
+6. LIVE MAP UI UPDATE — 30 JULY 2026
+Replaced the basic map with an interactive Leaflet live-tracking component. It uses
+multiple status-coloured markers, safe text-only telemetry popups, pan/zoom controls,
+and compact movement paths. The implementation intentionally limits rendered route
+history to keep the dashboard responsive.
+
+7. RELEASE VALIDATION — 30 JULY 2026
+All available workspaces were exercised with Streamlit's test runner after the
+latest UI, integrity, and Leaflet changes. No application exceptions were found.

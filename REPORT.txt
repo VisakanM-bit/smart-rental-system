@@ -1,0 +1,102 @@
+FLEETSIGHT — SMART RENTAL TRACKING SYSTEM
+FINAL PROJECT REPORT
+Generated: 30 July 2026
+
+1. PROJECT OVERVIEW
+FleetSight is a professional smart asset intelligence platform for heavy-machinery rental companies. It supports excavators, cranes, bulldozers, graders, backhoe loaders, and can be expanded for other fleet assets. The solution combines rental operations with telemetry intelligence so teams can see location-related geofence status, utilization, fuel, temperature, vibration, equipment health, maintenance risk, overdue return risk, and machine anomalies from one dashboard.
+
+2. ARCHITECTURE IMPLEMENTED
+The project uses a modular Python architecture.
+- Streamlit provides a polished responsive dashboard and authentication UI.
+- SQLAlchemy provides an ORM data layer independent of the database vendor.
+- SQLite is the zero-configuration local prototype database.
+- DATABASE_URL makes the same application cloud-ready for PostgreSQL via psycopg.
+- Pandas and Plotly provide analytics tables, charts, filters, and CSV reports.
+- scikit-learn Isolation Forest provides an ML-based anomaly signal.
+- Environment variables store database and alert thresholds without embedding secrets in source code.
+
+3. DATA MODEL
+The implementation includes relational Machine, Rental, Telemetry, Alert, and User entities. Machine records describe identity, status, service interval, health, geofence, demand and location. Rentals hold customer/site/operator, check-in/out, payment, cost, and overdue information. Telemetry captures engine, idle, fuel, temperature, hydraulics, vibration, RPM, GPS, geofence, movement, fault and condition measures. Alerts persist detected operational risks. Users hold role and securely hashed password details.
+
+4. SYNTHETIC DATA
+At first launch the application creates 24 realistic assets, a portfolio of active rentals across Mumbai, Chennai and Pune sites, and fourteen days of six-hour telemetry intervals. The seeded dataset follows the requested schema and deliberately includes conditions that demonstrate alerts such as overdue rentals, geofence events, high heat, and maintenance due dates. It is deterministic for reliable demonstrations.
+
+5. AUTHENTICATION AND ROLES
+The login screen uses bcrypt password hashes through Passlib, never plain-text storage. Demo roles are admin, manager, operator, and customer. Session state is used for the active login and logout. In a full cloud rollout the same role field is ready for route/action authorization and can be integrated with an identity provider.
+
+6. INTELLIGENCE AND AGENTS
+Five monitoring responsibilities are implemented in the agent service:
+- Usage agent flags excessive daily idle time.
+- Condition agent flags temperature beyond the configured safety threshold.
+- Overdue agent calculates overdue days and warns of upcoming due dates.
+- Anomaly agent flags geofence exits and unusual fuel use; Analytics additionally runs Isolation Forest over telemetry features.
+- Maintenance agent detects service due dates within seven days.
+Agents de-duplicate unresolved alerts within a twelve-hour window, write alerts to the database, and are callable from the sidebar for a live demo. Health scores use temperature, idle time, vibration, fault-code, and geofence penalties, then map to Healthy, Watch, Warning, or Critical bands.
+
+7. USER INTERFACE AND FEATURES
+The dashboard provides KPI cards, fleet status distribution, condition distribution, and site allocation charts. Asset inspection presents fleet-level data plus per-machine fuel, temperature, and condition trends. Additional pages cover rental records, alerts, forecasting, ML anomalies, service scheduling, and report download. The design uses restrained enterprise cards and responsive wide-layout charts for an executive-friendly presentation.
+
+8. FORECASTING AND REPORTS
+The initial demand model groups current active rentals by site and equipment type, then applies an 18 percent planning buffer. This is deliberately interpretable and can later be replaced by a trained time-series model after real history is available. Fleet, rental, and alert records are exportable as CSV from the Reports page.
+
+9. CLOUD-READY SETUP
+Local startup uses a generated SQLite file inside data/. A cloud deployment changes only DATABASE_URL in .env to a PostgreSQL URL; the SQLAlchemy model and app import paths remain unchanged. Secrets are excluded in .gitignore. Production hardening recommendations are managed database backups, Alembic migrations, a scheduled worker for agents, a secrets manager, FCM/email adapters, HTTPS, and central logs.
+
+10. FILE STRUCTURE
+app.py: application entry point, login/session shell, navigation and agent trigger.
+app/config.py: project-relative paths and environment configuration.
+app/database.py: database connection and session lifecycle.
+app/models.py: database entity definitions.
+app/data/generator.py: sample fleet/rental/telemetry generator.
+app/services/auth.py: account seeding and password verification.
+app/services/analytics.py: health scoring, anomaly detection and forecast logic.
+app/services/agents.py: monitoring rules, alert creation, audit-safe deduplication.
+app/ui.py: reusable visual page functions.
+requirements.txt: all Python application and cloud database dependencies.
+.vscode/: interpreter settings and extension recommendations.
+.env.example: safe environment template.
+
+11. HOW TO RUN
+Create and activate a virtual environment, copy .env.example to .env, run pip install -r requirements.txt, and then execute streamlit run app.py. Login as admin/admin123. The database and sample content are initialized automatically. VS Code recommendations include Python, Pylance, Jupyter, Ruff, and auto-docstring support.
+
+12. FINAL STATUS
+The delivered first version is a runnable, modular, demo-ready smart rental dashboard. It contains authentication, a portable data layer, synthetic data, monitoring agents, operational analytics, machine intelligence, visualization, downloadable reports, environment configuration, VS Code setup guidance, and a cloud database transition path.
+
+13. UI DESIGN UPDATE — 30 JULY 2026
+FleetSight was redesigned into a dark gradient command center inspired by the
+operational patterns researched across Trackunit, Hapn, Track Star, Point of Rental,
+Rentman, RigNTap, and Effitrac. Trackunit was selected as the primary product
+direction because its mixed-fleet, utilization, visibility, and uptime workflow is
+the closest match to FleetSight. The implementation adds a clearer workspace
+navigation model, responsive KPI and operation cards, a live map panel, priority
+alert queue, focus-based dashboard movement, consistent page introductions, original
+project-owned hero imagery, and a Connected Operations capability hub. Full research
+sources and change details are in UI_RESEARCH_AND_CHANGELOG.txt.
+
+14. HISTORICAL DATA INTEGRITY AND BLOCKCHAIN UPDATE — 30 JULY 2026
+FleetSight now includes a privacy-preserving, tenant-aware integrity ledger for
+historical rental data. It produces SHA-256 Merkle-root proofs for customer rental,
+customer telemetry, customer profile data, and fleet-owner machine/maintenance data.
+Each proof is append-only and cryptographically linked to the preceding proof for
+its tenant/domain. The Integrity ledger page verifies both the stored chain and the
+current database snapshot. Raw GPS, telemetry, finance, and personal data are not
+written to the ledger. An optional Hyperledger Fabric gateway adapter is included
+for a future permissioned consortium network; it submits hash-only proofs via an
+authenticated gateway. Full security boundaries, demo steps, and production controls
+are documented in BLOCKCHAIN_SECURITY_ARCHITECTURE.md.
+
+15. LIVE LEAFLET TRACKING UPDATE — 30 JULY 2026
+FleetSight now includes an interactive Leaflet 1.9.4 map using OpenStreetMap tiles.
+Latest telemetry coordinates produce equipment markers; marker colour indicates
+normal, warning, or critical/geofence risk. Each marker popup provides asset status,
+health, fuel, temperature, geofence, and signal context. Recent GPS history is drawn
+as compact movement lines for up to 20 assets and 25 points per asset to remain
+responsive for the 100,000-row telemetry dataset. Details and production controls are
+in LIVE_TRACKING_GUIDE.txt.
+
+16. RELEASE VALIDATION — 30 JULY 2026
+The Streamlit application was validated through Streamlit's application testing
+framework. Login and every workspace page—Dashboard, Connected Operations, Assets,
+Rental Records, Alerts, Forecasting, Analytics, ML Models, Maintenance, Integrity
+Ledger, Reports, and Admin Settings—completed with zero application exceptions.
+Python compilation and dependency consistency checks also passed.

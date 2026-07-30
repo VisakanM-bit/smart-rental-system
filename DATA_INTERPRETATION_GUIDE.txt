@@ -1,0 +1,163 @@
+FLEETSIGHT — DATA CONSTRAINTS, RANGES, AND RESULT INTERPRETATION GUIDE
+For reviewer / presentation use
+Dataset loaded: datasets.zip (validated and imported locally)
+
+1. DATA COVERAGE AND IMPORTANT CONTEXT
+The imported package contains 300 machines, 5,000 rental transactions, 100,000
+telemetry events, 1,500 maintenance events, and 120 customers.
+
+Historical coverage:
+- Rentals: check-ins from 01 Jan 2025 to 30 Jun 2025; final actual returns up to 07 Aug 2025.
+- Telemetry: 01 Jan 2025 00:01 to 01 Jan 2026 00:00.
+- Maintenance: 01 Jul 2024 to 01 Jul 2025.
+- Machine master service dates: 31 May 2026 to 30 Jul 2026.
+
+Constraint: this is a historical/synthetic dataset. The dashboard’s current-date
+alerts should be described as an operational demonstration, not a live claim.
+For example, a past rental labelled Overdue remains an important historical risk;
+it is not evidence that a machine is overdue today unless the rental is active.
+
+2. SOURCE DATA RANGES AND WHAT THEY MEAN
+MACHINE MASTER
+- Manufacture year: 2016–2025. Older equipment should receive closer service
+  review when its telemetry/condition also worsens.
+- Machine age: 1.0–10.9 years; median 6.1 years.
+- Fuel tank capacity: 73–649 L; do not compare fuel litres between machines
+  without considering tank size. The dashboard normally uses fuel percentage.
+- Maximum operating hours per day: 8–12 hours; a daily engine-hours value over
+  the machine-specific maximum is a potential heavy-usage/misuse signal.
+- Machine health score: 51–98 (median 75). Higher is healthier.
+- Service interval: 30–60 days. A service date plus this interval gives the
+  expected next-service date.
+- Fleet status: 134 Rented, 119 Available, 30 Idle, 17 Maintenance.
+
+RENTALS
+- Rental duration: 2–30 days; median 16 days.
+- Daily rate: Rs 12,000–Rs 30,000; median Rs 22,000.
+- Total cost: Rs 24,000–Rs 1,140,000; median Rs 336,000.
+- Deposit: Rs 24,000–Rs 60,000.
+- Recorded overdue days: 0–10 days.
+- Contract labels: 4,014 Completed and 986 Overdue.
+Interpretation: an overdue count measures return/contract risk. Pair it with
+customer late-return count and risk level before deciding on escalation.
+
+TELEMETRY
+- Daily engine hours: 0.00–12.00; median 5.99 hours.
+- Total engine hours: 500–15,000; median 7,714. High accumulated hours indicate
+  greater wear and should be considered with maintenance history.
+- Daily idle hours: 0.00–11.95; median 2.23 hours. High idle means fuel waste
+  and lower utilization, but is not proof of misuse without site context.
+- Fuel level: 5.0–100%; median 52.8%. Low fuel creates dispatch/refuelling risk.
+- Fuel consumed per reading: 0.00–239.78 L; median 78.51 L. Compare this with
+  the telemetry period and tank capacity; it is not automatically a fuel-theft
+  measurement.
+- Engine temperature: 70.0–110.0°C; median 90.0°C. Persistently high readings
+  can indicate cooling-system or loading problems.
+- Hydraulic pressure: 180.0–320.0 bar; median 250.3 bar. Interpret against the
+  manufacturer’s model-specific safe pressure, which is not supplied here.
+- Vibration score: 0.50–8.00; median 4.24. A rising/high score can imply wear,
+  imbalance, poor ground conditions, or operator/attachment effects.
+- RPM: 700–2,200; median 1,452. RPM requires engine/load context, so it is
+  displayed as a trend rather than a standalone alert threshold.
+- Distance from site: 0.0–5.0 km. Geofence labels: 94,945 Inside and 5,055
+  Outside. Outside is an immediate location/security review signal.
+- Movement labels: 55,033 Working, 19,919 Idle, 15,068 Travelling, 9,980 Stopped.
+- Dataset-provided alert labels: High Temperature 24,865; High Vibration 17,958;
+  Low Fuel 7,727; Geofence Breach 2,530; Maintenance Due 934.
+- Telemetry condition score: 54–100; median 80. This is the source score. The
+  app also calculates a transparent demo health score for latest readings.
+
+MAINTENANCE AND CUSTOMERS
+- Maintenance downtime: 2.0–48.0 hours; median 25.5 hours.
+- Service cost: Rs 5,055–Rs 149,875; median Rs 82,092.
+- Customer total rentals: 1–49; customer spend: Rs 97,254–Rs 6,581,542.
+- Late-return count: 0–8. A high late-return count combined with High risk level
+  supports deposit/approval review, not automatic customer rejection.
+
+3. APPLICATION MONITORING CONSTRAINTS AND EXPECTED RESULT
+The following are configurable environment thresholds in .env. They are initial
+demo controls and should be calibrated per equipment model and site.
+
+- TEMPERATURE > 105°C -> Critical “High temperature” alert.
+  Result: investigate cooling, oil, loading, sensor quality, and stop the asset
+  if manufacturer policy requires it.
+- IDLE HOURS > 5 hours/day -> Warning “Excessive idle” alert.
+  Result: review utilization, operator behavior, queue time, or site access.
+- FUEL CONSUMED > 20 L per telemetry observation -> Warning “Fuel loss” alert.
+  Result: compare with prior reading, engine hours, tank capacity, and refuelling
+  logs. This is an unusual-consumption screen, not a theft verdict.
+- GEOFENCE is Outside -> Critical “Geofence exit” alert.
+  Result: verify transport authorization, site boundary, GPS accuracy, and asset
+  security immediately.
+- Expected return is today or earlier for an ACTIVE rental -> Critical overdue
+  alert; within two days -> warning due-soon alert.
+  Result: contact customer/operator and plan collection or extension.
+- Last service + service interval within 7 days -> Maintenance-due warning.
+  Result: schedule service around the rental plan to avoid unplanned downtime.
+
+Alert controls de-duplicate an unresolved alert with the same machine/category
+for 12 hours. This prevents repeated telemetry from flooding the operations team.
+
+4. HEALTH SCORE BANDS USED IN THE APP
+The application’s transparent demo health score starts at 100 and applies
+penalties for high temperature, idle time, vibration above 5, a fault code, and
+geofence exit. It is intentionally explainable rather than a black-box model.
+
+- 80–100: Healthy — normal monitoring.
+- 65–79: Watch — inspect trend and schedule a review.
+- 45–64: Warning — prioritize inspection and corrective action.
+- 0–44: Critical — operational intervention is recommended.
+
+The score is a decision-support indicator. It must not replace manufacturer
+service specifications, certified inspection, or safety policy.
+
+5. MACHINE-LEARNING ANOMALY VIEW
+Isolation Forest is trained on engine hours, idle hours, fuel consumed,
+temperature, and vibration. It marks approximately 12% of telemetry readings as
+statistical outliers. An outlier is unusual relative to this dataset; it is not
+automatically a fault. Review it together with the rule alerts, fault code,
+movement status, site conditions, and trend history.
+
+6. REVIEWER DEMO SCRIPT
+1. Open Dashboard to show fleet volume and KPI cards.
+2. Open Assets and select a machine to show fuel/temperature/condition trends.
+3. Open Alerts to explain rule-driven prevention and alert severity.
+4. Open Analytics to show statistical outliers versus clear business rules.
+5. Open Forecasting to show demand by active-rental site/type; explain that the
+   current baseline applies an 18% capacity buffer and is replaceable by a
+   time-series model when richer live history is available.
+6. Open Reports and export CSV evidence for fleet, rental, and alerts.
+
+7. LIMITATIONS TO STATE OPENLY
+- Dataset labels and dates are synthetic/historical, so no live GPS or IoT claim
+  is made.
+- Thresholds need manufacturer/site calibration before production use.
+- The 18% forecast buffer is a transparent baseline, not a trained forecast.
+- The supplied rental feed has no customer_name column; the importer safely joins
+  it from Customer_Master.csv using customer_id.
+- Future production work: sensor validation, FCM/email delivery adapter,
+  scheduled workers, RBAC authorization per action, audit logs, and migrations.
+
+8. UI CHANGE NOTE — 30 JULY 2026
+The UI now prioritizes the data in this guide through a risk/operations/executive
+focus control, map view, KPI cards, alert queue, and dedicated asset inspection
+screen. This changes presentation only; it does not change the source ranges,
+thresholds, health-score bands, or ML constraints explained above.
+
+9. INTEGRITY LEDGER NOTE — 30 JULY 2026
+Historical data anchors are calculated from the exact imported records. A verified
+anchor means the current snapshot matches its latest approved hash proof; it does
+not mean the operational data is automatically correct. A mismatch means records
+changed after anchoring and must be reviewed against approved imports/corrections.
+The proof ledger contains hashes only, never the values described in this guide.
+
+10. LIVE MAP NOTE — 30 JULY 2026
+Latitude/longitude values are rendered as latest equipment markers and short recent
+movement lines in the Leaflet map. A line represents the chronological sampled GPS
+history from the dataset; it is not a road-verified route. GPS position must be
+shown only within the authorised tenant/customer scope in production.
+
+11. RELEASE VALIDATION NOTE — 30 JULY 2026
+The latest application validation produced no page-level exceptions. This confirms
+the presentation, Leaflet mapping, integrity proofs, and current dataset mappings
+can be loaded together; it does not change the source-data interpretation rules.

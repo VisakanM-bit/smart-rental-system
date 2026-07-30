@@ -1,0 +1,42 @@
+{
+  "source": "synthetic",
+  "trained_at": "2026-07-30T09:40:26.112097",
+  "training_rows": 8000,
+  "maintenance_risk": {
+    "accuracy": 0.961,
+    "precision": 0.965,
+    "recall": 0.961,
+    "f1": 0.962,
+    "roc_auc": 0.976
+  },
+  "overdue_risk": {
+    "accuracy": 0.556,
+    "precision": 0.556,
+    "recall": 0.556,
+    "f1": 0.555,
+    "roc_auc": 0.595
+  },
+  "misuse_risk": {
+    "accuracy": 0.996,
+    "precision": 0.996,
+    "recall": 0.996,
+    "f1": 0.996,
+    "roc_auc": 1.0
+  },
+  "health_classification": {
+    "accuracy": 0.904,
+    "precision": 0.899,
+    "recall": 0.904,
+    "f1": 0.897
+  },
+  "anomaly_detection": {
+    "telemetry_training_rows": 8000,
+    "rental_training_rows": 1600,
+    "telemetry_contamination": 0.12,
+    "rental_contamination": 0.1
+  },
+  "demand_forecast": {
+    "series": 16,
+    "forecast_horizon_days": 7
+  }
+}

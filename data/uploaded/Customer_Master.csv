@@ -1,0 +1,121 @@
+customer_id,customer_name,contact_number,customer_type,city,total_rentals,total_amount_spent,risk_level,late_return_count
+CUST1001,Nova Developers,9089551914,Contractor,Mysore,25,2211950,High,7
+CUST1002,Elite Enterprises,9763748178,Contractor,Bangalore,17,2110669,High,5
+CUST1003,Modern Constructions,9723248598,Individual,Trichy,21,3047352,Low,0
+CUST1004,United Enterprises,9195492264,Contractor,Trichy,49,1612590,High,4
+CUST1005,Prime Earth Movers,9880772273,Builder,Coimbatore,25,3433625,High,5
+CUST1006,Sunrise Constructions,9073270281,Contractor,Coimbatore,33,4949901,Medium,1
+CUST1007,Sunrise Developers,9254605238,Contractor,Salem,3,240531,Medium,2
+CUST1008,Skyline Industries,9761620625,Builder,Bangalore,3,376686,High,7
+CUST1009,United Builders,9192138388,Contractor,Salem,48,6247056,High,5
+CUST1010,Sunrise Engineering,9362697682,Contractor,Bangalore,30,750390,High,6
+CUST1011,Skyline Infrastructure,9059664574,Contractor,Madurai,14,1352050,High,6
+CUST1012,Supreme Infrastructure,9034145131,Contractor,Hyderabad,15,379290,Medium,3
+CUST1013,Prime Contractors,9905201575,Contractor,Bangalore,38,4255430,Medium,3
+CUST1014,ABC Builders,9140048410,Contractor,Coimbatore,42,3394692,Medium,3
+CUST1015,Shree Industries,9973505868,Contractor,Bangalore,21,783552,High,7
+CUST1016,Sri Projects,9004365165,Builder,Erode,8,533816,High,8
+CUST1017,Victory Contractors,9927562209,Contractor,Coimbatore,16,588272,Medium,1
+CUST1018,Green Constructions,9000359206,Contractor,Coimbatore,17,511785,High,6
+CUST1019,Nova Projects,9982674583,Contractor,Bangalore,11,1160577,High,6
+CUST1020,Sri Builders,9587363624,Individual,Madurai,1,119416,High,7
+CUST1021,Shree Projects,9775577848,Builder,Hyderabad,33,2394150,High,5
+CUST1022,United Engineering,9209486148,Builder,Trichy,34,4093158,High,7
+CUST1023,Elite Infrastructure,9361669300,Individual,Tiruppur,4,105260,Medium,1
+CUST1024,Shree Contractors,9048937214,Contractor,Salem,37,1581306,Medium,2
+CUST1025,Green Constructions,9882119221,Individual,Hyderabad,19,749759,High,8
+CUST1026,Global Enterprises,9480331578,Contractor,Bangalore,32,4010048,High,6
+CUST1027,Skyline Constructions,9247947432,Builder,Erode,28,1301972,Medium,2
+CUST1028,Modern Developers,9399118860,Contractor,Chennai,12,712668,Medium,3
+CUST1029,Green Enterprises,9207037957,Contractor,Chennai,37,3929881,Low,0
+CUST1030,Metro Enterprises,9602275390,Contractor,Mysore,16,429888,Medium,1
+CUST1031,Green Projects,9970843903,Individual,Coimbatore,21,2667315,High,4
+CUST1032,Prime Contractors,9480772244,Contractor,Coimbatore,45,6071265,High,5
+CUST1033,Sunrise Constructions,9407686726,Contractor,Mysore,31,1188943,Medium,2
+CUST1034,Future Developers,9718837723,Individual,Hyderabad,21,2602194,High,8
+CUST1035,Metro Enterprises,9885395606,Contractor,Hyderabad,14,1798104,High,8
+CUST1036,Sunrise Earth Movers,9902139229,Builder,Trichy,35,3127180,Medium,2
+CUST1037,Royal Industries,9284724623,Contractor,Salem,22,3147210,High,5
+CUST1038,National Engineering,9528088576,Contractor,Hyderabad,24,1697424,High,8
+CUST1039,National Contractors,9278523550,Builder,Erode,16,729104,Low,0
+CUST1040,Global Builders,9222473263,Contractor,Chennai,45,3159945,Low,0
+CUST1041,Global Projects,9751449415,Builder,Chennai,7,925505,High,4
+CUST1042,United Enterprises,9281524305,Builder,Hyderabad,31,906099,High,7
+CUST1043,ABC Engineering,9302231188,Contractor,Hyderabad,47,2371620,High,5
+CUST1044,Victory Projects,9544012258,Builder,Chennai,37,1324415,Medium,2
+CUST1045,Sunrise Earth Movers,9231314521,Builder,Chennai,21,2808267,High,8
+CUST1046,United Engineering,9575610831,Individual,Hyderabad,4,224140,High,4
+CUST1047,Prime Enterprises,9807450606,Builder,Bangalore,43,2781971,Medium,2
+CUST1048,Metro Infrastructure,9790985149,Contractor,Trichy,31,4139492,High,4
+CUST1049,Nova Engineering,9454857161,Contractor,Coimbatore,42,2887878,High,7
+CUST1050,Pioneer Enterprises,9005172630,Contractor,Madurai,24,872520,High,4
+CUST1051,Sri Builders,9864953904,Contractor,Madurai,5,641880,Low,0
+CUST1052,Sri Builders,9783870696,Contractor,Tiruppur,22,615868,High,8
+CUST1053,Nova Constructions,9266244730,Contractor,Hyderabad,12,1227444,High,5
+CUST1054,Skyline Constructions,9558569659,Contractor,Coimbatore,2,97254,High,5
+CUST1055,Galaxy Constructions,9077740108,Builder,Salem,32,4249056,High,7
+CUST1056,Sri Contractors,9451160487,Builder,Coimbatore,45,5279850,Medium,3
+CUST1057,Royal Earth Movers,9739815337,Contractor,Coimbatore,19,2573740,Medium,2
+CUST1058,Nova Projects,9148929957,Contractor,Salem,26,1102062,Medium,2
+CUST1059,Supreme Projects,9600791709,Contractor,Bangalore,48,4409904,High,7
+CUST1060,Nova Builders,9729720481,Builder,Coimbatore,14,1931622,High,8
+CUST1061,Sri Projects,9100180671,Builder,Chennai,10,896940,Low,0
+CUST1062,Sunrise Developers,9786361048,Contractor,Salem,16,632976,Medium,1
+CUST1063,Global Constructions,9584213374,Builder,Hyderabad,14,1104124,High,4
+CUST1064,Galaxy Earth Movers,9611156369,Builder,Trichy,6,829818,Medium,1
+CUST1065,Skyline Enterprises,9523549996,Contractor,Erode,18,1776168,High,5
+CUST1066,National Engineering,9162613879,Contractor,Madurai,18,2664072,High,5
+CUST1067,Green Earth Movers,9973796099,Builder,Chennai,46,2581290,High,6
+CUST1068,Future Earth Movers,9584515228,Contractor,Hyderabad,49,5059593,High,5
+CUST1069,Future Earth Movers,9887226465,Contractor,Erode,2,282118,Medium,3
+CUST1070,Green Industries,9435097716,Builder,Chennai,10,812500,High,4
+CUST1071,Skyline Engineering,9914173134,Individual,Chennai,2,174970,High,7
+CUST1072,Victory Developers,9413089825,Contractor,Salem,19,2401885,High,4
+CUST1073,Metro Engineering,9670733285,Contractor,Chennai,26,1126606,Medium,1
+CUST1074,Future Contractors,9662047635,Contractor,Salem,42,6160350,Medium,3
+CUST1075,Elite Earth Movers,9822623098,Builder,Mysore,20,1671520,Medium,1
+CUST1076,Green Engineering,9973359489,Contractor,Chennai,12,1132644,High,8
+CUST1077,United Industries,9586351125,Builder,Coimbatore,39,4464720,Medium,1
+CUST1078,United Contractors,9184439009,Builder,Salem,16,411840,Medium,3
+CUST1079,Metro Developers,9763343253,Builder,Trichy,4,167168,High,5
+CUST1080,Nova Engineering,9631711900,Individual,Bangalore,30,4076190,Low,0
+CUST1081,Sri Developers,9568686981,Builder,Madurai,34,4171188,Medium,2
+CUST1082,United Builders,9158552800,Builder,Erode,35,1104985,High,8
+CUST1083,Future Earth Movers,9600318645,Contractor,Chennai,11,911295,High,5
+CUST1084,United Earth Movers,9764752835,Contractor,Erode,9,1180980,High,6
+CUST1085,Sunrise Earth Movers,9712003199,Contractor,Mysore,10,295600,Medium,3
+CUST1086,Supreme Contractors,9108254060,Contractor,Trichy,9,1103868,Low,0
+CUST1087,Supreme Builders,9721361650,Individual,Erode,9,1240776,High,4
+CUST1088,Pioneer Contractors,9789188086,Contractor,Hyderabad,15,1970655,Low,0
+CUST1089,Sri Constructions,9170619683,Contractor,Erode,44,2175932,Low,0
+CUST1090,Shree Earth Movers,9402484816,Builder,Chennai,15,2051025,Medium,3
+CUST1091,Pioneer Contractors,9792357145,Contractor,Erode,46,6581542,Medium,1
+CUST1092,Galaxy Contractors,9516036797,Individual,Erode,6,645246,High,4
+CUST1093,National Infrastructure,9528908665,Builder,Trichy,27,2788371,High,4
+CUST1094,Victory Infrastructure,9058340799,Builder,Tiruppur,44,1141844,High,8
+CUST1095,Prime Earth Movers,9908563935,Builder,Hyderabad,5,694870,High,8
+CUST1096,Pioneer Earth Movers,9643582940,Contractor,Erode,48,2092080,Medium,3
+CUST1097,Metro Constructions,9411661201,Contractor,Salem,9,1198404,High,4
+CUST1098,Global Engineering,9676506135,Contractor,Madurai,14,1394820,Low,0
+CUST1099,Green Builders,9048856457,Contractor,Trichy,33,4207104,High,6
+CUST1100,Victory Infrastructure,9827874763,Contractor,Salem,26,1568372,Medium,1
+CUST1101,Prime Builders,9927144579,Builder,Trichy,20,2334500,High,7
+CUST1102,Shree Projects,9218230086,Contractor,Tiruppur,40,2006560,High,4
+CUST1103,Royal Contractors,9863293489,Contractor,Trichy,38,1101620,High,6
+CUST1104,Sunrise Enterprises,9968220071,Contractor,Mysore,18,565092,High,8
+CUST1105,Skyline Enterprises,9721481141,Contractor,Tiruppur,26,3021486,Medium,1
+CUST1106,Supreme Engineering,9823215425,Builder,Tiruppur,12,1581864,Medium,2
+CUST1107,Sri Projects,9695405328,Builder,Mysore,43,4582725,High,7
+CUST1108,Sunrise Contractors,9755030839,Contractor,Madurai,16,1812896,Medium,3
+CUST1109,Global Enterprises,9018557295,Contractor,Chennai,13,1173562,Medium,1
+CUST1110,Modern Builders,9035882092,Contractor,Erode,15,1943760,High,4
+CUST1111,Sri Projects,9784413249,Contractor,Trichy,15,1051050,Low,0
+CUST1112,Prime Infrastructure,9152646557,Contractor,Erode,22,1162150,Medium,3
+CUST1113,Sunrise Builders,9210800060,Builder,Bangalore,7,867209,Medium,3
+CUST1114,Green Constructions,9461341279,Contractor,Chennai,25,2006200,Medium,2
+CUST1115,Skyline Enterprises,9534585647,Builder,Madurai,5,523785,High,8
+CUST1116,Pioneer Constructions,9322791658,Contractor,Madurai,24,3460248,High,7
+CUST1117,Galaxy Earth Movers,9619624324,Builder,Hyderabad,32,3990368,Low,0
+CUST1118,Metro Projects,9286759484,Builder,Erode,25,2911800,High,6
+CUST1119,Prime Enterprises,9353399794,Contractor,Bangalore,40,1400160,Medium,2
+CUST1120,Future Contractors,9862651097,Contractor,Hyderabad,24,1614792,High,7

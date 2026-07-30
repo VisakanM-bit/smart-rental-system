@@ -1,0 +1,1501 @@
+maintenance_id,equipment_id,service_date,service_type,issue_reported,part_replaced,downtime_hours,service_cost,next_service_due_date,service_status
+MAIN10000,EQX1290,2025-05-12,Inspection,No Issue,None,14.9,51744,2025-06-26,Completed
+MAIN10001,EQX1090,2024-08-26,Preventive Maintenance,Bucket Damage,Hydraulic Pump,28.8,119066,2024-10-10,Completed
+MAIN10002,EQX1113,2025-05-06,Inspection,No Issue,None,26.4,120645,2025-06-20,Completed
+MAIN10003,EQX1190,2024-08-11,Emergency Repair,Track Wear,Engine Belt,8.2,144863,2024-10-10,Completed
+MAIN10004,EQX1079,2024-12-23,Preventive Maintenance,Fuel Leakage,Oil Filter,19.2,25982,2025-02-21,Completed
+MAIN10005,EQX1298,2025-04-26,Preventive Maintenance,Fuel Leakage,Hydraulic Pump,11.8,129253,2025-05-26,Completed
+MAIN10006,EQX1092,2024-12-01,Preventive Maintenance,Track Wear,Bucket Teeth,20.2,113832,2025-01-15,Completed
+MAIN10007,EQX1234,2025-02-20,Emergency Repair,Hydraulic Leakage,Bucket Teeth,8.2,146052,2025-04-21,In Progress
+MAIN10008,EQX1030,2024-08-17,Inspection,No Issue,None,6.3,115338,2024-10-01,Completed
+MAIN10009,EQX1061,2024-10-17,Corrective Maintenance,Track Wear,Bucket Teeth,45.3,32565,2024-12-16,Completed
+MAIN10010,EQX1200,2025-03-18,Preventive Maintenance,Hydraulic Leakage,Engine Belt,34.1,100552,2025-05-02,Completed
+MAIN10011,EQX1145,2024-10-15,Emergency Repair,Hydraulic Leakage,Battery,14.6,99453,2024-11-29,Completed
+MAIN10012,EQX1021,2024-10-12,Corrective Maintenance,Engine Overheating,Hydraulic Pump,10.4,31112,2024-11-26,Completed
+MAIN10013,EQX1287,2025-01-19,Inspection,No Issue,None,31.1,78330,2025-03-20,Completed
+MAIN10014,EQX1030,2024-09-07,Corrective Maintenance,Low Engine Oil,Hydraulic Hose,8.7,40591,2024-10-22,In Progress
+MAIN10015,EQX1082,2025-04-18,Emergency Repair,Hydraulic Leakage,Oil Filter,24.5,146095,2025-05-18,Completed
+MAIN10016,EQX1300,2025-04-25,Inspection,No Issue,None,9.5,137846,2025-06-24,Completed
+MAIN10017,EQX1132,2025-05-16,Corrective Maintenance,Transmission Fault,Track Chain,33.1,70230,2025-06-15,Completed
+MAIN10018,EQX1289,2024-08-13,Preventive Maintenance,Engine Overheating,Brake Pads,18.9,106870,2024-09-12,Completed
+MAIN10019,EQX1276,2024-11-12,Corrective Maintenance,Hydraulic Leakage,Track Chain,42.5,84608,2024-12-27,Completed
+MAIN10020,EQX1055,2025-01-13,Corrective Maintenance,Hydraulic Leakage,Track Chain,40.1,122872,2025-02-12,Completed
+MAIN10021,EQX1218,2025-05-13,Corrective Maintenance,Low Engine Oil,Battery,41.1,90188,2025-06-12,Completed
+MAIN10022,EQX1229,2025-06-22,Corrective Maintenance,Hydraulic Leakage,Oil Filter,20.9,49625,2025-07-22,Completed
+MAIN10023,EQX1218,2024-10-16,Emergency Repair,Fuel Leakage,Oil Filter,32.2,110718,2024-11-30,Completed
+MAIN10024,EQX1177,2024-11-05,Corrective Maintenance,Engine Overheating,Bucket Teeth,25.5,36277,2024-12-20,Completed
+MAIN10025,EQX1285,2024-09-05,Corrective Maintenance,Hydraulic Leakage,Engine Belt,4.1,148480,2024-11-04,Completed
+MAIN10026,EQX1105,2024-10-11,Corrective Maintenance,Transmission Fault,Battery,18.0,113258,2024-12-10,Completed
+MAIN10027,EQX1038,2024-12-14,Preventive Maintenance,Track Wear,Bucket Teeth,5.3,108349,2025-01-28,Scheduled
+MAIN10028,EQX1049,2025-03-02,Emergency Repair,Battery Failure,Hydraulic Pump,40.0,8467,2025-04-16,Completed
+MAIN10029,EQX1097,2024-09-04,Hydraulic Service,Fuel Leakage,Hydraulic Pump,41.8,133624,2024-11-03,Completed
+MAIN10030,EQX1138,2024-11-15,Preventive Maintenance,Engine Overheating,Track Chain,5.1,143076,2024-12-30,Completed
+MAIN10031,EQX1135,2024-09-26,Hydraulic Service,Battery Failure,Battery,11.5,117723,2024-11-25,Completed
+MAIN10032,EQX1242,2024-11-06,Emergency Repair,Brake Wear,Hydraulic Pump,26.2,107930,2024-12-21,Completed
+MAIN10033,EQX1068,2024-07-05,Corrective Maintenance,Battery Failure,Track Chain,26.2,138071,2024-08-04,Completed
+MAIN10034,EQX1126,2024-11-27,Emergency Repair,Battery Failure,Engine Belt,47.0,98003,2025-01-11,Completed
+MAIN10035,EQX1136,2024-08-09,Preventive Maintenance,Transmission Fault,Oil Filter,38.6,60743,2024-10-08,Completed
+MAIN10036,EQX1201,2025-01-17,Corrective Maintenance,Track Wear,Track Chain,41.0,7689,2025-02-16,Completed
+MAIN10037,EQX1266,2024-08-26,Inspection,No Issue,None,2.4,122503,2024-10-10,Completed
+MAIN10038,EQX1182,2025-02-13,Corrective Maintenance,Engine Overheating,Engine Belt,32.6,56874,2025-03-30,Completed
+MAIN10039,EQX1075,2024-07-11,Oil Change,Track Wear,Track Chain,36.1,10081,2024-08-25,Completed
+MAIN10040,EQX1126,2025-04-03,Corrective Maintenance,Low Engine Oil,Brake Pads,35.6,96230,2025-05-03,Completed
+MAIN10041,EQX1126,2025-03-08,Emergency Repair,Brake Wear,Battery,24.2,127696,2025-04-07,Completed
+MAIN10042,EQX1246,2025-04-01,Hydraulic Service,Bucket Damage,Brake Pads,2.1,120000,2025-05-01,In Progress
+MAIN10043,EQX1222,2024-11-20,Preventive Maintenance,Battery Failure,Oil Filter,32.4,45259,2025-01-19,Scheduled
+MAIN10044,EQX1148,2024-07-09,Emergency Repair,Transmission Fault,Brake Pads,23.8,57126,2024-08-08,Completed
+MAIN10045,EQX1029,2024-10-04,Preventive Maintenance,Bucket Damage,Engine Belt,43.1,129791,2024-11-18,Completed
+MAIN10046,EQX1059,2024-09-25,Emergency Repair,Track Wear,Hydraulic Hose,23.6,104554,2024-11-24,Completed
+MAIN10047,EQX1136,2024-12-17,Inspection,No Issue,None,5.1,63886,2025-01-16,In Progress
+MAIN10048,EQX1084,2024-11-04,Corrective Maintenance,Low Engine Oil,Brake Pads,6.2,57795,2024-12-19,Scheduled
+MAIN10049,EQX1244,2025-04-02,Hydraulic Service,Brake Wear,Bucket Teeth,16.8,131622,2025-05-02,Completed
+MAIN10050,EQX1284,2024-12-23,Corrective Maintenance,Hydraulic Leakage,Oil Filter,34.1,75440,2025-02-21,Completed
+MAIN10051,EQX1185,2024-10-25,Oil Change,Battery Failure,Battery,13.3,52697,2024-12-09,Completed
+MAIN10052,EQX1011,2024-12-20,Corrective Maintenance,Fuel Leakage,Fuel Filter,4.6,106109,2025-02-18,Completed
+MAIN10053,EQX1024,2025-05-13,Preventive Maintenance,Hydraulic Leakage,Engine Belt,47.9,120363,2025-06-27,Scheduled
+MAIN10054,EQX1253,2024-07-18,Inspection,No Issue,None,22.4,9629,2024-09-16,In Progress
+MAIN10055,EQX1126,2024-12-25,Emergency Repair,Bucket Damage,Fuel Filter,8.6,67942,2025-02-08,Completed
+MAIN10056,EQX1103,2024-08-09,Inspection,No Issue,None,39.6,108006,2024-10-08,Completed
+MAIN10057,EQX1271,2024-08-22,Hydraulic Service,Hydraulic Leakage,Hydraulic Hose,17.9,56308,2024-10-06,Scheduled
+MAIN10058,EQX1064,2025-03-10,Inspection,No Issue,None,4.0,142719,2025-05-09,Completed
+MAIN10059,EQX1078,2024-08-14,Corrective Maintenance,Hydraulic Leakage,Battery,5.2,116151,2024-09-13,Completed
+MAIN10060,EQX1203,2024-10-28,Corrective Maintenance,Engine Overheating,Oil Filter,20.6,148181,2024-12-12,Scheduled
+MAIN10061,EQX1215,2024-11-04,Inspection,No Issue,None,36.2,22022,2025-01-03,Scheduled
+MAIN10062,EQX1116,2025-05-07,Hydraulic Service,Hydraulic Leakage,Oil Filter,3.9,15833,2025-06-21,Completed
+MAIN10063,EQX1218,2025-02-28,Corrective Maintenance,Bucket Damage,Brake Pads,33.8,38978,2025-04-29,Scheduled
+MAIN10064,EQX1035,2024-10-15,Inspection,No Issue,None,35.8,86138,2024-12-14,Completed
+MAIN10065,EQX1036,2024-07-22,Corrective Maintenance,Fuel Leakage,Engine Belt,39.2,12194,2024-09-20,In Progress
+MAIN10066,EQX1168,2025-06-04,Preventive Maintenance,Bucket Damage,Brake Pads,26.9,41104,2025-07-19,Completed
+MAIN10067,EQX1212,2025-03-09,Corrective Maintenance,Fuel Leakage,Bucket Teeth,7.4,35809,2025-04-23,In Progress
+MAIN10068,EQX1228,2025-05-21,Corrective Maintenance,Battery Failure,Hydraulic Hose,31.9,149731,2025-07-05,Completed
+MAIN10069,EQX1196,2025-04-29,Inspection,No Issue,None,20.1,13711,2025-05-29,Completed
+MAIN10070,EQX1268,2025-05-11,Preventive Maintenance,Transmission Fault,Bucket Teeth,46.2,140635,2025-07-10,Completed
+MAIN10071,EQX1254,2024-10-22,Preventive Maintenance,Low Engine Oil,Brake Pads,32.1,85889,2024-12-21,Completed
+MAIN10072,EQX1200,2024-07-05,Preventive Maintenance,Engine Overheating,Track Chain,2.1,84114,2024-08-19,In Progress
+MAIN10073,EQX1026,2025-06-28,Corrective Maintenance,Bucket Damage,Track Chain,28.0,126705,2025-07-28,Completed
+MAIN10074,EQX1221,2025-01-06,Corrective Maintenance,Track Wear,Hydraulic Pump,37.6,88981,2025-02-05,Completed
+MAIN10075,EQX1032,2025-05-11,Preventive Maintenance,Hydraulic Leakage,Engine Belt,16.8,20510,2025-06-10,Scheduled
+MAIN10076,EQX1081,2024-11-13,Hydraulic Service,Brake Wear,Brake Pads,22.4,80196,2025-01-12,Completed
+MAIN10077,EQX1242,2025-02-01,Hydraulic Service,Transmission Fault,Brake Pads,26.2,109322,2025-03-18,Scheduled
+MAIN10078,EQX1118,2024-07-07,Preventive Maintenance,Hydraulic Leakage,Engine Belt,10.2,42245,2024-09-05,Scheduled
+MAIN10079,EQX1135,2025-06-21,Hydraulic Service,Fuel Leakage,Engine Belt,15.2,110834,2025-07-21,In Progress
+MAIN10080,EQX1112,2024-07-09,Emergency Repair,Engine Overheating,Fuel Filter,45.3,75089,2024-08-23,Completed
+MAIN10081,EQX1061,2025-02-17,Preventive Maintenance,Battery Failure,Brake Pads,26.7,61489,2025-04-03,In Progress
+MAIN10082,EQX1278,2025-04-02,Emergency Repair,Transmission Fault,Track Chain,6.3,68905,2025-05-02,Completed
+MAIN10083,EQX1030,2024-08-01,Preventive Maintenance,Brake Wear,Engine Belt,11.1,18425,2024-08-31,Completed
+MAIN10084,EQX1154,2025-03-30,Preventive Maintenance,Hydraulic Leakage,Hydraulic Hose,39.9,108938,2025-04-29,Completed
+MAIN10085,EQX1230,2025-06-17,Corrective Maintenance,Bucket Damage,Battery,39.6,40815,2025-08-01,Completed
+MAIN10086,EQX1105,2025-05-13,Corrective Maintenance,Fuel Leakage,Hydraulic Hose,41.8,132245,2025-07-12,Completed
+MAIN10087,EQX1042,2024-07-07,Emergency Repair,Engine Overheating,Track Chain,28.9,24978,2024-09-05,Completed
+MAIN10088,EQX1263,2025-06-22,Preventive Maintenance,Brake Wear,Hydraulic Hose,16.3,94651,2025-07-22,Completed
+MAIN10089,EQX1150,2024-09-19,Preventive Maintenance,Low Engine Oil,Hydraulic Pump,24.2,9116,2024-10-19,Completed
+MAIN10090,EQX1122,2025-03-12,Hydraulic Service,Hydraulic Leakage,Hydraulic Pump,37.1,132983,2025-04-26,In Progress
+MAIN10091,EQX1225,2025-01-25,Corrective Maintenance,Engine Overheating,Bucket Teeth,20.4,34057,2025-02-24,Completed
+MAIN10092,EQX1015,2025-01-30,Preventive Maintenance,Low Engine Oil,Bucket Teeth,33.0,39614,2025-03-01,In Progress
+MAIN10093,EQX1068,2025-05-02,Emergency Repair,Low Engine Oil,Hydraulic Pump,21.5,146385,2025-06-16,Completed
+MAIN10094,EQX1087,2024-07-21,Emergency Repair,Fuel Leakage,Battery,41.8,83140,2024-08-20,Completed
+MAIN10095,EQX1037,2024-12-28,Emergency Repair,Hydraulic Leakage,Track Chain,17.4,5131,2025-02-26,In Progress
+MAIN10096,EQX1213,2024-07-20,Inspection,No Issue,None,13.2,74552,2024-08-19,Completed
+MAIN10097,EQX1183,2025-06-22,Inspection,No Issue,None,6.7,118223,2025-07-22,Completed
+MAIN10098,EQX1295,2025-06-04,Corrective Maintenance,Bucket Damage,Track Chain,13.1,132837,2025-07-19,Completed
+MAIN10099,EQX1258,2024-08-04,Emergency Repair,Transmission Fault,Engine Belt,34.8,82052,2024-10-03,Completed
+MAIN10100,EQX1163,2024-11-16,Preventive Maintenance,Low Engine Oil,Engine Belt,43.1,91049,2024-12-31,Scheduled
+MAIN10101,EQX1003,2024-11-24,Hydraulic Service,Bucket Damage,Fuel Filter,8.3,100558,2025-01-08,Completed
+MAIN10102,EQX1108,2025-02-10,Corrective Maintenance,Fuel Leakage,Bucket Teeth,11.7,141112,2025-03-12,In Progress
+MAIN10103,EQX1006,2025-06-27,Preventive Maintenance,Low Engine Oil,Bucket Teeth,28.1,60981,2025-08-11,In Progress
+MAIN10104,EQX1092,2025-01-17,Preventive Maintenance,Track Wear,Track Chain,4.7,116154,2025-03-03,Completed
+MAIN10105,EQX1140,2024-08-04,Corrective Maintenance,Engine Overheating,Oil Filter,21.3,48261,2024-10-03,Completed
+MAIN10106,EQX1173,2025-02-08,Corrective Maintenance,Engine Overheating,Oil Filter,36.7,109387,2025-04-09,Completed
+MAIN10107,EQX1197,2024-10-12,Emergency Repair,Brake Wear,Oil Filter,26.6,118695,2024-12-11,Completed
+MAIN10108,EQX1030,2024-10-02,Corrective Maintenance,Engine Overheating,Brake Pads,14.8,108996,2024-11-01,Completed
+MAIN10109,EQX1169,2024-08-08,Corrective Maintenance,Low Engine Oil,Hydraulic Pump,3.9,42344,2024-10-07,Completed
+MAIN10110,EQX1062,2025-05-09,Preventive Maintenance,Bucket Damage,Fuel Filter,33.3,30123,2025-06-08,Completed
+MAIN10111,EQX1080,2025-05-14,Hydraulic Service,Transmission Fault,Hydraulic Hose,6.8,136104,2025-06-28,Completed
+MAIN10112,EQX1044,2025-01-30,Corrective Maintenance,Engine Overheating,Engine Belt,46.8,104172,2025-03-31,Completed
+MAIN10113,EQX1086,2024-11-27,Corrective Maintenance,Engine Overheating,Brake Pads,22.7,103862,2025-01-26,Completed
+MAIN10114,EQX1018,2024-09-22,Emergency Repair,Low Engine Oil,Bucket Teeth,18.3,103252,2024-10-22,In Progress
+MAIN10115,EQX1260,2025-06-18,Hydraulic Service,Brake Wear,Hydraulic Hose,41.7,67040,2025-07-18,Completed
+MAIN10116,EQX1297,2025-01-10,Preventive Maintenance,Fuel Leakage,Track Chain,19.2,122755,2025-02-09,Scheduled
+MAIN10117,EQX1100,2024-12-20,Preventive Maintenance,Transmission Fault,Engine Belt,21.8,108923,2025-01-19,In Progress
+MAIN10118,EQX1243,2024-09-27,Hydraulic Service,Engine Overheating,Brake Pads,10.8,95975,2024-11-11,Completed
+MAIN10119,EQX1057,2025-01-25,Corrective Maintenance,Hydraulic Leakage,Fuel Filter,6.1,113986,2025-03-11,Completed
+MAIN10120,EQX1195,2025-05-20,Preventive Maintenance,Low Engine Oil,Engine Belt,6.0,118250,2025-07-19,Completed
+MAIN10121,EQX1186,2025-02-11,Oil Change,Bucket Damage,Oil Filter,4.4,77092,2025-03-28,Completed
+MAIN10122,EQX1296,2025-05-18,Inspection,No Issue,None,25.3,31073,2025-07-02,Completed
+MAIN10123,EQX1152,2025-06-14,Hydraulic Service,Engine Overheating,Engine Belt,16.0,101363,2025-07-14,Completed
+MAIN10124,EQX1058,2024-10-12,Preventive Maintenance,Fuel Leakage,Oil Filter,37.1,112503,2024-11-11,Completed
+MAIN10125,EQX1155,2025-06-05,Preventive Maintenance,Fuel Leakage,Track Chain,18.5,102075,2025-07-20,Completed
+MAIN10126,EQX1250,2024-07-22,Corrective Maintenance,Fuel Leakage,Battery,11.2,43432,2024-08-21,Completed
+MAIN10127,EQX1291,2024-10-04,Preventive Maintenance,Fuel Leakage,Bucket Teeth,4.4,124434,2024-12-03,Completed
+MAIN10128,EQX1274,2024-11-07,Preventive Maintenance,Bucket Damage,Brake Pads,40.2,49110,2024-12-07,Completed
+MAIN10129,EQX1026,2025-03-03,Corrective Maintenance,Low Engine Oil,Bucket Teeth,6.4,92062,2025-05-02,Completed
+MAIN10130,EQX1256,2024-08-26,Preventive Maintenance,Transmission Fault,Fuel Filter,28.5,99049,2024-09-25,Completed
+MAIN10131,EQX1054,2024-09-27,Emergency Repair,Track Wear,Fuel Filter,17.3,61435,2024-10-27,Completed
+MAIN10132,EQX1239,2025-07-01,Preventive Maintenance,Bucket Damage,Track Chain,31.3,35099,2025-08-15,Completed
+MAIN10133,EQX1061,2025-02-21,Inspection,No Issue,None,26.5,149730,2025-04-22,Completed
+MAIN10134,EQX1216,2024-11-30,Emergency Repair,Hydraulic Leakage,Engine Belt,2.5,125485,2025-01-14,Completed
+MAIN10135,EQX1273,2025-05-31,Corrective Maintenance,Transmission Fault,Oil Filter,27.3,132549,2025-06-30,Completed
+MAIN10136,EQX1205,2025-04-26,Hydraulic Service,Low Engine Oil,Battery,12.2,115913,2025-06-25,Completed
+MAIN10137,EQX1052,2025-04-04,Corrective Maintenance,Low Engine Oil,Engine Belt,30.5,74125,2025-06-03,Completed
+MAIN10138,EQX1087,2025-03-29,Corrective Maintenance,Bucket Damage,Fuel Filter,25.6,126301,2025-05-28,Completed
+MAIN10139,EQX1209,2024-11-09,Corrective Maintenance,Brake Wear,Track Chain,29.7,106462,2024-12-24,Completed
+MAIN10140,EQX1068,2025-03-07,Emergency Repair,Low Engine Oil,Fuel Filter,6.4,37468,2025-04-06,Completed
+MAIN10141,EQX1072,2025-03-18,Preventive Maintenance,Brake Wear,Fuel Filter,23.7,68828,2025-05-02,Completed
+MAIN10142,EQX1001,2024-12-18,Preventive Maintenance,Brake Wear,Battery,47.8,136117,2025-01-17,Completed
+MAIN10143,EQX1214,2025-06-12,Corrective Maintenance,Low Engine Oil,Hydraulic Pump,33.9,115112,2025-08-11,Scheduled
+MAIN10144,EQX1056,2024-12-15,Preventive Maintenance,Engine Overheating,Battery,34.3,6044,2025-01-14,Completed
+MAIN10145,EQX1009,2024-07-24,Emergency Repair,Battery Failure,Brake Pads,6.5,137810,2024-08-23,Completed
+MAIN10146,EQX1001,2024-10-04,Preventive Maintenance,Transmission Fault,Fuel Filter,22.0,133886,2024-12-03,In Progress
+MAIN10147,EQX1199,2025-04-25,Emergency Repair,Battery Failure,Engine Belt,35.1,99143,2025-06-24,Completed
+MAIN10148,EQX1101,2024-09-30,Corrective Maintenance,Battery Failure,Engine Belt,8.5,95141,2024-11-29,Scheduled
+MAIN10149,EQX1058,2024-11-28,Corrective Maintenance,Hydraulic Leakage,Track Chain,10.8,85565,2024-12-28,Completed
+MAIN10150,EQX1299,2025-01-11,Corrective Maintenance,Low Engine Oil,Battery,4.8,13438,2025-03-12,Completed
+MAIN10151,EQX1125,2024-08-22,Inspection,No Issue,None,40.2,89461,2024-10-06,Completed
+MAIN10152,EQX1266,2025-02-23,Preventive Maintenance,Engine Overheating,Oil Filter,39.5,67494,2025-04-24,Completed
+MAIN10153,EQX1227,2025-04-03,Hydraulic Service,Brake Wear,Brake Pads,29.3,118579,2025-06-02,In Progress
+MAIN10154,EQX1009,2025-06-08,Corrective Maintenance,Track Wear,Engine Belt,5.9,140468,2025-07-08,Completed
+MAIN10155,EQX1018,2025-02-12,Hydraulic Service,Engine Overheating,Battery,40.2,142900,2025-03-29,Scheduled
+MAIN10156,EQX1137,2025-04-04,Corrective Maintenance,Battery Failure,Brake Pads,16.5,117133,2025-05-04,Scheduled
+MAIN10157,EQX1124,2025-05-26,Inspection,No Issue,None,25.4,139901,2025-07-10,Completed
+MAIN10158,EQX1191,2024-11-23,Emergency Repair,Brake Wear,Fuel Filter,3.8,96344,2025-01-07,Completed
+MAIN10159,EQX1124,2025-06-07,Inspection,No Issue,None,6.1,23142,2025-08-06,Completed
+MAIN10160,EQX1263,2025-05-13,Corrective Maintenance,Bucket Damage,Oil Filter,3.6,122960,2025-06-27,In Progress
+MAIN10161,EQX1252,2025-01-30,Emergency Repair,Engine Overheating,Brake Pads,43.2,148690,2025-03-16,Completed
+MAIN10162,EQX1140,2024-10-06,Corrective Maintenance,Bucket Damage,Fuel Filter,14.4,31744,2024-11-05,Completed
+MAIN10163,EQX1285,2025-02-12,Corrective Maintenance,Transmission Fault,Bucket Teeth,44.9,117053,2025-03-29,In Progress
+MAIN10164,EQX1071,2025-06-12,Inspection,No Issue,None,20.9,144331,2025-08-11,Completed
+MAIN10165,EQX1214,2025-06-16,Corrective Maintenance,Hydraulic Leakage,Battery,15.8,98556,2025-07-16,Completed
+MAIN10166,EQX1273,2025-03-17,Emergency Repair,Engine Overheating,Track Chain,47.5,104366,2025-05-01,Completed
+MAIN10167,EQX1077,2024-11-08,Emergency Repair,Transmission Fault,Track Chain,31.3,65893,2024-12-23,Completed
+MAIN10168,EQX1188,2024-10-22,Corrective Maintenance,Engine Overheating,Track Chain,45.8,83215,2024-11-21,Completed
+MAIN10169,EQX1090,2025-01-09,Preventive Maintenance,Engine Overheating,Battery,26.8,144952,2025-02-08,Completed
+MAIN10170,EQX1057,2025-01-17,Emergency Repair,Hydraulic Leakage,Battery,18.8,42590,2025-03-03,Completed
+MAIN10171,EQX1142,2024-10-22,Corrective Maintenance,Bucket Damage,Hydraulic Pump,8.9,115868,2024-12-21,Completed
+MAIN10172,EQX1061,2024-08-27,Inspection,No Issue,None,35.3,137326,2024-09-26,Completed
+MAIN10173,EQX1098,2024-09-22,Hydraulic Service,Track Wear,Hydraulic Hose,9.5,55898,2024-11-06,Completed
+MAIN10174,EQX1271,2025-02-25,Corrective Maintenance,Battery Failure,Brake Pads,12.0,132119,2025-04-11,Completed
+MAIN10175,EQX1218,2024-09-23,Emergency Repair,Bucket Damage,Battery,41.4,96113,2024-11-07,Completed
+MAIN10176,EQX1242,2025-04-24,Hydraulic Service,Engine Overheating,Bucket Teeth,19.0,124071,2025-05-24,Scheduled
+MAIN10177,EQX1292,2024-07-15,Emergency Repair,Transmission Fault,Engine Belt,11.6,18676,2024-08-29,Completed
+MAIN10178,EQX1146,2025-02-03,Corrective Maintenance,Fuel Leakage,Brake Pads,21.0,100099,2025-04-04,Completed
+MAIN10179,EQX1210,2025-02-01,Emergency Repair,Track Wear,Track Chain,30.3,140951,2025-04-02,Completed
+MAIN10180,EQX1153,2025-04-01,Emergency Repair,Battery Failure,Bucket Teeth,3.8,39839,2025-05-01,In Progress
+MAIN10181,EQX1005,2025-05-09,Inspection,No Issue,None,3.2,93999,2025-07-08,Completed
+MAIN10182,EQX1300,2024-11-01,Inspection,No Issue,None,12.1,87078,2024-12-31,Completed
+MAIN10183,EQX1102,2025-04-22,Corrective Maintenance,Track Wear,Oil Filter,11.4,138834,2025-05-22,Completed
+MAIN10184,EQX1223,2025-04-22,Preventive Maintenance,Bucket Damage,Fuel Filter,26.5,42842,2025-06-06,Completed
+MAIN10185,EQX1085,2025-04-22,Corrective Maintenance,Hydraulic Leakage,Track Chain,32.0,78854,2025-06-06,Completed
+MAIN10186,EQX1057,2024-07-31,Emergency Repair,Track Wear,Bucket Teeth,34.4,16001,2024-09-14,Completed
+MAIN10187,EQX1153,2024-08-17,Corrective Maintenance,Battery Failure,Engine Belt,28.2,83259,2024-10-01,Completed
+MAIN10188,EQX1181,2024-12-24,Preventive Maintenance,Battery Failure,Hydraulic Hose,47.4,63725,2025-02-07,Completed
+MAIN10189,EQX1273,2024-10-30,Emergency Repair,Bucket Damage,Brake Pads,31.6,90514,2024-11-29,Completed
+MAIN10190,EQX1064,2025-05-31,Corrective Maintenance,Hydraulic Leakage,Hydraulic Hose,35.4,63225,2025-07-15,Completed
+MAIN10191,EQX1105,2025-03-14,Hydraulic Service,Track Wear,Track Chain,4.6,79937,2025-04-28,Scheduled
+MAIN10192,EQX1112,2025-04-23,Hydraulic Service,Transmission Fault,Bucket Teeth,2.6,12145,2025-05-23,Completed
+MAIN10193,EQX1074,2025-06-29,Inspection,No Issue,None,23.3,24024,2025-08-28,Completed
+MAIN10194,EQX1111,2024-12-12,Corrective Maintenance,Hydraulic Leakage,Brake Pads,20.8,141057,2025-01-26,Completed
+MAIN10195,EQX1154,2024-12-21,Preventive Maintenance,Transmission Fault,Engine Belt,22.0,63340,2025-02-04,Completed
+MAIN10196,EQX1177,2025-06-27,Corrective Maintenance,Fuel Leakage,Oil Filter,34.3,51264,2025-07-27,In Progress
+MAIN10197,EQX1077,2024-10-15,Emergency Repair,Transmission Fault,Brake Pads,8.8,108089,2024-11-14,In Progress
+MAIN10198,EQX1036,2024-10-03,Hydraulic Service,Fuel Leakage,Battery,30.4,53140,2024-12-02,In Progress
+MAIN10199,EQX1168,2025-06-07,Preventive Maintenance,Hydraulic Leakage,Fuel Filter,34.5,65816,2025-07-22,Completed
+MAIN10200,EQX1124,2024-12-27,Preventive Maintenance,Bucket Damage,Hydraulic Hose,7.5,18327,2025-02-10,Completed
+MAIN10201,EQX1134,2025-02-12,Hydraulic Service,Brake Wear,Track Chain,28.2,50764,2025-03-29,Completed
+MAIN10202,EQX1016,2024-09-13,Preventive Maintenance,Hydraulic Leakage,Engine Belt,37.8,140329,2024-11-12,Completed
+MAIN10203,EQX1213,2025-06-07,Preventive Maintenance,Engine Overheating,Battery,17.2,135285,2025-07-22,Completed
+MAIN10204,EQX1143,2024-11-28,Preventive Maintenance,Bucket Damage,Hydraulic Pump,45.4,12578,2024-12-28,Completed
+MAIN10205,EQX1210,2024-09-21,Emergency Repair,Transmission Fault,Oil Filter,5.5,128605,2024-11-05,Completed
+MAIN10206,EQX1026,2025-04-25,Emergency Repair,Brake Wear,Hydraulic Pump,28.6,63072,2025-05-25,Completed
+MAIN10207,EQX1084,2025-02-10,Inspection,No Issue,None,12.7,22507,2025-03-27,Completed
+MAIN10208,EQX1177,2025-04-16,Corrective Maintenance,Brake Wear,Hydraulic Pump,25.5,139757,2025-06-15,Completed
+MAIN10209,EQX1269,2024-10-02,Corrective Maintenance,Battery Failure,Bucket Teeth,35.8,132352,2024-11-01,Completed
+MAIN10210,EQX1214,2024-12-04,Emergency Repair,Low Engine Oil,Engine Belt,11.0,19835,2025-01-03,In Progress
+MAIN10211,EQX1116,2025-02-03,Corrective Maintenance,Fuel Leakage,Engine Belt,41.0,138555,2025-04-04,Completed
+MAIN10212,EQX1026,2025-01-02,Corrective Maintenance,Hydraulic Leakage,Bucket Teeth,20.5,24561,2025-02-01,Completed
+MAIN10213,EQX1263,2024-07-22,Preventive Maintenance,Track Wear,Oil Filter,11.2,143992,2024-08-21,Completed
+MAIN10214,EQX1160,2025-04-23,Inspection,No Issue,None,12.0,21531,2025-05-23,Completed
+MAIN10215,EQX1105,2024-12-02,Hydraulic Service,Fuel Leakage,Battery,43.4,29460,2025-01-31,Completed
+MAIN10216,EQX1171,2025-06-15,Corrective Maintenance,Low Engine Oil,Brake Pads,37.6,66077,2025-08-14,Completed
+MAIN10217,EQX1167,2024-11-20,Preventive Maintenance,Low Engine Oil,Track Chain,22.6,65459,2024-12-20,Scheduled
+MAIN10218,EQX1235,2024-08-05,Preventive Maintenance,Hydraulic Leakage,Track Chain,28.8,83992,2024-10-04,Completed
+MAIN10219,EQX1010,2025-03-26,Inspection,No Issue,None,2.4,110305,2025-05-10,Completed
+MAIN10220,EQX1005,2024-07-15,Corrective Maintenance,Engine Overheating,Engine Belt,37.6,90821,2024-09-13,Completed
+MAIN10221,EQX1044,2025-02-26,Corrective Maintenance,Engine Overheating,Hydraulic Pump,13.7,76440,2025-03-28,Completed
+MAIN10222,EQX1102,2025-04-29,Hydraulic Service,Track Wear,Fuel Filter,47.8,93428,2025-05-29,Completed
+MAIN10223,EQX1044,2024-09-03,Inspection,No Issue,None,45.6,147149,2024-10-03,Completed
+MAIN10224,EQX1130,2025-02-19,Preventive Maintenance,Track Wear,Engine Belt,25.1,124262,2025-04-20,Completed
+MAIN10225,EQX1254,2024-07-06,Preventive Maintenance,Engine Overheating,Battery,42.7,143871,2024-09-04,Completed
+MAIN10226,EQX1215,2024-10-08,Inspection,No Issue,None,13.6,98152,2024-12-07,Completed
+MAIN10227,EQX1292,2024-11-03,Emergency Repair,Brake Wear,Track Chain,11.3,39124,2025-01-02,Completed
+MAIN10228,EQX1237,2025-03-08,Inspection,No Issue,None,45.4,93418,2025-05-07,Completed
+MAIN10229,EQX1266,2025-06-28,Preventive Maintenance,Transmission Fault,Bucket Teeth,46.7,89832,2025-07-28,Completed
+MAIN10230,EQX1176,2024-08-02,Preventive Maintenance,Bucket Damage,Hydraulic Pump,8.6,142612,2024-10-01,Scheduled
+MAIN10231,EQX1257,2025-05-27,Hydraulic Service,Hydraulic Leakage,Bucket Teeth,21.8,146633,2025-06-26,Completed
+MAIN10232,EQX1093,2025-02-07,Corrective Maintenance,Brake Wear,Hydraulic Hose,25.2,128281,2025-03-24,Completed
+MAIN10233,EQX1278,2024-12-27,Emergency Repair,Low Engine Oil,Battery,39.6,24876,2025-02-25,Completed
+MAIN10234,EQX1290,2024-11-14,Corrective Maintenance,Engine Overheating,Brake Pads,31.8,46832,2024-12-14,Completed
+MAIN10235,EQX1009,2024-07-30,Corrective Maintenance,Hydraulic Leakage,Battery,12.7,15574,2024-08-29,Completed
+MAIN10236,EQX1010,2025-03-10,Corrective Maintenance,Bucket Damage,Engine Belt,33.0,79625,2025-05-09,Completed
+MAIN10237,EQX1041,2024-12-16,Hydraulic Service,Battery Failure,Hydraulic Pump,18.3,136114,2025-02-14,Completed
+MAIN10238,EQX1164,2025-04-22,Preventive Maintenance,Engine Overheating,Hydraulic Pump,7.5,34957,2025-05-22,Scheduled
+MAIN10239,EQX1204,2025-02-13,Preventive Maintenance,Bucket Damage,Bucket Teeth,31.8,134942,2025-03-15,In Progress
+MAIN10240,EQX1162,2025-05-11,Corrective Maintenance,Transmission Fault,Hydraulic Pump,8.5,74887,2025-07-10,In Progress
+MAIN10241,EQX1078,2025-06-18,Hydraulic Service,Brake Wear,Bucket Teeth,46.6,23605,2025-07-18,Completed
+MAIN10242,EQX1113,2024-09-07,Inspection,No Issue,None,6.3,91364,2024-11-06,Completed
+MAIN10243,EQX1103,2024-10-13,Inspection,No Issue,None,29.6,115397,2024-11-27,Completed
+MAIN10244,EQX1072,2024-10-26,Corrective Maintenance,Engine Overheating,Oil Filter,26.9,62058,2024-12-10,Completed
+MAIN10245,EQX1222,2024-11-04,Oil Change,Battery Failure,Engine Belt,45.3,73062,2024-12-19,Completed
+MAIN10246,EQX1192,2024-07-29,Preventive Maintenance,Track Wear,Battery,22.2,52458,2024-08-28,Scheduled
+MAIN10247,EQX1252,2025-02-18,Hydraulic Service,Battery Failure,Hydraulic Pump,9.3,43342,2025-03-20,Completed
+MAIN10248,EQX1218,2025-03-08,Emergency Repair,Track Wear,Bucket Teeth,11.5,98098,2025-04-22,Completed
+MAIN10249,EQX1171,2024-12-28,Emergency Repair,Fuel Leakage,Track Chain,16.8,95280,2025-02-11,Completed
+MAIN10250,EQX1279,2025-03-12,Preventive Maintenance,Low Engine Oil,Track Chain,44.0,118051,2025-04-11,Completed
+MAIN10251,EQX1265,2024-08-09,Inspection,No Issue,None,34.3,135180,2024-09-23,Completed
+MAIN10252,EQX1089,2024-07-02,Corrective Maintenance,Engine Overheating,Bucket Teeth,41.0,19256,2024-08-01,Completed
+MAIN10253,EQX1013,2024-11-08,Inspection,No Issue,None,20.8,36531,2024-12-08,Completed
+MAIN10254,EQX1052,2024-07-16,Preventive Maintenance,Brake Wear,Brake Pads,37.2,67779,2024-08-15,Completed
+MAIN10255,EQX1143,2025-06-04,Corrective Maintenance,Track Wear,Battery,31.3,70238,2025-07-04,Scheduled
+MAIN10256,EQX1257,2025-05-18,Emergency Repair,Engine Overheating,Track Chain,30.8,29143,2025-07-17,Scheduled
+MAIN10257,EQX1203,2024-08-19,Hydraulic Service,Battery Failure,Hydraulic Hose,10.5,123011,2024-10-18,Completed
+MAIN10258,EQX1282,2025-04-30,Corrective Maintenance,Track Wear,Bucket Teeth,47.2,84312,2025-05-30,Scheduled
+MAIN10259,EQX1130,2025-02-05,Preventive Maintenance,Bucket Damage,Fuel Filter,12.5,6240,2025-04-06,Completed
+MAIN10260,EQX1032,2024-08-28,Preventive Maintenance,Fuel Leakage,Hydraulic Hose,12.5,88454,2024-10-12,Completed
+MAIN10261,EQX1047,2025-01-31,Corrective Maintenance,Engine Overheating,Track Chain,37.3,110667,2025-04-01,Completed
+MAIN10262,EQX1093,2024-07-19,Emergency Repair,Track Wear,Track Chain,29.7,64632,2024-08-18,Completed
+MAIN10263,EQX1197,2025-02-22,Hydraulic Service,Bucket Damage,Oil Filter,5.3,24397,2025-03-24,Completed
+MAIN10264,EQX1232,2025-05-18,Preventive Maintenance,Hydraulic Leakage,Engine Belt,25.0,8976,2025-07-02,Completed
+MAIN10265,EQX1215,2024-12-29,Inspection,No Issue,None,19.5,88353,2025-02-12,Completed
+MAIN10266,EQX1260,2024-09-18,Corrective Maintenance,Low Engine Oil,Brake Pads,17.4,87819,2024-11-02,Scheduled
+MAIN10267,EQX1032,2024-10-17,Preventive Maintenance,Engine Overheating,Engine Belt,18.9,24838,2024-12-16,Completed
+MAIN10268,EQX1216,2024-07-31,Corrective Maintenance,Engine Overheating,Fuel Filter,6.8,122084,2024-09-14,Completed
+MAIN10269,EQX1097,2024-12-21,Corrective Maintenance,Engine Overheating,Track Chain,19.9,118765,2025-02-19,Completed
+MAIN10270,EQX1274,2025-06-29,Inspection,No Issue,None,25.5,10575,2025-08-28,Completed
+MAIN10271,EQX1257,2024-08-31,Corrective Maintenance,Bucket Damage,Track Chain,35.3,84950,2024-10-30,Completed
+MAIN10272,EQX1209,2025-04-02,Preventive Maintenance,Track Wear,Engine Belt,5.8,42996,2025-05-02,Scheduled
+MAIN10273,EQX1231,2024-12-06,Corrective Maintenance,Low Engine Oil,Brake Pads,40.0,145177,2025-01-05,Completed
+MAIN10274,EQX1043,2024-08-15,Preventive Maintenance,Engine Overheating,Bucket Teeth,35.5,104107,2024-09-29,Completed
+MAIN10275,EQX1154,2024-11-07,Corrective Maintenance,Low Engine Oil,Hydraulic Hose,18.1,10549,2024-12-22,Scheduled
+MAIN10276,EQX1049,2024-10-18,Hydraulic Service,Bucket Damage,Engine Belt,14.6,64422,2024-11-17,Completed
+MAIN10277,EQX1185,2024-11-01,Preventive Maintenance,Fuel Leakage,Battery,28.3,110292,2024-12-31,Completed
+MAIN10278,EQX1036,2025-03-16,Hydraulic Service,Hydraulic Leakage,Brake Pads,13.3,34539,2025-04-30,Completed
+MAIN10279,EQX1036,2024-11-01,Corrective Maintenance,Track Wear,Bucket Teeth,32.5,140919,2024-12-16,Completed
+MAIN10280,EQX1039,2024-12-30,Corrective Maintenance,Brake Wear,Hydraulic Hose,7.1,133177,2025-01-29,Completed
+MAIN10281,EQX1283,2025-03-31,Corrective Maintenance,Bucket Damage,Oil Filter,46.7,145397,2025-05-15,Completed
+MAIN10282,EQX1004,2024-08-11,Corrective Maintenance,Fuel Leakage,Bucket Teeth,2.5,10681,2024-09-25,Completed
+MAIN10283,EQX1159,2025-03-29,Emergency Repair,Hydraulic Leakage,Oil Filter,9.1,61108,2025-04-28,Completed
+MAIN10284,EQX1279,2025-03-19,Inspection,No Issue,None,27.3,39056,2025-04-18,Completed
+MAIN10285,EQX1026,2025-06-13,Corrective Maintenance,Hydraulic Leakage,Oil Filter,2.6,90691,2025-07-13,Completed
+MAIN10286,EQX1165,2025-07-01,Inspection,No Issue,None,41.0,70556,2025-08-30,Completed
+MAIN10287,EQX1290,2024-07-31,Preventive Maintenance,Engine Overheating,Track Chain,35.8,42234,2024-09-29,Scheduled
+MAIN10288,EQX1113,2024-07-04,Preventive Maintenance,Brake Wear,Oil Filter,10.1,123573,2024-08-18,Completed
+MAIN10289,EQX1243,2025-03-09,Emergency Repair,Engine Overheating,Oil Filter,45.1,23370,2025-05-08,Completed
+MAIN10290,EQX1257,2025-04-26,Hydraulic Service,Brake Wear,Battery,45.6,68019,2025-06-25,In Progress
+MAIN10291,EQX1278,2024-10-22,Emergency Repair,Engine Overheating,Bucket Teeth,25.4,72184,2024-12-21,Completed
+MAIN10292,EQX1150,2025-06-30,Corrective Maintenance,Hydraulic Leakage,Bucket Teeth,26.2,60355,2025-08-29,Completed
+MAIN10293,EQX1182,2024-08-31,Corrective Maintenance,Brake Wear,Hydraulic Pump,7.8,148898,2024-10-30,Completed
+MAIN10294,EQX1137,2025-03-19,Corrective Maintenance,Battery Failure,Fuel Filter,41.2,88695,2025-05-03,Completed
+MAIN10295,EQX1064,2025-05-26,Preventive Maintenance,Fuel Leakage,Hydraulic Pump,6.2,128913,2025-06-25,Completed
+MAIN10296,EQX1189,2025-06-24,Inspection,No Issue,None,26.4,45894,2025-08-23,Completed
+MAIN10297,EQX1132,2025-03-07,Corrective Maintenance,Track Wear,Brake Pads,36.8,122515,2025-04-21,Completed
+MAIN10298,EQX1186,2025-01-26,Inspection,No Issue,None,24.2,137188,2025-03-12,Completed
+MAIN10299,EQX1043,2025-06-16,Corrective Maintenance,Battery Failure,Engine Belt,4.5,6002,2025-07-31,Completed
+MAIN10300,EQX1284,2025-02-20,Hydraulic Service,Hydraulic Leakage,Bucket Teeth,7.4,33534,2025-04-21,Completed
+MAIN10301,EQX1142,2025-03-26,Emergency Repair,Hydraulic Leakage,Battery,26.1,101844,2025-04-25,Completed
+MAIN10302,EQX1172,2024-11-25,Emergency Repair,Fuel Leakage,Hydraulic Pump,19.4,11607,2025-01-24,Completed
+MAIN10303,EQX1179,2025-05-04,Oil Change,Transmission Fault,Track Chain,20.0,51486,2025-06-18,Completed
+MAIN10304,EQX1154,2024-12-18,Preventive Maintenance,Transmission Fault,Track Chain,11.3,148742,2025-02-16,Completed
+MAIN10305,EQX1115,2024-08-19,Hydraulic Service,Track Wear,Oil Filter,44.3,51405,2024-10-18,Completed
+MAIN10306,EQX1091,2024-09-14,Emergency Repair,Hydraulic Leakage,Fuel Filter,11.8,76416,2024-10-14,Completed
+MAIN10307,EQX1268,2024-07-19,Preventive Maintenance,Low Engine Oil,Bucket Teeth,43.9,122812,2024-08-18,Completed
+MAIN10308,EQX1037,2025-06-09,Emergency Repair,Track Wear,Brake Pads,29.2,40394,2025-07-09,Completed
+MAIN10309,EQX1290,2025-01-04,Preventive Maintenance,Engine Overheating,Hydraulic Pump,41.5,48813,2025-02-18,Completed
+MAIN10310,EQX1101,2025-05-29,Corrective Maintenance,Hydraulic Leakage,Hydraulic Hose,21.9,23917,2025-06-28,Completed
+MAIN10311,EQX1036,2024-11-29,Corrective Maintenance,Fuel Leakage,Oil Filter,10.4,23335,2025-01-13,In Progress
+MAIN10312,EQX1287,2024-08-06,Corrective Maintenance,Track Wear,Battery,24.0,107736,2024-10-05,Completed
+MAIN10313,EQX1296,2024-11-17,Inspection,No Issue,None,3.0,34081,2025-01-01,Completed
+MAIN10314,EQX1242,2024-12-06,Hydraulic Service,Bucket Damage,Oil Filter,20.1,12743,2025-02-04,Completed
+MAIN10315,EQX1195,2024-10-18,Inspection,No Issue,None,39.6,6520,2024-12-17,Completed
+MAIN10316,EQX1174,2025-04-08,Hydraulic Service,Transmission Fault,Oil Filter,14.9,20602,2025-05-23,Completed
+MAIN10317,EQX1154,2025-01-09,Preventive Maintenance,Engine Overheating,Hydraulic Pump,28.7,112699,2025-02-23,In Progress
+MAIN10318,EQX1031,2024-11-29,Corrective Maintenance,Hydraulic Leakage,Brake Pads,41.3,44541,2024-12-29,Completed
+MAIN10319,EQX1178,2025-01-24,Corrective Maintenance,Engine Overheating,Hydraulic Hose,15.7,28875,2025-03-25,Completed
+MAIN10320,EQX1066,2025-06-10,Preventive Maintenance,Brake Wear,Engine Belt,2.2,121150,2025-07-25,Completed
+MAIN10321,EQX1128,2024-11-20,Emergency Repair,Low Engine Oil,Hydraulic Pump,40.8,13781,2025-01-04,Completed
+MAIN10322,EQX1249,2025-05-22,Corrective Maintenance,Track Wear,Hydraulic Pump,18.1,91154,2025-07-06,Scheduled
+MAIN10323,EQX1063,2024-12-16,Corrective Maintenance,Track Wear,Hydraulic Pump,22.9,31839,2025-01-15,Completed
+MAIN10324,EQX1161,2025-03-24,Preventive Maintenance,Transmission Fault,Hydraulic Pump,40.0,149875,2025-04-23,Completed
+MAIN10325,EQX1115,2025-04-05,Corrective Maintenance,Engine Overheating,Hydraulic Hose,21.9,76832,2025-05-20,Scheduled
+MAIN10326,EQX1140,2025-03-29,Inspection,No Issue,None,40.6,132380,2025-04-28,Completed
+MAIN10327,EQX1261,2025-03-26,Preventive Maintenance,Low Engine Oil,Track Chain,28.1,80377,2025-05-10,Completed
+MAIN10328,EQX1119,2025-01-29,Corrective Maintenance,Brake Wear,Oil Filter,43.7,127092,2025-03-30,Completed
+MAIN10329,EQX1291,2025-05-09,Corrective Maintenance,Brake Wear,Oil Filter,13.9,82103,2025-06-23,Completed
+MAIN10330,EQX1119,2025-06-16,Emergency Repair,Low Engine Oil,Track Chain,30.8,35000,2025-07-16,Completed
+MAIN10331,EQX1242,2025-04-08,Corrective Maintenance,Transmission Fault,Fuel Filter,31.6,43466,2025-05-23,Completed
+MAIN10332,EQX1063,2024-10-03,Emergency Repair,Transmission Fault,Brake Pads,18.7,67014,2024-11-17,Completed
+MAIN10333,EQX1142,2025-05-07,Emergency Repair,Low Engine Oil,Oil Filter,6.1,139859,2025-06-06,Completed
+MAIN10334,EQX1177,2024-12-03,Emergency Repair,Transmission Fault,Brake Pads,38.1,59073,2025-02-01,Completed
+MAIN10335,EQX1186,2025-06-20,Inspection,No Issue,None,46.5,106650,2025-08-04,Scheduled
+MAIN10336,EQX1213,2024-12-28,Preventive Maintenance,Hydraulic Leakage,Brake Pads,19.2,129258,2025-01-27,Completed
+MAIN10337,EQX1006,2024-10-02,Inspection,No Issue,None,37.9,101445,2024-11-01,Completed
+MAIN10338,EQX1036,2025-01-18,Hydraulic Service,Bucket Damage,Brake Pads,12.5,139347,2025-03-04,Completed
+MAIN10339,EQX1025,2025-04-17,Hydraulic Service,Transmission Fault,Hydraulic Pump,26.4,7909,2025-06-16,Completed
+MAIN10340,EQX1267,2025-01-31,Oil Change,Brake Wear,Engine Belt,42.2,119082,2025-04-01,Scheduled
+MAIN10341,EQX1023,2024-07-13,Corrective Maintenance,Transmission Fault,Bucket Teeth,13.6,97727,2024-08-27,Completed
+MAIN10342,EQX1208,2025-01-14,Emergency Repair,Engine Overheating,Bucket Teeth,25.6,74276,2025-02-28,Completed
+MAIN10343,EQX1255,2025-01-27,Preventive Maintenance,Track Wear,Hydraulic Hose,16.9,18030,2025-03-13,Scheduled
+MAIN10344,EQX1241,2025-01-13,Corrective Maintenance,Fuel Leakage,Brake Pads,10.4,126581,2025-02-27,Scheduled
+MAIN10345,EQX1280,2025-05-01,Oil Change,Transmission Fault,Engine Belt,25.6,76023,2025-06-30,Completed
+MAIN10346,EQX1215,2025-03-09,Preventive Maintenance,Battery Failure,Battery,41.8,78965,2025-05-08,Completed
+MAIN10347,EQX1137,2024-12-29,Corrective Maintenance,Track Wear,Brake Pads,42.5,15396,2025-02-27,Completed
+MAIN10348,EQX1115,2024-09-30,Emergency Repair,Transmission Fault,Battery,38.7,60534,2024-10-30,Completed
+MAIN10349,EQX1285,2024-08-24,Emergency Repair,Engine Overheating,Fuel Filter,35.5,14864,2024-10-08,Scheduled
+MAIN10350,EQX1294,2024-11-28,Emergency Repair,Hydraulic Leakage,Battery,35.5,110490,2024-12-28,Completed
+MAIN10351,EQX1255,2025-01-30,Preventive Maintenance,Fuel Leakage,Bucket Teeth,26.3,43331,2025-03-31,Completed
+MAIN10352,EQX1277,2024-11-23,Inspection,No Issue,None,22.8,140541,2025-01-07,Completed
+MAIN10353,EQX1290,2025-05-29,Preventive Maintenance,Brake Wear,Track Chain,14.9,138975,2025-06-28,Completed
+MAIN10354,EQX1151,2024-09-22,Inspection,No Issue,None,39.9,64054,2024-10-22,Completed
+MAIN10355,EQX1160,2025-04-30,Inspection,No Issue,None,46.5,115274,2025-05-30,Completed
+MAIN10356,EQX1175,2024-07-26,Emergency Repair,Hydraulic Leakage,Hydraulic Hose,9.3,52222,2024-08-25,Completed
+MAIN10357,EQX1282,2025-03-04,Inspection,No Issue,None,17.9,97379,2025-04-18,Scheduled
+MAIN10358,EQX1282,2024-08-09,Corrective Maintenance,Low Engine Oil,Fuel Filter,12.4,126828,2024-10-08,Completed
+MAIN10359,EQX1240,2024-12-27,Inspection,No Issue,None,30.1,101936,2025-02-25,Completed
+MAIN10360,EQX1128,2024-10-08,Corrective Maintenance,Bucket Damage,Bucket Teeth,23.1,123170,2024-12-07,Completed
+MAIN10361,EQX1247,2025-05-04,Corrective Maintenance,Fuel Leakage,Fuel Filter,44.2,6480,2025-07-03,Completed
+MAIN10362,EQX1135,2024-12-31,Emergency Repair,Hydraulic Leakage,Battery,41.3,36216,2025-03-01,Completed
+MAIN10363,EQX1117,2025-01-15,Corrective Maintenance,Brake Wear,Bucket Teeth,12.8,37487,2025-03-16,Completed
+MAIN10364,EQX1135,2024-07-29,Hydraulic Service,Transmission Fault,Bucket Teeth,43.7,20132,2024-09-12,Completed
+MAIN10365,EQX1085,2025-03-14,Corrective Maintenance,Hydraulic Leakage,Engine Belt,40.4,132575,2025-05-13,Completed
+MAIN10366,EQX1210,2024-09-16,Hydraulic Service,Brake Wear,Hydraulic Pump,8.2,81753,2024-10-31,Completed
+MAIN10367,EQX1103,2025-03-17,Oil Change,Track Wear,Track Chain,26.1,122844,2025-05-16,Completed
+MAIN10368,EQX1181,2025-04-14,Preventive Maintenance,Engine Overheating,Brake Pads,3.7,20729,2025-05-29,In Progress
+MAIN10369,EQX1047,2025-03-19,Hydraulic Service,Track Wear,Bucket Teeth,23.6,97902,2025-05-18,Completed
+MAIN10370,EQX1106,2025-03-27,Inspection,No Issue,None,40.6,104760,2025-05-11,Completed
+MAIN10371,EQX1249,2024-07-15,Corrective Maintenance,Bucket Damage,Oil Filter,7.2,62809,2024-08-14,Completed
+MAIN10372,EQX1009,2024-09-22,Emergency Repair,Engine Overheating,Hydraulic Pump,32.1,144929,2024-10-22,Completed
+MAIN10373,EQX1122,2025-04-11,Corrective Maintenance,Battery Failure,Bucket Teeth,18.7,21167,2025-05-26,Completed
+MAIN10374,EQX1080,2024-11-17,Corrective Maintenance,Engine Overheating,Battery,21.9,125463,2025-01-16,Completed
+MAIN10375,EQX1069,2025-03-12,Preventive Maintenance,Brake Wear,Engine Belt,23.6,54445,2025-04-11,Completed
+MAIN10376,EQX1041,2024-09-08,Emergency Repair,Low Engine Oil,Bucket Teeth,39.6,77848,2024-10-08,Completed
+MAIN10377,EQX1239,2025-04-01,Preventive Maintenance,Engine Overheating,Oil Filter,3.8,72037,2025-05-31,Completed
+MAIN10378,EQX1180,2025-03-18,Hydraulic Service,Transmission Fault,Oil Filter,25.5,97620,2025-04-17,Scheduled
+MAIN10379,EQX1027,2025-06-05,Preventive Maintenance,Low Engine Oil,Hydraulic Hose,18.1,53470,2025-07-20,Completed
+MAIN10380,EQX1152,2025-01-10,Emergency Repair,Fuel Leakage,Engine Belt,35.2,37587,2025-02-09,Completed
+MAIN10381,EQX1146,2025-02-09,Corrective Maintenance,Engine Overheating,Fuel Filter,10.5,7836,2025-03-11,Completed
+MAIN10382,EQX1288,2025-02-26,Preventive Maintenance,Hydraulic Leakage,Bucket Teeth,17.6,81138,2025-03-28,Completed
+MAIN10383,EQX1189,2025-04-01,Preventive Maintenance,Fuel Leakage,Battery,8.1,87416,2025-05-31,Completed
+MAIN10384,EQX1086,2024-07-22,Corrective Maintenance,Track Wear,Hydraulic Hose,35.3,149061,2024-09-05,Scheduled
+MAIN10385,EQX1109,2024-11-13,Inspection,No Issue,None,33.5,104230,2024-12-13,Completed
+MAIN10386,EQX1174,2025-05-27,Emergency Repair,Battery Failure,Oil Filter,18.1,129444,2025-07-26,In Progress
+MAIN10387,EQX1264,2025-06-25,Emergency Repair,Battery Failure,Brake Pads,22.9,40956,2025-08-09,Completed
+MAIN10388,EQX1051,2025-06-22,Emergency Repair,Battery Failure,Track Chain,19.7,37479,2025-08-06,Completed
+MAIN10389,EQX1129,2024-09-13,Hydraulic Service,Hydraulic Leakage,Hydraulic Pump,27.1,127271,2024-11-12,Completed
+MAIN10390,EQX1099,2025-06-10,Corrective Maintenance,Battery Failure,Oil Filter,34.0,19516,2025-07-25,Completed
+MAIN10391,EQX1225,2024-10-28,Corrective Maintenance,Battery Failure,Oil Filter,9.9,48560,2024-11-27,Completed
+MAIN10392,EQX1011,2024-09-18,Corrective Maintenance,Low Engine Oil,Battery,34.8,24834,2024-10-18,Completed
+MAIN10393,EQX1113,2025-06-08,Oil Change,Engine Overheating,Battery,47.4,62475,2025-08-07,Completed
+MAIN10394,EQX1254,2024-08-25,Corrective Maintenance,Fuel Leakage,Oil Filter,13.1,16823,2024-10-09,Completed
+MAIN10395,EQX1033,2024-11-26,Corrective Maintenance,Fuel Leakage,Battery,29.0,48274,2025-01-25,In Progress
+MAIN10396,EQX1212,2025-01-01,Corrective Maintenance,Engine Overheating,Hydraulic Hose,24.9,145522,2025-02-15,Completed
+MAIN10397,EQX1149,2024-08-01,Emergency Repair,Fuel Leakage,Oil Filter,25.0,76217,2024-09-15,Completed
+MAIN10398,EQX1149,2024-07-24,Corrective Maintenance,Bucket Damage,Battery,16.9,121567,2024-08-23,Completed
+MAIN10399,EQX1022,2025-05-17,Corrective Maintenance,Track Wear,Oil Filter,13.5,41167,2025-07-01,Completed
+MAIN10400,EQX1142,2024-11-22,Emergency Repair,Low Engine Oil,Oil Filter,13.8,136363,2024-12-22,Completed
+MAIN10401,EQX1095,2025-06-01,Preventive Maintenance,Transmission Fault,Bucket Teeth,12.7,22340,2025-07-01,Completed
+MAIN10402,EQX1110,2025-05-12,Corrective Maintenance,Hydraulic Leakage,Hydraulic Pump,9.3,105096,2025-06-11,Completed
+MAIN10403,EQX1045,2025-01-25,Preventive Maintenance,Bucket Damage,Bucket Teeth,4.7,37530,2025-03-11,Completed
+MAIN10404,EQX1060,2025-04-13,Preventive Maintenance,Track Wear,Fuel Filter,35.6,116495,2025-05-28,Completed
+MAIN10405,EQX1046,2024-07-26,Emergency Repair,Track Wear,Battery,37.9,113627,2024-09-24,Completed
+MAIN10406,EQX1250,2025-03-31,Corrective Maintenance,Brake Wear,Engine Belt,29.3,20113,2025-04-30,Completed
+MAIN10407,EQX1137,2025-02-01,Corrective Maintenance,Track Wear,Oil Filter,32.5,135845,2025-04-02,Completed
+MAIN10408,EQX1027,2025-06-06,Oil Change,Low Engine Oil,Hydraulic Hose,20.5,76267,2025-08-05,Completed
+MAIN10409,EQX1061,2025-06-27,Preventive Maintenance,Track Wear,Oil Filter,6.9,26841,2025-08-11,Completed
+MAIN10410,EQX1298,2025-03-22,Inspection,No Issue,None,4.7,90773,2025-05-21,Completed
+MAIN10411,EQX1039,2024-07-19,Inspection,No Issue,None,35.5,93938,2024-09-17,Completed
+MAIN10412,EQX1261,2024-12-23,Corrective Maintenance,Bucket Damage,Fuel Filter,8.7,35039,2025-01-22,In Progress
+MAIN10413,EQX1026,2024-07-28,Hydraulic Service,Fuel Leakage,Engine Belt,31.5,43582,2024-09-26,Completed
+MAIN10414,EQX1273,2024-09-13,Hydraulic Service,Hydraulic Leakage,Battery,41.7,114390,2024-10-13,Completed
+MAIN10415,EQX1210,2024-11-30,Emergency Repair,Hydraulic Leakage,Hydraulic Hose,27.3,126144,2024-12-30,Completed
+MAIN10416,EQX1102,2024-08-08,Emergency Repair,Low Engine Oil,Hydraulic Pump,8.1,67501,2024-10-07,Completed
+MAIN10417,EQX1204,2024-09-03,Inspection,No Issue,None,42.1,140571,2024-11-02,In Progress
+MAIN10418,EQX1041,2025-02-08,Hydraulic Service,Low Engine Oil,Engine Belt,25.8,21953,2025-04-09,Completed
+MAIN10419,EQX1260,2024-12-08,Emergency Repair,Engine Overheating,Oil Filter,28.7,15985,2025-01-07,Completed
+MAIN10420,EQX1107,2025-03-03,Emergency Repair,Engine Overheating,Battery,13.5,125359,2025-04-02,Completed
+MAIN10421,EQX1175,2025-04-05,Emergency Repair,Brake Wear,Hydraulic Pump,36.6,144949,2025-06-04,Completed
+MAIN10422,EQX1226,2024-11-14,Preventive Maintenance,Fuel Leakage,Hydraulic Pump,27.4,70863,2024-12-29,Completed
+MAIN10423,EQX1106,2024-10-29,Preventive Maintenance,Battery Failure,Battery,18.3,32484,2024-12-13,In Progress
+MAIN10424,EQX1212,2025-05-15,Preventive Maintenance,Track Wear,Track Chain,37.1,77222,2025-07-14,Completed
+MAIN10425,EQX1247,2025-01-07,Corrective Maintenance,Engine Overheating,Oil Filter,24.9,7543,2025-02-06,Scheduled
+MAIN10426,EQX1240,2024-11-27,Corrective Maintenance,Fuel Leakage,Bucket Teeth,47.6,42723,2024-12-27,Completed
+MAIN10427,EQX1180,2024-07-24,Corrective Maintenance,Hydraulic Leakage,Hydraulic Hose,31.4,132813,2024-08-23,Completed
+MAIN10428,EQX1045,2024-10-14,Preventive Maintenance,Brake Wear,Engine Belt,36.6,120047,2024-12-13,In Progress
+MAIN10429,EQX1081,2025-06-05,Emergency Repair,Transmission Fault,Oil Filter,34.9,75376,2025-07-20,Completed
+MAIN10430,EQX1107,2024-10-27,Corrective Maintenance,Fuel Leakage,Battery,13.0,102115,2024-12-11,Completed
+MAIN10431,EQX1046,2024-12-06,Emergency Repair,Track Wear,Hydraulic Hose,15.2,41400,2025-01-05,Completed
+MAIN10432,EQX1250,2024-07-10,Preventive Maintenance,Transmission Fault,Fuel Filter,43.7,25737,2024-09-08,Scheduled
+MAIN10433,EQX1147,2024-10-15,Emergency Repair,Hydraulic Leakage,Hydraulic Pump,13.7,102710,2024-12-14,Completed
+MAIN10434,EQX1007,2024-08-11,Corrective Maintenance,Transmission Fault,Hydraulic Hose,9.7,30106,2024-09-10,Completed
+MAIN10435,EQX1154,2025-03-02,Corrective Maintenance,Low Engine Oil,Brake Pads,8.0,78773,2025-04-16,Completed
+MAIN10436,EQX1205,2024-10-18,Emergency Repair,Battery Failure,Oil Filter,23.3,134764,2024-12-02,Completed
+MAIN10437,EQX1199,2025-05-01,Emergency Repair,Brake Wear,Oil Filter,13.4,12803,2025-06-30,Completed
+MAIN10438,EQX1108,2025-03-31,Corrective Maintenance,Brake Wear,Hydraulic Hose,21.3,59310,2025-05-30,In Progress
+MAIN10439,EQX1274,2025-04-27,Preventive Maintenance,Hydraulic Leakage,Oil Filter,17.2,71049,2025-06-26,Completed
+MAIN10440,EQX1082,2025-06-22,Hydraulic Service,Battery Failure,Bucket Teeth,30.7,136507,2025-07-22,Completed
+MAIN10441,EQX1013,2024-10-27,Preventive Maintenance,Low Engine Oil,Oil Filter,32.7,135294,2024-11-26,Completed
+MAIN10442,EQX1238,2025-06-30,Emergency Repair,Brake Wear,Oil Filter,44.4,35522,2025-08-29,Completed
+MAIN10443,EQX1067,2025-01-14,Emergency Repair,Engine Overheating,Fuel Filter,29.2,144352,2025-02-13,Scheduled
+MAIN10444,EQX1122,2025-05-26,Emergency Repair,Bucket Damage,Brake Pads,46.8,98758,2025-07-10,Completed
+MAIN10445,EQX1285,2025-05-14,Emergency Repair,Engine Overheating,Battery,35.8,83470,2025-06-13,Completed
+MAIN10446,EQX1202,2024-12-06,Emergency Repair,Transmission Fault,Engine Belt,8.8,53716,2025-02-04,Completed
+MAIN10447,EQX1067,2024-08-02,Emergency Repair,Battery Failure,Hydraulic Pump,3.3,35260,2024-09-01,Completed
+MAIN10448,EQX1099,2025-04-03,Hydraulic Service,Track Wear,Hydraulic Hose,8.1,76216,2025-05-18,Completed
+MAIN10449,EQX1188,2024-07-23,Inspection,No Issue,None,40.2,62593,2024-08-22,Scheduled
+MAIN10450,EQX1132,2024-12-04,Corrective Maintenance,Brake Wear,Track Chain,31.5,96789,2025-01-03,In Progress
+MAIN10451,EQX1228,2024-12-20,Emergency Repair,Transmission Fault,Brake Pads,35.8,20806,2025-02-18,Completed
+MAIN10452,EQX1183,2024-12-28,Oil Change,Brake Wear,Oil Filter,41.3,7045,2025-02-11,Completed
+MAIN10453,EQX1295,2025-03-08,Emergency Repair,Brake Wear,Track Chain,26.8,30628,2025-04-07,Completed
+MAIN10454,EQX1283,2024-12-21,Hydraulic Service,Track Wear,Hydraulic Hose,32.4,120818,2025-01-20,Completed
+MAIN10455,EQX1163,2025-01-19,Corrective Maintenance,Bucket Damage,Bucket Teeth,14.3,148697,2025-02-18,Completed
+MAIN10456,EQX1016,2025-06-11,Oil Change,Low Engine Oil,Hydraulic Pump,45.8,122484,2025-07-26,Completed
+MAIN10457,EQX1190,2025-03-30,Emergency Repair,Bucket Damage,Fuel Filter,36.1,57926,2025-05-14,Completed
+MAIN10458,EQX1277,2024-08-10,Inspection,No Issue,None,4.6,55669,2024-09-09,Completed
+MAIN10459,EQX1244,2024-08-28,Corrective Maintenance,Hydraulic Leakage,Hydraulic Pump,34.1,74736,2024-10-12,Completed
+MAIN10460,EQX1264,2025-02-20,Corrective Maintenance,Hydraulic Leakage,Fuel Filter,25.2,127489,2025-03-22,Completed
+MAIN10461,EQX1196,2025-04-18,Inspection,No Issue,None,5.7,9465,2025-05-18,In Progress
+MAIN10462,EQX1084,2024-10-20,Preventive Maintenance,Fuel Leakage,Bucket Teeth,40.5,86295,2024-12-04,In Progress
+MAIN10463,EQX1014,2024-07-28,Corrective Maintenance,Transmission Fault,Hydraulic Hose,3.9,6278,2024-09-11,Completed
+MAIN10464,EQX1172,2025-03-26,Corrective Maintenance,Brake Wear,Track Chain,17.1,125331,2025-04-25,Scheduled
+MAIN10465,EQX1275,2024-07-19,Preventive Maintenance,Track Wear,Oil Filter,43.2,25798,2024-09-02,Completed
+MAIN10466,EQX1125,2025-05-15,Preventive Maintenance,Brake Wear,Track Chain,25.4,45732,2025-06-29,Completed
+MAIN10467,EQX1180,2025-05-22,Corrective Maintenance,Battery Failure,Track Chain,18.6,105939,2025-07-06,Completed
+MAIN10468,EQX1024,2025-02-15,Corrective Maintenance,Engine Overheating,Battery,14.1,52007,2025-03-17,Completed
+MAIN10469,EQX1109,2024-08-15,Corrective Maintenance,Fuel Leakage,Track Chain,30.4,61383,2024-10-14,Completed
+MAIN10470,EQX1010,2024-07-27,Inspection,No Issue,None,12.6,114149,2024-08-26,Scheduled
+MAIN10471,EQX1172,2024-11-06,Corrective Maintenance,Transmission Fault,Engine Belt,31.7,127476,2024-12-06,In Progress
+MAIN10472,EQX1086,2025-05-15,Inspection,No Issue,None,6.8,133226,2025-06-14,Completed
+MAIN10473,EQX1067,2025-02-06,Emergency Repair,Engine Overheating,Brake Pads,24.7,127729,2025-03-08,Completed
+MAIN10474,EQX1103,2025-02-22,Preventive Maintenance,Fuel Leakage,Hydraulic Hose,43.1,54420,2025-04-08,Completed
+MAIN10475,EQX1138,2025-06-13,Inspection,No Issue,None,43.0,87094,2025-08-12,Scheduled
+MAIN10476,EQX1009,2024-08-16,Hydraulic Service,Bucket Damage,Track Chain,22.3,99209,2024-09-30,Completed
+MAIN10477,EQX1294,2025-05-06,Emergency Repair,Transmission Fault,Hydraulic Hose,15.4,34981,2025-07-05,Completed
+MAIN10478,EQX1046,2025-04-12,Hydraulic Service,Battery Failure,Bucket Teeth,32.5,108869,2025-05-27,Completed
+MAIN10479,EQX1172,2025-05-18,Emergency Repair,Low Engine Oil,Brake Pads,42.5,22541,2025-07-17,In Progress
+MAIN10480,EQX1273,2024-11-04,Hydraulic Service,Fuel Leakage,Oil Filter,26.8,62824,2024-12-19,Completed
+MAIN10481,EQX1252,2024-11-28,Hydraulic Service,Brake Wear,Bucket Teeth,45.1,123098,2025-01-12,Completed
+MAIN10482,EQX1107,2024-12-23,Emergency Repair,Transmission Fault,Brake Pads,7.3,43959,2025-02-06,In Progress
+MAIN10483,EQX1086,2024-11-12,Preventive Maintenance,Hydraulic Leakage,Brake Pads,36.3,69694,2025-01-11,Completed
+MAIN10484,EQX1277,2025-05-26,Inspection,No Issue,None,45.1,47817,2025-07-10,Scheduled
+MAIN10485,EQX1185,2025-02-17,Inspection,No Issue,None,2.9,44143,2025-04-03,Completed
+MAIN10486,EQX1135,2025-04-20,Emergency Repair,Track Wear,Bucket Teeth,28.2,57236,2025-06-19,Scheduled
+MAIN10487,EQX1132,2025-05-01,Emergency Repair,Track Wear,Engine Belt,12.0,6044,2025-05-31,Completed
+MAIN10488,EQX1039,2025-05-03,Corrective Maintenance,Hydraulic Leakage,Hydraulic Pump,30.4,59295,2025-06-02,Completed
+MAIN10489,EQX1024,2024-07-25,Inspection,No Issue,None,43.3,16011,2024-08-24,In Progress
+MAIN10490,EQX1257,2025-02-17,Corrective Maintenance,Transmission Fault,Hydraulic Pump,2.1,131127,2025-04-18,Scheduled
+MAIN10491,EQX1051,2024-09-12,Corrective Maintenance,Hydraulic Leakage,Battery,34.9,94706,2024-11-11,Completed
+MAIN10492,EQX1221,2024-07-31,Emergency Repair,Transmission Fault,Engine Belt,45.2,69328,2024-09-29,Completed
+MAIN10493,EQX1002,2024-08-09,Inspection,No Issue,None,26.1,102849,2024-10-08,Completed
+MAIN10494,EQX1115,2024-10-09,Corrective Maintenance,Hydraulic Leakage,Engine Belt,40.7,34568,2024-12-08,Completed
+MAIN10495,EQX1097,2025-03-12,Corrective Maintenance,Track Wear,Track Chain,21.6,59701,2025-04-26,Completed
+MAIN10496,EQX1275,2025-01-11,Inspection,No Issue,None,24.2,79353,2025-02-25,Completed
+MAIN10497,EQX1123,2024-07-18,Corrective Maintenance,Hydraulic Leakage,Fuel Filter,40.0,7640,2024-09-16,Completed
+MAIN10498,EQX1219,2024-11-07,Preventive Maintenance,Low Engine Oil,Battery,8.3,49350,2024-12-07,Completed
+MAIN10499,EQX1248,2024-08-11,Preventive Maintenance,Hydraulic Leakage,Oil Filter,33.0,85075,2024-09-25,In Progress
+MAIN10500,EQX1079,2025-02-10,Preventive Maintenance,Bucket Damage,Fuel Filter,37.9,47061,2025-03-27,In Progress
+MAIN10501,EQX1142,2024-10-27,Corrective Maintenance,Low Engine Oil,Hydraulic Pump,28.1,78800,2024-11-26,Completed
+MAIN10502,EQX1193,2024-08-27,Corrective Maintenance,Engine Overheating,Battery,22.6,45608,2024-09-26,Completed
+MAIN10503,EQX1252,2024-08-17,Emergency Repair,Brake Wear,Oil Filter,17.8,103855,2024-10-16,Completed
+MAIN10504,EQX1235,2024-08-19,Preventive Maintenance,Fuel Leakage,Hydraulic Pump,42.9,84797,2024-10-03,Completed
+MAIN10505,EQX1160,2024-12-23,Inspection,No Issue,None,7.0,26460,2025-02-21,Completed
+MAIN10506,EQX1033,2025-03-12,Hydraulic Service,Brake Wear,Battery,24.9,93843,2025-04-11,Scheduled
+MAIN10507,EQX1273,2024-12-09,Corrective Maintenance,Bucket Damage,Track Chain,21.9,40698,2025-01-08,Completed
+MAIN10508,EQX1255,2025-01-31,Preventive Maintenance,Track Wear,Battery,4.4,18462,2025-03-17,Completed
+MAIN10509,EQX1151,2025-06-05,Corrective Maintenance,Transmission Fault,Brake Pads,4.4,65451,2025-08-04,Completed
+MAIN10510,EQX1132,2025-06-19,Corrective Maintenance,Fuel Leakage,Fuel Filter,11.8,110721,2025-08-03,Scheduled
+MAIN10511,EQX1072,2025-06-23,Inspection,No Issue,None,32.8,16617,2025-08-07,Completed
+MAIN10512,EQX1113,2025-03-14,Preventive Maintenance,Battery Failure,Hydraulic Hose,38.6,103763,2025-04-28,In Progress
+MAIN10513,EQX1017,2025-01-16,Corrective Maintenance,Fuel Leakage,Battery,27.6,114787,2025-02-15,Completed
+MAIN10514,EQX1294,2025-05-08,Corrective Maintenance,Fuel Leakage,Hydraulic Pump,44.3,5936,2025-07-07,Completed
+MAIN10515,EQX1016,2024-11-03,Oil Change,Engine Overheating,Brake Pads,16.5,59175,2024-12-18,In Progress
+MAIN10516,EQX1113,2024-07-17,Inspection,No Issue,None,44.9,106924,2024-08-16,Completed
+MAIN10517,EQX1002,2025-04-19,Inspection,No Issue,None,10.3,62859,2025-06-18,In Progress
+MAIN10518,EQX1170,2024-10-02,Emergency Repair,Fuel Leakage,Battery,13.7,26763,2024-12-01,Completed
+MAIN10519,EQX1097,2025-03-18,Corrective Maintenance,Bucket Damage,Track Chain,40.7,79291,2025-05-02,Completed
+MAIN10520,EQX1291,2025-03-08,Inspection,No Issue,None,7.3,27119,2025-04-22,Completed
+MAIN10521,EQX1131,2024-11-04,Emergency Repair,Hydraulic Leakage,Oil Filter,21.7,149806,2024-12-19,Completed
+MAIN10522,EQX1067,2024-12-19,Corrective Maintenance,Hydraulic Leakage,Oil Filter,29.6,146800,2025-02-17,Completed
+MAIN10523,EQX1244,2025-01-19,Emergency Repair,Brake Wear,Oil Filter,22.1,41074,2025-03-05,Completed
+MAIN10524,EQX1028,2025-03-16,Hydraulic Service,Battery Failure,Battery,30.2,105502,2025-04-30,Completed
+MAIN10525,EQX1082,2025-05-30,Corrective Maintenance,Track Wear,Oil Filter,47.7,75035,2025-06-29,Completed
+MAIN10526,EQX1280,2025-04-06,Inspection,No Issue,None,19.5,116756,2025-06-05,Completed
+MAIN10527,EQX1273,2024-07-17,Emergency Repair,Low Engine Oil,Engine Belt,20.5,116937,2024-09-15,In Progress
+MAIN10528,EQX1167,2025-06-13,Preventive Maintenance,Hydraulic Leakage,Brake Pads,9.4,46872,2025-07-13,Completed
+MAIN10529,EQX1251,2025-01-25,Emergency Repair,Track Wear,Bucket Teeth,4.8,93513,2025-02-24,Completed
+MAIN10530,EQX1136,2025-03-06,Inspection,No Issue,None,13.7,144908,2025-04-05,Scheduled
+MAIN10531,EQX1058,2024-12-07,Inspection,No Issue,None,13.6,98264,2025-01-21,Completed
+MAIN10532,EQX1219,2024-07-14,Preventive Maintenance,Bucket Damage,Brake Pads,39.7,104810,2024-08-28,In Progress
+MAIN10533,EQX1221,2024-07-25,Hydraulic Service,Fuel Leakage,Hydraulic Pump,22.9,77984,2024-09-08,Completed
+MAIN10534,EQX1119,2025-06-26,Emergency Repair,Bucket Damage,Oil Filter,4.5,145411,2025-08-25,Completed
+MAIN10535,EQX1030,2024-12-29,Preventive Maintenance,Brake Wear,Oil Filter,44.3,116727,2025-02-27,Completed
+MAIN10536,EQX1176,2025-01-01,Preventive Maintenance,Transmission Fault,Battery,30.1,71977,2025-01-31,Completed
+MAIN10537,EQX1102,2025-05-12,Emergency Repair,Low Engine Oil,Battery,7.5,68572,2025-07-11,Completed
+MAIN10538,EQX1142,2024-08-03,Corrective Maintenance,Low Engine Oil,Fuel Filter,45.4,107690,2024-10-02,Scheduled
+MAIN10539,EQX1279,2024-07-01,Corrective Maintenance,Track Wear,Engine Belt,18.8,24023,2024-08-30,Scheduled
+MAIN10540,EQX1273,2024-11-27,Corrective Maintenance,Hydraulic Leakage,Bucket Teeth,5.8,85372,2025-01-11,Completed
+MAIN10541,EQX1235,2024-08-27,Preventive Maintenance,Hydraulic Leakage,Engine Belt,47.0,32844,2024-10-11,Completed
+MAIN10542,EQX1067,2025-02-04,Corrective Maintenance,Engine Overheating,Fuel Filter,34.3,86355,2025-03-21,Completed
+MAIN10543,EQX1226,2024-07-29,Preventive Maintenance,Hydraulic Leakage,Hydraulic Pump,8.4,21311,2024-09-12,Completed
+MAIN10544,EQX1087,2025-01-30,Hydraulic Service,Battery Failure,Oil Filter,31.7,56424,2025-03-31,Completed
+MAIN10545,EQX1235,2025-05-03,Inspection,No Issue,None,5.5,23718,2025-07-02,Scheduled
+MAIN10546,EQX1125,2025-03-08,Corrective Maintenance,Engine Overheating,Hydraulic Pump,16.5,66679,2025-05-07,Completed
+MAIN10547,EQX1257,2024-11-05,Corrective Maintenance,Battery Failure,Bucket Teeth,8.5,143623,2025-01-04,Completed
+MAIN10548,EQX1192,2025-01-04,Preventive Maintenance,Battery Failure,Bucket Teeth,37.4,58049,2025-03-05,Completed
+MAIN10549,EQX1288,2024-08-05,Corrective Maintenance,Battery Failure,Brake Pads,44.5,93464,2024-10-04,Completed
+MAIN10550,EQX1117,2025-04-19,Corrective Maintenance,Battery Failure,Hydraulic Hose,10.8,102379,2025-05-19,Completed
+MAIN10551,EQX1172,2024-09-15,Corrective Maintenance,Low Engine Oil,Fuel Filter,4.9,122331,2024-10-15,Completed
+MAIN10552,EQX1011,2024-12-26,Emergency Repair,Track Wear,Engine Belt,8.9,22207,2025-02-09,Completed
+MAIN10553,EQX1272,2024-08-25,Corrective Maintenance,Hydraulic Leakage,Oil Filter,47.5,90825,2024-10-09,Completed
+MAIN10554,EQX1177,2024-09-01,Emergency Repair,Bucket Damage,Track Chain,17.7,136976,2024-10-31,In Progress
+MAIN10555,EQX1206,2024-10-22,Emergency Repair,Battery Failure,Fuel Filter,5.8,133949,2024-12-21,Scheduled
+MAIN10556,EQX1274,2025-05-30,Preventive Maintenance,Fuel Leakage,Oil Filter,34.6,36779,2025-06-29,Completed
+MAIN10557,EQX1072,2024-07-09,Inspection,No Issue,None,37.6,44339,2024-08-08,Completed
+MAIN10558,EQX1049,2024-08-28,Corrective Maintenance,Low Engine Oil,Track Chain,45.9,114131,2024-10-12,Completed
+MAIN10559,EQX1246,2025-06-19,Emergency Repair,Bucket Damage,Fuel Filter,42.5,83346,2025-08-03,Completed
+MAIN10560,EQX1126,2024-11-16,Corrective Maintenance,Fuel Leakage,Bucket Teeth,47.9,39843,2024-12-16,Scheduled
+MAIN10561,EQX1106,2024-12-21,Inspection,No Issue,None,31.8,91136,2025-02-19,Completed
+MAIN10562,EQX1099,2024-07-25,Emergency Repair,Brake Wear,Brake Pads,2.5,149512,2024-09-23,Completed
+MAIN10563,EQX1055,2025-03-19,Corrective Maintenance,Battery Failure,Engine Belt,15.8,135903,2025-04-18,Scheduled
+MAIN10564,EQX1097,2024-09-10,Hydraulic Service,Hydraulic Leakage,Battery,28.3,134106,2024-10-25,Completed
+MAIN10565,EQX1026,2025-02-22,Emergency Repair,Hydraulic Leakage,Hydraulic Hose,29.0,34475,2025-03-24,In Progress
+MAIN10566,EQX1115,2025-05-23,Hydraulic Service,Brake Wear,Bucket Teeth,11.5,124533,2025-06-22,Completed
+MAIN10567,EQX1282,2024-07-06,Preventive Maintenance,Track Wear,Brake Pads,30.8,52169,2024-09-04,Completed
+MAIN10568,EQX1129,2024-09-05,Emergency Repair,Track Wear,Oil Filter,33.4,142790,2024-10-05,Completed
+MAIN10569,EQX1115,2025-01-05,Hydraulic Service,Engine Overheating,Oil Filter,6.1,10457,2025-03-06,Completed
+MAIN10570,EQX1258,2024-09-03,Emergency Repair,Bucket Damage,Hydraulic Hose,27.2,104651,2024-11-02,In Progress
+MAIN10571,EQX1172,2025-01-08,Corrective Maintenance,Battery Failure,Engine Belt,5.6,14271,2025-02-22,Completed
+MAIN10572,EQX1161,2024-08-01,Preventive Maintenance,Track Wear,Fuel Filter,18.1,13437,2024-08-31,Completed
+MAIN10573,EQX1292,2024-08-25,Corrective Maintenance,Brake Wear,Fuel Filter,47.0,39293,2024-10-24,Scheduled
+MAIN10574,EQX1124,2024-11-03,Preventive Maintenance,Fuel Leakage,Engine Belt,11.5,49438,2025-01-02,Completed
+MAIN10575,EQX1062,2024-12-17,Inspection,No Issue,None,31.3,81216,2025-02-15,Completed
+MAIN10576,EQX1085,2024-09-30,Preventive Maintenance,Track Wear,Engine Belt,31.7,144719,2024-10-30,In Progress
+MAIN10577,EQX1138,2025-03-21,Inspection,No Issue,None,13.3,121417,2025-05-05,Completed
+MAIN10578,EQX1012,2024-11-07,Emergency Repair,Transmission Fault,Oil Filter,14.4,149599,2025-01-06,In Progress
+MAIN10579,EQX1198,2025-06-19,Inspection,No Issue,None,16.5,146417,2025-08-18,Scheduled
+MAIN10580,EQX1052,2024-07-25,Preventive Maintenance,Track Wear,Brake Pads,23.8,64721,2024-09-23,Scheduled
+MAIN10581,EQX1011,2024-08-07,Hydraulic Service,Hydraulic Leakage,Oil Filter,12.2,144438,2024-09-06,Completed
+MAIN10582,EQX1168,2025-01-29,Corrective Maintenance,Track Wear,Fuel Filter,21.8,138765,2025-02-28,Completed
+MAIN10583,EQX1280,2024-10-10,Preventive Maintenance,Brake Wear,Engine Belt,7.0,90539,2024-11-24,Completed
+MAIN10584,EQX1082,2025-01-04,Emergency Repair,Track Wear,Oil Filter,17.5,88923,2025-03-05,Completed
+MAIN10585,EQX1009,2024-07-22,Emergency Repair,Engine Overheating,Fuel Filter,12.2,50930,2024-08-21,Completed
+MAIN10586,EQX1223,2025-05-10,Inspection,No Issue,None,10.9,64747,2025-06-09,Completed
+MAIN10587,EQX1194,2024-11-16,Oil Change,Track Wear,Bucket Teeth,4.4,24227,2024-12-16,Completed
+MAIN10588,EQX1264,2024-08-18,Corrective Maintenance,Low Engine Oil,Bucket Teeth,45.4,136833,2024-10-02,Completed
+MAIN10589,EQX1219,2025-03-24,Preventive Maintenance,Engine Overheating,Oil Filter,40.5,39468,2025-04-23,Completed
+MAIN10590,EQX1146,2024-10-07,Corrective Maintenance,Battery Failure,Bucket Teeth,31.4,29727,2024-11-06,Completed
+MAIN10591,EQX1229,2025-05-25,Hydraulic Service,Hydraulic Leakage,Oil Filter,45.6,12133,2025-07-09,Completed
+MAIN10592,EQX1113,2024-11-17,Preventive Maintenance,Low Engine Oil,Hydraulic Hose,17.3,42049,2025-01-16,Completed
+MAIN10593,EQX1260,2024-11-02,Corrective Maintenance,Engine Overheating,Engine Belt,12.0,148580,2024-12-02,Completed
+MAIN10594,EQX1246,2025-06-22,Emergency Repair,Fuel Leakage,Bucket Teeth,34.2,54355,2025-08-21,Completed
+MAIN10595,EQX1128,2024-07-07,Hydraulic Service,Hydraulic Leakage,Brake Pads,37.1,10045,2024-08-06,Completed
+MAIN10596,EQX1198,2024-08-25,Corrective Maintenance,Low Engine Oil,Brake Pads,39.9,18664,2024-10-24,Completed
+MAIN10597,EQX1022,2025-05-17,Emergency Repair,Engine Overheating,Hydraulic Pump,30.5,9018,2025-07-16,Completed
+MAIN10598,EQX1188,2024-12-05,Inspection,No Issue,None,29.1,114403,2025-01-19,Completed
+MAIN10599,EQX1011,2024-10-12,Emergency Repair,Fuel Leakage,Track Chain,16.5,94200,2024-11-11,Completed
+MAIN10600,EQX1181,2025-04-15,Inspection,No Issue,None,23.5,139307,2025-05-15,Completed
+MAIN10601,EQX1004,2025-01-07,Corrective Maintenance,Brake Wear,Fuel Filter,46.9,119184,2025-02-06,Completed
+MAIN10602,EQX1007,2025-04-09,Emergency Repair,Battery Failure,Hydraulic Pump,19.8,66969,2025-05-24,Completed
+MAIN10603,EQX1091,2025-05-28,Emergency Repair,Engine Overheating,Hydraulic Hose,25.4,32559,2025-07-27,In Progress
+MAIN10604,EQX1085,2025-01-02,Corrective Maintenance,Engine Overheating,Track Chain,33.7,50021,2025-03-03,Completed
+MAIN10605,EQX1040,2024-11-01,Emergency Repair,Engine Overheating,Bucket Teeth,29.8,140374,2024-12-31,Completed
+MAIN10606,EQX1199,2025-05-13,Corrective Maintenance,Engine Overheating,Hydraulic Pump,43.5,16418,2025-06-12,Completed
+MAIN10607,EQX1261,2025-02-21,Preventive Maintenance,Brake Wear,Bucket Teeth,23.6,95890,2025-03-23,Completed
+MAIN10608,EQX1055,2024-11-25,Hydraulic Service,Low Engine Oil,Battery,10.7,39482,2025-01-09,Completed
+MAIN10609,EQX1017,2025-05-02,Emergency Repair,Battery Failure,Engine Belt,9.7,92418,2025-06-01,Completed
+MAIN10610,EQX1263,2025-04-23,Corrective Maintenance,Low Engine Oil,Battery,25.3,48923,2025-06-07,Completed
+MAIN10611,EQX1245,2025-02-04,Emergency Repair,Battery Failure,Battery,34.7,48509,2025-04-05,Completed
+MAIN10612,EQX1104,2024-09-29,Corrective Maintenance,Brake Wear,Hydraulic Hose,40.4,133973,2024-10-29,Completed
+MAIN10613,EQX1063,2025-04-10,Corrective Maintenance,Brake Wear,Hydraulic Hose,32.3,92089,2025-05-10,Completed
+MAIN10614,EQX1290,2024-07-08,Inspection,No Issue,None,35.9,102515,2024-08-07,Completed
+MAIN10615,EQX1106,2024-08-15,Inspection,No Issue,None,42.4,18797,2024-09-29,Completed
+MAIN10616,EQX1137,2025-06-06,Emergency Repair,Engine Overheating,Fuel Filter,17.3,72409,2025-07-21,Completed
+MAIN10617,EQX1217,2025-04-17,Corrective Maintenance,Track Wear,Hydraulic Pump,15.8,43114,2025-06-16,Completed
+MAIN10618,EQX1096,2024-07-16,Preventive Maintenance,Fuel Leakage,Fuel Filter,44.0,47428,2024-08-15,Completed
+MAIN10619,EQX1094,2025-04-20,Corrective Maintenance,Hydraulic Leakage,Battery,29.0,78496,2025-06-19,Completed
+MAIN10620,EQX1278,2024-12-20,Hydraulic Service,Low Engine Oil,Track Chain,21.7,21956,2025-02-18,Completed
+MAIN10621,EQX1268,2024-08-19,Corrective Maintenance,Battery Failure,Engine Belt,31.8,66274,2024-10-03,Completed
+MAIN10622,EQX1112,2024-08-25,Emergency Repair,Battery Failure,Battery,17.9,78766,2024-09-24,Completed
+MAIN10623,EQX1166,2025-06-26,Oil Change,Fuel Leakage,Fuel Filter,36.1,21261,2025-07-26,Completed
+MAIN10624,EQX1292,2025-06-04,Corrective Maintenance,Bucket Damage,Bucket Teeth,37.2,22841,2025-08-03,Completed
+MAIN10625,EQX1197,2025-02-25,Corrective Maintenance,Transmission Fault,Hydraulic Hose,46.8,119513,2025-04-26,Completed
+MAIN10626,EQX1199,2024-12-13,Hydraulic Service,Engine Overheating,Hydraulic Hose,24.4,110372,2025-02-11,Completed
+MAIN10627,EQX1226,2025-02-19,Inspection,No Issue,None,29.3,79880,2025-03-21,Completed
+MAIN10628,EQX1239,2025-02-21,Inspection,No Issue,None,13.5,132052,2025-04-22,Completed
+MAIN10629,EQX1073,2024-11-01,Emergency Repair,Brake Wear,Bucket Teeth,9.3,114966,2024-12-16,Completed
+MAIN10630,EQX1124,2025-06-11,Preventive Maintenance,Bucket Damage,Fuel Filter,34.1,50463,2025-08-10,Completed
+MAIN10631,EQX1109,2025-05-21,Preventive Maintenance,Bucket Damage,Fuel Filter,44.7,82838,2025-06-20,Completed
+MAIN10632,EQX1117,2025-05-04,Emergency Repair,Fuel Leakage,Track Chain,38.3,133684,2025-07-03,Completed
+MAIN10633,EQX1299,2024-08-13,Preventive Maintenance,Hydraulic Leakage,Engine Belt,11.3,138303,2024-09-12,Completed
+MAIN10634,EQX1099,2025-06-27,Emergency Repair,Low Engine Oil,Oil Filter,39.5,96778,2025-07-27,Completed
+MAIN10635,EQX1181,2025-01-16,Preventive Maintenance,Track Wear,Fuel Filter,41.1,41999,2025-03-17,Completed
+MAIN10636,EQX1080,2024-12-13,Hydraulic Service,Fuel Leakage,Hydraulic Pump,20.2,53891,2025-01-27,Completed
+MAIN10637,EQX1091,2024-09-29,Emergency Repair,Battery Failure,Brake Pads,34.2,68960,2024-10-29,Scheduled
+MAIN10638,EQX1279,2024-12-04,Preventive Maintenance,Engine Overheating,Engine Belt,8.9,31820,2025-01-18,Completed
+MAIN10639,EQX1292,2024-07-31,Corrective Maintenance,Bucket Damage,Fuel Filter,30.9,62897,2024-08-30,Completed
+MAIN10640,EQX1235,2025-04-13,Inspection,No Issue,None,2.5,86110,2025-05-13,Completed
+MAIN10641,EQX1189,2025-02-12,Preventive Maintenance,Battery Failure,Brake Pads,39.2,109406,2025-04-13,Completed
+MAIN10642,EQX1035,2025-03-17,Oil Change,Engine Overheating,Hydraulic Pump,18.6,119269,2025-05-01,Completed
+MAIN10643,EQX1128,2025-04-08,Corrective Maintenance,Battery Failure,Bucket Teeth,17.5,55116,2025-06-07,Completed
+MAIN10644,EQX1254,2025-03-30,Corrective Maintenance,Hydraulic Leakage,Bucket Teeth,14.9,132270,2025-05-29,Completed
+MAIN10645,EQX1070,2025-02-02,Corrective Maintenance,Bucket Damage,Track Chain,24.9,39503,2025-03-04,Completed
+MAIN10646,EQX1117,2024-07-12,Emergency Repair,Hydraulic Leakage,Track Chain,46.8,39939,2024-08-11,Completed
+MAIN10647,EQX1139,2024-12-09,Preventive Maintenance,Brake Wear,Hydraulic Hose,2.4,108996,2025-01-08,Completed
+MAIN10648,EQX1127,2024-11-18,Emergency Repair,Battery Failure,Bucket Teeth,42.0,104894,2025-01-02,Completed
+MAIN10649,EQX1281,2024-09-09,Corrective Maintenance,Low Engine Oil,Oil Filter,20.1,125054,2024-10-24,Completed
+MAIN10650,EQX1234,2024-07-05,Corrective Maintenance,Bucket Damage,Hydraulic Hose,12.9,82910,2024-09-03,Completed
+MAIN10651,EQX1034,2025-04-21,Corrective Maintenance,Battery Failure,Brake Pads,35.5,92818,2025-06-20,Completed
+MAIN10652,EQX1110,2024-07-10,Corrective Maintenance,Transmission Fault,Engine Belt,44.0,140612,2024-08-24,Completed
+MAIN10653,EQX1196,2024-09-28,Preventive Maintenance,Engine Overheating,Engine Belt,25.0,129582,2024-10-28,Completed
+MAIN10654,EQX1057,2025-04-22,Corrective Maintenance,Battery Failure,Bucket Teeth,15.6,15556,2025-05-22,Completed
+MAIN10655,EQX1241,2024-10-23,Corrective Maintenance,Transmission Fault,Hydraulic Hose,12.1,44433,2024-12-22,Completed
+MAIN10656,EQX1237,2025-05-23,Oil Change,Hydraulic Leakage,Brake Pads,44.1,95607,2025-07-07,Completed
+MAIN10657,EQX1200,2024-10-11,Preventive Maintenance,Brake Wear,Engine Belt,45.0,46007,2024-11-25,Completed
+MAIN10658,EQX1049,2024-09-01,Emergency Repair,Battery Failure,Oil Filter,2.7,111141,2024-10-01,Completed
+MAIN10659,EQX1024,2025-01-16,Preventive Maintenance,Track Wear,Hydraulic Hose,7.9,46939,2025-02-15,Completed
+MAIN10660,EQX1214,2024-07-07,Corrective Maintenance,Transmission Fault,Brake Pads,35.3,108494,2024-08-21,Completed
+MAIN10661,EQX1079,2025-03-20,Inspection,No Issue,None,35.2,17138,2025-05-04,Completed
+MAIN10662,EQX1016,2024-09-24,Oil Change,Bucket Damage,Hydraulic Hose,39.8,14072,2024-11-23,Completed
+MAIN10663,EQX1053,2025-01-10,Oil Change,Low Engine Oil,Oil Filter,46.2,19541,2025-02-09,Completed
+MAIN10664,EQX1189,2024-12-30,Preventive Maintenance,Brake Wear,Hydraulic Hose,30.8,103824,2025-02-13,Completed
+MAIN10665,EQX1170,2024-09-08,Emergency Repair,Track Wear,Brake Pads,46.7,113827,2024-11-07,Completed
+MAIN10666,EQX1178,2024-10-11,Emergency Repair,Engine Overheating,Track Chain,14.3,101021,2024-12-10,Completed
+MAIN10667,EQX1052,2024-12-14,Inspection,No Issue,None,43.7,5055,2025-01-28,Completed
+MAIN10668,EQX1005,2025-01-05,Preventive Maintenance,Track Wear,Brake Pads,22.1,36933,2025-02-04,Completed
+MAIN10669,EQX1291,2025-04-27,Corrective Maintenance,Battery Failure,Hydraulic Pump,27.4,11198,2025-05-27,Completed
+MAIN10670,EQX1269,2024-08-02,Inspection,No Issue,None,27.7,26012,2024-09-16,Completed
+MAIN10671,EQX1034,2024-07-04,Hydraulic Service,Fuel Leakage,Battery,20.3,114506,2024-08-18,Completed
+MAIN10672,EQX1295,2025-01-30,Emergency Repair,Battery Failure,Battery,13.2,128856,2025-03-01,Completed
+MAIN10673,EQX1099,2024-11-30,Corrective Maintenance,Track Wear,Bucket Teeth,29.1,130047,2025-01-29,Completed
+MAIN10674,EQX1186,2024-11-25,Preventive Maintenance,Track Wear,Hydraulic Hose,45.6,139050,2025-01-09,Completed
+MAIN10675,EQX1095,2025-02-01,Corrective Maintenance,Bucket Damage,Bucket Teeth,31.4,88447,2025-03-03,Completed
+MAIN10676,EQX1201,2025-05-05,Corrective Maintenance,Track Wear,Hydraulic Hose,7.1,137088,2025-07-04,Completed
+MAIN10677,EQX1285,2024-07-02,Emergency Repair,Transmission Fault,Hydraulic Hose,36.3,106553,2024-08-16,Completed
+MAIN10678,EQX1096,2025-05-29,Preventive Maintenance,Brake Wear,Bucket Teeth,35.9,144631,2025-07-13,Completed
+MAIN10679,EQX1131,2024-12-03,Hydraulic Service,Fuel Leakage,Battery,21.1,129201,2025-01-17,Completed
+MAIN10680,EQX1143,2025-05-26,Preventive Maintenance,Engine Overheating,Battery,26.9,123149,2025-06-25,Completed
+MAIN10681,EQX1137,2024-10-15,Hydraulic Service,Transmission Fault,Track Chain,11.6,108890,2024-12-14,Scheduled
+MAIN10682,EQX1127,2024-12-17,Emergency Repair,Low Engine Oil,Fuel Filter,11.4,76761,2025-01-31,Completed
+MAIN10683,EQX1059,2025-01-30,Corrective Maintenance,Transmission Fault,Track Chain,29.3,88559,2025-03-16,Completed
+MAIN10684,EQX1035,2024-10-13,Inspection,No Issue,None,10.9,121395,2024-12-12,Completed
+MAIN10685,EQX1176,2024-12-13,Corrective Maintenance,Fuel Leakage,Brake Pads,3.8,95148,2025-01-27,In Progress
+MAIN10686,EQX1126,2025-02-23,Hydraulic Service,Track Wear,Hydraulic Hose,46.3,45558,2025-04-24,Completed
+MAIN10687,EQX1271,2024-08-12,Emergency Repair,Transmission Fault,Track Chain,5.8,56704,2024-10-11,Completed
+MAIN10688,EQX1001,2024-08-16,Preventive Maintenance,Low Engine Oil,Oil Filter,36.4,144273,2024-10-15,Completed
+MAIN10689,EQX1121,2025-06-11,Oil Change,Fuel Leakage,Oil Filter,25.2,132243,2025-08-10,Completed
+MAIN10690,EQX1249,2025-01-01,Preventive Maintenance,Engine Overheating,Battery,40.5,50030,2025-03-02,Completed
+MAIN10691,EQX1173,2024-08-23,Preventive Maintenance,Low Engine Oil,Bucket Teeth,34.3,101104,2024-09-22,Completed
+MAIN10692,EQX1226,2025-03-31,Inspection,No Issue,None,9.6,85844,2025-04-30,Completed
+MAIN10693,EQX1037,2025-03-21,Emergency Repair,Transmission Fault,Oil Filter,41.9,30978,2025-05-20,Completed
+MAIN10694,EQX1105,2025-04-22,Hydraulic Service,Fuel Leakage,Brake Pads,5.2,85194,2025-06-21,Completed
+MAIN10695,EQX1197,2025-04-18,Corrective Maintenance,Low Engine Oil,Oil Filter,23.6,126890,2025-05-18,Completed
+MAIN10696,EQX1277,2025-03-10,Oil Change,Battery Failure,Fuel Filter,13.9,89644,2025-05-09,Completed
+MAIN10697,EQX1091,2025-02-25,Emergency Repair,Battery Failure,Hydraulic Pump,43.7,51105,2025-04-26,Scheduled
+MAIN10698,EQX1141,2024-11-02,Corrective Maintenance,Brake Wear,Fuel Filter,11.6,42641,2025-01-01,Completed
+MAIN10699,EQX1070,2024-11-20,Preventive Maintenance,Battery Failure,Oil Filter,20.9,114752,2024-12-20,Completed
+MAIN10700,EQX1107,2025-03-07,Hydraulic Service,Battery Failure,Hydraulic Hose,38.7,73968,2025-04-06,Scheduled
+MAIN10701,EQX1011,2025-04-03,Emergency Repair,Track Wear,Battery,7.4,53162,2025-05-18,Completed
+MAIN10702,EQX1157,2024-11-04,Emergency Repair,Track Wear,Fuel Filter,45.1,130185,2024-12-19,Completed
+MAIN10703,EQX1193,2025-04-16,Corrective Maintenance,Fuel Leakage,Hydraulic Pump,25.6,97212,2025-05-31,Completed
+MAIN10704,EQX1003,2024-12-17,Corrective Maintenance,Battery Failure,Hydraulic Hose,7.3,137979,2025-01-16,Completed
+MAIN10705,EQX1276,2024-12-08,Corrective Maintenance,Track Wear,Engine Belt,20.6,146721,2025-01-07,In Progress
+MAIN10706,EQX1170,2025-01-05,Corrective Maintenance,Engine Overheating,Battery,7.1,79718,2025-02-19,Scheduled
+MAIN10707,EQX1164,2025-03-18,Preventive Maintenance,Low Engine Oil,Brake Pads,33.3,123693,2025-04-17,Completed
+MAIN10708,EQX1126,2024-09-29,Hydraulic Service,Fuel Leakage,Fuel Filter,38.0,26650,2024-11-28,Completed
+MAIN10709,EQX1037,2024-12-29,Corrective Maintenance,Engine Overheating,Track Chain,34.3,145236,2025-02-27,Completed
+MAIN10710,EQX1132,2025-06-13,Corrective Maintenance,Battery Failure,Oil Filter,33.3,7457,2025-07-13,Completed
+MAIN10711,EQX1165,2025-06-18,Preventive Maintenance,Bucket Damage,Hydraulic Pump,11.4,128194,2025-07-18,Completed
+MAIN10712,EQX1134,2024-11-02,Emergency Repair,Battery Failure,Hydraulic Pump,24.0,36152,2024-12-17,Completed
+MAIN10713,EQX1011,2025-03-06,Corrective Maintenance,Brake Wear,Brake Pads,34.5,60595,2025-05-05,Completed
+MAIN10714,EQX1019,2025-02-22,Preventive Maintenance,Transmission Fault,Track Chain,35.3,100761,2025-04-23,Completed
+MAIN10715,EQX1108,2025-01-23,Corrective Maintenance,Battery Failure,Track Chain,43.6,12325,2025-03-24,Completed
+MAIN10716,EQX1156,2025-01-06,Corrective Maintenance,Hydraulic Leakage,Track Chain,21.1,113821,2025-02-05,Completed
+MAIN10717,EQX1044,2025-04-25,Inspection,No Issue,None,28.7,39636,2025-05-25,Completed
+MAIN10718,EQX1188,2025-01-22,Preventive Maintenance,Hydraulic Leakage,Track Chain,23.8,113460,2025-02-21,Completed
+MAIN10719,EQX1152,2025-04-12,Emergency Repair,Low Engine Oil,Fuel Filter,12.9,116141,2025-06-11,Completed
+MAIN10720,EQX1151,2025-06-24,Preventive Maintenance,Track Wear,Engine Belt,29.7,89611,2025-08-08,In Progress
+MAIN10721,EQX1274,2024-09-09,Corrective Maintenance,Bucket Damage,Brake Pads,16.8,33612,2024-10-24,Completed
+MAIN10722,EQX1172,2025-03-19,Emergency Repair,Brake Wear,Brake Pads,26.4,76667,2025-05-03,Completed
+MAIN10723,EQX1131,2025-04-01,Hydraulic Service,Track Wear,Oil Filter,10.4,132919,2025-05-01,Completed
+MAIN10724,EQX1104,2025-06-23,Corrective Maintenance,Brake Wear,Battery,30.9,94895,2025-07-23,Scheduled
+MAIN10725,EQX1039,2025-02-25,Preventive Maintenance,Fuel Leakage,Hydraulic Hose,6.3,5930,2025-04-11,In Progress
+MAIN10726,EQX1225,2025-03-01,Preventive Maintenance,Track Wear,Engine Belt,31.7,26338,2025-04-30,Completed
+MAIN10727,EQX1001,2024-09-24,Preventive Maintenance,Battery Failure,Hydraulic Hose,39.5,51382,2024-11-08,Completed
+MAIN10728,EQX1042,2025-03-05,Hydraulic Service,Engine Overheating,Brake Pads,17.1,44375,2025-05-04,Scheduled
+MAIN10729,EQX1029,2024-08-22,Inspection,No Issue,None,16.2,120542,2024-09-21,Completed
+MAIN10730,EQX1032,2024-11-03,Oil Change,Fuel Leakage,Hydraulic Hose,14.6,53798,2024-12-03,Scheduled
+MAIN10731,EQX1149,2024-07-18,Hydraulic Service,Battery Failure,Bucket Teeth,34.7,31197,2024-09-01,In Progress
+MAIN10732,EQX1149,2024-09-13,Corrective Maintenance,Brake Wear,Bucket Teeth,28.5,116484,2024-11-12,Completed
+MAIN10733,EQX1091,2025-02-26,Emergency Repair,Transmission Fault,Engine Belt,38.1,58149,2025-04-27,Completed
+MAIN10734,EQX1131,2024-07-28,Corrective Maintenance,Fuel Leakage,Hydraulic Pump,28.6,142968,2024-09-11,Completed
+MAIN10735,EQX1282,2024-09-02,Corrective Maintenance,Engine Overheating,Hydraulic Hose,38.8,139476,2024-11-01,Completed
+MAIN10736,EQX1278,2024-11-30,Hydraulic Service,Battery Failure,Track Chain,31.1,94010,2025-01-14,Completed
+MAIN10737,EQX1207,2024-12-19,Hydraulic Service,Battery Failure,Oil Filter,20.3,60320,2025-02-02,Completed
+MAIN10738,EQX1214,2024-10-31,Emergency Repair,Low Engine Oil,Battery,44.1,34651,2024-12-15,Completed
+MAIN10739,EQX1259,2025-02-05,Corrective Maintenance,Low Engine Oil,Battery,28.4,136261,2025-03-07,Completed
+MAIN10740,EQX1146,2024-08-20,Inspection,No Issue,None,18.3,134845,2024-10-04,Scheduled
+MAIN10741,EQX1254,2025-01-04,Preventive Maintenance,Battery Failure,Bucket Teeth,44.2,115642,2025-02-18,Completed
+MAIN10742,EQX1043,2025-03-18,Corrective Maintenance,Engine Overheating,Fuel Filter,6.0,71904,2025-04-17,In Progress
+MAIN10743,EQX1054,2025-05-24,Emergency Repair,Engine Overheating,Bucket Teeth,4.7,83555,2025-06-23,Completed
+MAIN10744,EQX1073,2025-01-31,Emergency Repair,Brake Wear,Bucket Teeth,5.3,62647,2025-03-02,Completed
+MAIN10745,EQX1282,2024-10-09,Preventive Maintenance,Low Engine Oil,Battery,30.8,75490,2024-11-08,Completed
+MAIN10746,EQX1212,2025-02-15,Preventive Maintenance,Low Engine Oil,Hydraulic Hose,36.1,85794,2025-04-16,In Progress
+MAIN10747,EQX1089,2025-01-16,Emergency Repair,Bucket Damage,Fuel Filter,14.8,27317,2025-02-15,In Progress
+MAIN10748,EQX1009,2025-02-01,Corrective Maintenance,Battery Failure,Battery,5.0,33480,2025-03-03,Completed
+MAIN10749,EQX1006,2025-06-04,Corrective Maintenance,Track Wear,Engine Belt,5.3,131796,2025-08-03,Scheduled
+MAIN10750,EQX1118,2025-01-02,Preventive Maintenance,Low Engine Oil,Hydraulic Hose,14.1,122852,2025-02-16,Completed
+MAIN10751,EQX1187,2024-12-02,Inspection,No Issue,None,38.2,108873,2025-01-31,Completed
+MAIN10752,EQX1201,2024-08-05,Emergency Repair,Fuel Leakage,Oil Filter,13.8,122499,2024-09-19,Completed
+MAIN10753,EQX1182,2024-10-29,Hydraulic Service,Brake Wear,Fuel Filter,45.5,127525,2024-12-13,Completed
+MAIN10754,EQX1077,2025-01-24,Emergency Repair,Low Engine Oil,Oil Filter,45.5,66009,2025-02-23,Completed
+MAIN10755,EQX1019,2025-05-24,Preventive Maintenance,Hydraulic Leakage,Engine Belt,7.1,43914,2025-07-08,Completed
+MAIN10756,EQX1232,2025-06-03,Preventive Maintenance,Hydraulic Leakage,Hydraulic Hose,10.4,114832,2025-07-18,Completed
+MAIN10757,EQX1277,2025-01-27,Preventive Maintenance,Transmission Fault,Hydraulic Hose,32.3,14198,2025-03-13,Scheduled
+MAIN10758,EQX1236,2024-10-09,Preventive Maintenance,Low Engine Oil,Hydraulic Hose,31.1,113946,2024-11-08,Completed
+MAIN10759,EQX1139,2024-11-21,Preventive Maintenance,Hydraulic Leakage,Hydraulic Hose,22.3,59318,2025-01-20,Completed
+MAIN10760,EQX1284,2024-10-05,Corrective Maintenance,Brake Wear,Fuel Filter,26.9,45927,2024-11-04,Completed
+MAIN10761,EQX1041,2025-03-19,Hydraulic Service,Brake Wear,Hydraulic Pump,9.7,75392,2025-04-18,Completed
+MAIN10762,EQX1085,2025-03-16,Preventive Maintenance,Engine Overheating,Track Chain,8.3,22797,2025-04-15,Completed
+MAIN10763,EQX1049,2024-09-15,Hydraulic Service,Fuel Leakage,Hydraulic Hose,2.7,92954,2024-11-14,Completed
+MAIN10764,EQX1057,2024-11-10,Emergency Repair,Hydraulic Leakage,Brake Pads,31.8,116713,2024-12-10,Completed
+MAIN10765,EQX1187,2025-01-27,Oil Change,Transmission Fault,Bucket Teeth,27.6,12250,2025-02-26,Completed
+MAIN10766,EQX1067,2025-01-06,Emergency Repair,Engine Overheating,Battery,11.2,125558,2025-03-07,Completed
+MAIN10767,EQX1155,2025-02-12,Preventive Maintenance,Bucket Damage,Hydraulic Pump,28.7,89300,2025-03-14,Completed
+MAIN10768,EQX1123,2024-07-21,Corrective Maintenance,Bucket Damage,Oil Filter,42.4,94354,2024-08-20,Completed
+MAIN10769,EQX1214,2025-05-04,Corrective Maintenance,Low Engine Oil,Brake Pads,6.5,113771,2025-07-03,Scheduled
+MAIN10770,EQX1068,2024-11-02,Hydraulic Service,Engine Overheating,Hydraulic Hose,45.1,56162,2025-01-01,Completed
+MAIN10771,EQX1130,2024-08-13,Inspection,No Issue,None,28.1,101228,2024-10-12,Scheduled
+MAIN10772,EQX1238,2024-12-08,Emergency Repair,Bucket Damage,Engine Belt,11.4,64888,2025-01-22,Completed
+MAIN10773,EQX1285,2024-12-18,Emergency Repair,Low Engine Oil,Hydraulic Pump,43.3,110309,2025-02-16,Completed
+MAIN10774,EQX1100,2025-02-18,Inspection,No Issue,None,27.9,55115,2025-04-04,Scheduled
+MAIN10775,EQX1156,2025-02-20,Emergency Repair,Hydraulic Leakage,Bucket Teeth,16.2,8416,2025-03-22,Completed
+MAIN10776,EQX1161,2024-09-20,Inspection,No Issue,None,24.7,83285,2024-11-19,Completed
+MAIN10777,EQX1237,2024-12-22,Preventive Maintenance,Battery Failure,Track Chain,14.1,103110,2025-02-20,Completed
+MAIN10778,EQX1060,2025-02-24,Preventive Maintenance,Brake Wear,Fuel Filter,6.0,51090,2025-03-26,Scheduled
+MAIN10779,EQX1059,2024-07-15,Corrective Maintenance,Engine Overheating,Brake Pads,32.3,104551,2024-08-29,Completed
+MAIN10780,EQX1159,2024-08-27,Corrective Maintenance,Transmission Fault,Fuel Filter,26.9,15283,2024-09-26,In Progress
+MAIN10781,EQX1258,2024-12-02,Emergency Repair,Brake Wear,Brake Pads,28.8,134606,2025-01-31,Completed
+MAIN10782,EQX1106,2025-05-22,Inspection,No Issue,None,17.2,42832,2025-07-06,In Progress
+MAIN10783,EQX1100,2025-03-06,Preventive Maintenance,Low Engine Oil,Engine Belt,9.0,81918,2025-04-05,Completed
+MAIN10784,EQX1042,2024-11-18,Emergency Repair,Low Engine Oil,Hydraulic Pump,48.0,18800,2024-12-18,Completed
+MAIN10785,EQX1265,2025-04-10,Preventive Maintenance,Hydraulic Leakage,Hydraulic Pump,17.2,143247,2025-06-09,Completed
+MAIN10786,EQX1112,2025-03-30,Corrective Maintenance,Fuel Leakage,Track Chain,38.0,137491,2025-05-29,Completed
+MAIN10787,EQX1067,2024-10-24,Emergency Repair,Battery Failure,Track Chain,15.9,50650,2024-12-23,Completed
+MAIN10788,EQX1184,2025-05-29,Corrective Maintenance,Fuel Leakage,Battery,5.1,113125,2025-07-13,Completed
+MAIN10789,EQX1093,2024-10-26,Corrective Maintenance,Fuel Leakage,Track Chain,47.0,122220,2024-11-25,Completed
+MAIN10790,EQX1260,2025-06-01,Corrective Maintenance,Fuel Leakage,Hydraulic Hose,33.6,65541,2025-07-31,Completed
+MAIN10791,EQX1003,2025-02-11,Hydraulic Service,Bucket Damage,Hydraulic Hose,11.9,35165,2025-03-13,Completed
+MAIN10792,EQX1010,2025-05-28,Preventive Maintenance,Engine Overheating,Track Chain,38.9,74556,2025-07-27,Completed
+MAIN10793,EQX1244,2025-04-01,Emergency Repair,Bucket Damage,Engine Belt,35.4,72139,2025-05-16,Scheduled
+MAIN10794,EQX1047,2024-09-02,Emergency Repair,Hydraulic Leakage,Oil Filter,41.0,26640,2024-11-01,In Progress
+MAIN10795,EQX1231,2025-03-25,Corrective Maintenance,Bucket Damage,Engine Belt,33.1,126063,2025-05-09,Completed
+MAIN10796,EQX1169,2025-03-16,Corrective Maintenance,Brake Wear,Track Chain,12.2,48078,2025-04-30,Scheduled
+MAIN10797,EQX1142,2025-05-06,Corrective Maintenance,Brake Wear,Hydraulic Hose,41.8,116357,2025-06-20,Completed
+MAIN10798,EQX1283,2025-06-18,Hydraulic Service,Fuel Leakage,Track Chain,3.3,93342,2025-07-18,Completed
+MAIN10799,EQX1179,2025-03-01,Inspection,No Issue,None,14.5,110839,2025-03-31,Completed
+MAIN10800,EQX1094,2024-08-25,Preventive Maintenance,Low Engine Oil,Fuel Filter,44.6,98180,2024-10-24,In Progress
+MAIN10801,EQX1287,2025-03-14,Preventive Maintenance,Engine Overheating,Brake Pads,39.9,50922,2025-04-13,Completed
+MAIN10802,EQX1274,2024-08-31,Corrective Maintenance,Fuel Leakage,Brake Pads,5.9,42140,2024-10-30,Completed
+MAIN10803,EQX1202,2025-03-28,Emergency Repair,Bucket Damage,Bucket Teeth,30.1,6127,2025-05-12,Completed
+MAIN10804,EQX1164,2025-01-27,Preventive Maintenance,Low Engine Oil,Bucket Teeth,33.2,8076,2025-03-13,Completed
+MAIN10805,EQX1143,2025-04-10,Corrective Maintenance,Low Engine Oil,Hydraulic Pump,19.3,122695,2025-06-09,Completed
+MAIN10806,EQX1245,2024-07-22,Emergency Repair,Low Engine Oil,Hydraulic Pump,10.2,108776,2024-08-21,Completed
+MAIN10807,EQX1089,2025-04-03,Hydraulic Service,Low Engine Oil,Hydraulic Pump,40.6,119129,2025-05-18,In Progress
+MAIN10808,EQX1117,2024-10-06,Emergency Repair,Transmission Fault,Bucket Teeth,25.5,87546,2024-11-20,Completed
+MAIN10809,EQX1146,2024-12-28,Inspection,No Issue,None,31.0,138333,2025-01-27,Completed
+MAIN10810,EQX1123,2025-04-22,Hydraulic Service,Engine Overheating,Brake Pads,22.3,17597,2025-06-21,Completed
+MAIN10811,EQX1245,2025-05-03,Corrective Maintenance,Low Engine Oil,Oil Filter,43.8,111521,2025-06-17,Completed
+MAIN10812,EQX1223,2025-06-16,Inspection,No Issue,None,10.2,136625,2025-08-15,Completed
+MAIN10813,EQX1139,2024-07-09,Preventive Maintenance,Engine Overheating,Engine Belt,26.7,28435,2024-08-23,Completed
+MAIN10814,EQX1187,2024-11-14,Inspection,No Issue,None,24.3,77643,2025-01-13,Scheduled
+MAIN10815,EQX1127,2024-10-12,Emergency Repair,Hydraulic Leakage,Hydraulic Hose,2.1,48053,2024-12-11,Completed
+MAIN10816,EQX1075,2024-10-25,Inspection,No Issue,None,20.8,23239,2024-11-24,Completed
+MAIN10817,EQX1277,2024-11-10,Preventive Maintenance,Hydraulic Leakage,Hydraulic Pump,22.0,45029,2024-12-10,Completed
+MAIN10818,EQX1138,2024-08-26,Preventive Maintenance,Track Wear,Fuel Filter,29.5,144755,2024-10-25,Completed
+MAIN10819,EQX1172,2024-12-02,Emergency Repair,Low Engine Oil,Battery,2.3,134443,2025-01-31,Completed
+MAIN10820,EQX1265,2025-07-01,Corrective Maintenance,Transmission Fault,Battery,44.1,108448,2025-08-15,Completed
+MAIN10821,EQX1139,2025-04-16,Inspection,No Issue,None,24.5,108328,2025-05-31,Completed
+MAIN10822,EQX1069,2025-05-18,Corrective Maintenance,Battery Failure,Hydraulic Pump,18.2,110799,2025-07-02,Completed
+MAIN10823,EQX1111,2024-09-11,Corrective Maintenance,Low Engine Oil,Oil Filter,24.3,89566,2024-10-11,Completed
+MAIN10824,EQX1274,2025-01-02,Preventive Maintenance,Battery Failure,Oil Filter,14.3,53550,2025-03-03,Completed
+MAIN10825,EQX1005,2024-11-09,Preventive Maintenance,Track Wear,Fuel Filter,6.0,89107,2024-12-09,Completed
+MAIN10826,EQX1273,2024-12-25,Emergency Repair,Battery Failure,Fuel Filter,39.9,18624,2025-01-24,Scheduled
+MAIN10827,EQX1163,2025-02-08,Preventive Maintenance,Brake Wear,Fuel Filter,13.7,12602,2025-03-10,Completed
+MAIN10828,EQX1271,2025-01-27,Hydraulic Service,Engine Overheating,Track Chain,36.0,133368,2025-02-26,Completed
+MAIN10829,EQX1296,2024-12-06,Preventive Maintenance,Engine Overheating,Engine Belt,40.0,82127,2025-01-05,Completed
+MAIN10830,EQX1011,2024-10-20,Emergency Repair,Transmission Fault,Oil Filter,4.8,29661,2024-12-19,Completed
+MAIN10831,EQX1010,2024-11-19,Corrective Maintenance,Brake Wear,Fuel Filter,14.1,134992,2025-01-18,Completed
+MAIN10832,EQX1024,2025-05-10,Corrective Maintenance,Track Wear,Fuel Filter,29.6,109155,2025-07-09,In Progress
+MAIN10833,EQX1212,2025-06-15,Preventive Maintenance,Low Engine Oil,Hydraulic Hose,24.6,128874,2025-07-15,Completed
+MAIN10834,EQX1107,2025-06-22,Emergency Repair,Track Wear,Track Chain,43.1,25714,2025-08-06,Completed
+MAIN10835,EQX1043,2024-11-14,Corrective Maintenance,Track Wear,Hydraulic Pump,39.5,29234,2024-12-14,Completed
+MAIN10836,EQX1219,2024-08-08,Inspection,No Issue,None,36.1,113702,2024-09-07,Completed
+MAIN10837,EQX1209,2024-09-15,Inspection,No Issue,None,23.2,14018,2024-11-14,Completed
+MAIN10838,EQX1211,2024-09-17,Hydraulic Service,Engine Overheating,Fuel Filter,15.1,58244,2024-11-16,Completed
+MAIN10839,EQX1050,2024-11-14,Emergency Repair,Battery Failure,Bucket Teeth,13.5,72770,2024-12-14,Completed
+MAIN10840,EQX1213,2025-01-10,Preventive Maintenance,Low Engine Oil,Bucket Teeth,47.1,72579,2025-03-11,In Progress
+MAIN10841,EQX1247,2025-01-01,Corrective Maintenance,Transmission Fault,Track Chain,47.5,72872,2025-01-31,Completed
+MAIN10842,EQX1039,2024-10-26,Preventive Maintenance,Battery Failure,Fuel Filter,25.9,11942,2024-12-25,Completed
+MAIN10843,EQX1060,2024-08-12,Preventive Maintenance,Track Wear,Hydraulic Hose,18.2,142296,2024-10-11,In Progress
+MAIN10844,EQX1140,2024-11-21,Preventive Maintenance,Low Engine Oil,Track Chain,13.7,68389,2024-12-21,Scheduled
+MAIN10845,EQX1287,2024-07-23,Corrective Maintenance,Hydraulic Leakage,Oil Filter,25.7,58467,2024-08-22,Completed
+MAIN10846,EQX1238,2024-09-25,Corrective Maintenance,Battery Failure,Track Chain,22.0,43369,2024-11-09,Scheduled
+MAIN10847,EQX1072,2025-06-12,Corrective Maintenance,Low Engine Oil,Brake Pads,4.2,116654,2025-07-12,Completed
+MAIN10848,EQX1157,2024-12-29,Corrective Maintenance,Bucket Damage,Bucket Teeth,24.5,28781,2025-01-28,Scheduled
+MAIN10849,EQX1198,2024-07-31,Inspection,No Issue,None,15.6,29521,2024-08-30,Completed
+MAIN10850,EQX1189,2025-02-22,Inspection,No Issue,None,43.8,140538,2025-03-24,Scheduled
+MAIN10851,EQX1112,2024-08-06,Hydraulic Service,Track Wear,Brake Pads,21.8,42282,2024-09-20,Completed
+MAIN10852,EQX1100,2025-01-26,Preventive Maintenance,Low Engine Oil,Battery,31.7,89463,2025-02-25,Completed
+MAIN10853,EQX1155,2025-02-18,Corrective Maintenance,Fuel Leakage,Battery,30.4,143557,2025-04-04,Completed
+MAIN10854,EQX1088,2024-08-14,Oil Change,Brake Wear,Hydraulic Hose,13.7,112279,2024-09-28,Completed
+MAIN10855,EQX1192,2024-11-27,Corrective Maintenance,Engine Overheating,Track Chain,15.6,102928,2024-12-27,Completed
+MAIN10856,EQX1108,2024-07-21,Preventive Maintenance,Bucket Damage,Track Chain,46.6,40561,2024-08-20,Completed
+MAIN10857,EQX1252,2025-06-09,Emergency Repair,Track Wear,Hydraulic Pump,26.4,33528,2025-07-09,Completed
+MAIN10858,EQX1197,2024-11-05,Corrective Maintenance,Brake Wear,Hydraulic Hose,37.2,47831,2025-01-04,Completed
+MAIN10859,EQX1072,2024-10-08,Preventive Maintenance,Fuel Leakage,Hydraulic Hose,45.6,104162,2024-11-22,Scheduled
+MAIN10860,EQX1098,2024-07-02,Emergency Repair,Track Wear,Bucket Teeth,30.2,101871,2024-08-01,Completed
+MAIN10861,EQX1216,2025-05-26,Emergency Repair,Hydraulic Leakage,Hydraulic Pump,21.8,27304,2025-06-25,Completed
+MAIN10862,EQX1224,2024-12-27,Emergency Repair,Transmission Fault,Battery,22.4,90423,2025-02-25,Completed
+MAIN10863,EQX1265,2025-05-16,Inspection,No Issue,None,8.6,18240,2025-06-15,Completed
+MAIN10864,EQX1083,2025-06-30,Corrective Maintenance,Fuel Leakage,Oil Filter,45.1,98837,2025-07-30,In Progress
+MAIN10865,EQX1101,2024-08-23,Corrective Maintenance,Low Engine Oil,Fuel Filter,45.7,61359,2024-09-22,Completed
+MAIN10866,EQX1210,2025-05-29,Corrective Maintenance,Bucket Damage,Fuel Filter,28.0,36091,2025-07-13,Completed
+MAIN10867,EQX1271,2024-10-12,Hydraulic Service,Engine Overheating,Track Chain,40.1,92809,2024-11-11,Completed
+MAIN10868,EQX1145,2025-02-14,Corrective Maintenance,Hydraulic Leakage,Oil Filter,28.6,122684,2025-04-15,Completed
+MAIN10869,EQX1038,2025-01-11,Corrective Maintenance,Brake Wear,Battery,47.5,144200,2025-02-25,Completed
+MAIN10870,EQX1289,2024-09-06,Corrective Maintenance,Hydraulic Leakage,Bucket Teeth,2.8,38742,2024-11-05,Completed
+MAIN10871,EQX1281,2024-08-27,Inspection,No Issue,None,13.9,27274,2024-10-26,Completed
+MAIN10872,EQX1056,2024-09-27,Preventive Maintenance,Low Engine Oil,Fuel Filter,18.4,113471,2024-10-27,Completed
+MAIN10873,EQX1029,2025-03-06,Inspection,No Issue,None,14.6,13644,2025-04-05,Completed
+MAIN10874,EQX1235,2025-07-01,Preventive Maintenance,Engine Overheating,Fuel Filter,10.4,88177,2025-08-15,Completed
+MAIN10875,EQX1273,2024-07-20,Hydraulic Service,Battery Failure,Brake Pads,26.0,21267,2024-09-03,Scheduled
+MAIN10876,EQX1025,2024-10-18,Corrective Maintenance,Fuel Leakage,Bucket Teeth,35.6,44064,2024-12-02,Completed
+MAIN10877,EQX1146,2025-02-20,Preventive Maintenance,Engine Overheating,Engine Belt,44.5,79775,2025-04-21,Completed
+MAIN10878,EQX1087,2024-09-28,Emergency Repair,Bucket Damage,Oil Filter,35.8,14746,2024-11-27,Completed
+MAIN10879,EQX1192,2024-08-26,Corrective Maintenance,Track Wear,Engine Belt,23.3,75694,2024-10-25,Scheduled
+MAIN10880,EQX1181,2025-07-01,Preventive Maintenance,Bucket Damage,Track Chain,15.2,15089,2025-08-30,Completed
+MAIN10881,EQX1236,2025-03-17,Corrective Maintenance,Track Wear,Fuel Filter,41.4,90763,2025-05-16,Completed
+MAIN10882,EQX1278,2025-06-27,Emergency Repair,Hydraulic Leakage,Track Chain,15.4,116612,2025-08-26,Completed
+MAIN10883,EQX1112,2024-12-06,Hydraulic Service,Transmission Fault,Hydraulic Hose,32.2,34754,2025-02-04,Completed
+MAIN10884,EQX1066,2024-08-21,Preventive Maintenance,Hydraulic Leakage,Battery,20.4,118216,2024-10-05,Completed
+MAIN10885,EQX1285,2025-05-18,Corrective Maintenance,Engine Overheating,Engine Belt,37.7,113267,2025-07-02,Completed
+MAIN10886,EQX1160,2025-02-17,Oil Change,Fuel Leakage,Engine Belt,26.9,63818,2025-04-18,Completed
+MAIN10887,EQX1076,2024-08-17,Corrective Maintenance,Hydraulic Leakage,Hydraulic Hose,37.3,34083,2024-10-16,Completed
+MAIN10888,EQX1036,2025-02-08,Corrective Maintenance,Track Wear,Hydraulic Pump,27.2,48424,2025-03-25,Scheduled
+MAIN10889,EQX1191,2025-02-14,Corrective Maintenance,Low Engine Oil,Bucket Teeth,8.8,80391,2025-03-31,In Progress
+MAIN10890,EQX1128,2024-08-08,Emergency Repair,Fuel Leakage,Fuel Filter,33.6,104199,2024-09-07,Completed
+MAIN10891,EQX1171,2024-08-24,Corrective Maintenance,Brake Wear,Fuel Filter,8.8,35629,2024-10-23,In Progress
+MAIN10892,EQX1281,2024-10-09,Preventive Maintenance,Battery Failure,Hydraulic Pump,44.5,51379,2024-11-23,Completed
+MAIN10893,EQX1098,2025-04-06,Emergency Repair,Fuel Leakage,Engine Belt,15.8,18453,2025-05-21,Completed
+MAIN10894,EQX1117,2025-02-17,Emergency Repair,Battery Failure,Hydraulic Hose,42.6,104082,2025-04-03,Completed
+MAIN10895,EQX1240,2025-05-18,Preventive Maintenance,Fuel Leakage,Track Chain,13.6,75386,2025-07-17,Completed
+MAIN10896,EQX1154,2025-03-29,Corrective Maintenance,Battery Failure,Track Chain,45.1,69281,2025-05-13,Completed
+MAIN10897,EQX1101,2024-10-01,Hydraulic Service,Battery Failure,Hydraulic Hose,42.6,105364,2024-10-31,Completed
+MAIN10898,EQX1214,2024-11-03,Corrective Maintenance,Hydraulic Leakage,Track Chain,22.9,77216,2024-12-03,Completed
+MAIN10899,EQX1197,2024-11-07,Emergency Repair,Fuel Leakage,Oil Filter,8.8,143640,2024-12-07,Completed
+MAIN10900,EQX1200,2024-07-31,Corrective Maintenance,Engine Overheating,Battery,12.6,22459,2024-09-14,Completed
+MAIN10901,EQX1194,2024-11-29,Oil Change,Hydraulic Leakage,Bucket Teeth,25.6,67470,2024-12-29,Completed
+MAIN10902,EQX1239,2024-10-10,Preventive Maintenance,Battery Failure,Brake Pads,42.1,13479,2024-12-09,Completed
+MAIN10903,EQX1022,2025-06-13,Emergency Repair,Fuel Leakage,Track Chain,24.7,82867,2025-08-12,Completed
+MAIN10904,EQX1079,2024-10-13,Preventive Maintenance,Hydraulic Leakage,Engine Belt,13.8,89173,2024-11-12,Completed
+MAIN10905,EQX1170,2025-04-18,Emergency Repair,Brake Wear,Hydraulic Pump,17.2,40827,2025-05-18,Completed
+MAIN10906,EQX1149,2025-02-20,Hydraulic Service,Bucket Damage,Hydraulic Hose,5.0,131046,2025-04-21,Scheduled
+MAIN10907,EQX1086,2025-05-15,Preventive Maintenance,Brake Wear,Fuel Filter,18.0,143487,2025-06-29,Completed
+MAIN10908,EQX1081,2024-10-16,Corrective Maintenance,Hydraulic Leakage,Hydraulic Pump,47.5,141279,2024-11-15,Completed
+MAIN10909,EQX1026,2024-09-15,Hydraulic Service,Brake Wear,Engine Belt,33.8,28458,2024-10-30,Completed
+MAIN10910,EQX1077,2024-07-15,Corrective Maintenance,Battery Failure,Oil Filter,31.7,127079,2024-08-14,Completed
+MAIN10911,EQX1114,2024-11-02,Corrective Maintenance,Battery Failure,Battery,15.2,73241,2025-01-01,Completed
+MAIN10912,EQX1137,2024-12-28,Hydraulic Service,Fuel Leakage,Battery,3.4,19829,2025-01-27,Completed
+MAIN10913,EQX1051,2024-09-14,Corrective Maintenance,Low Engine Oil,Battery,35.6,32062,2024-11-13,Completed
+MAIN10914,EQX1184,2024-11-13,Preventive Maintenance,Track Wear,Brake Pads,43.4,112240,2025-01-12,Scheduled
+MAIN10915,EQX1090,2024-08-12,Oil Change,Battery Failure,Oil Filter,14.2,147447,2024-10-11,Completed
+MAIN10916,EQX1040,2024-12-30,Emergency Repair,Bucket Damage,Bucket Teeth,34.1,87529,2025-01-29,Completed
+MAIN10917,EQX1086,2024-12-15,Corrective Maintenance,Transmission Fault,Hydraulic Pump,23.4,136614,2025-02-13,Completed
+MAIN10918,EQX1014,2025-02-16,Corrective Maintenance,Track Wear,Hydraulic Pump,26.8,88133,2025-03-18,Completed
+MAIN10919,EQX1203,2025-05-01,Emergency Repair,Transmission Fault,Bucket Teeth,44.2,19978,2025-05-31,Completed
+MAIN10920,EQX1138,2025-01-22,Preventive Maintenance,Transmission Fault,Battery,17.5,124826,2025-03-08,Completed
+MAIN10921,EQX1300,2024-09-30,Preventive Maintenance,Track Wear,Brake Pads,36.7,108918,2024-11-14,Completed
+MAIN10922,EQX1297,2024-08-30,Corrective Maintenance,Low Engine Oil,Track Chain,9.9,43207,2024-09-29,Completed
+MAIN10923,EQX1243,2025-02-10,Emergency Repair,Engine Overheating,Hydraulic Pump,31.8,21631,2025-04-11,In Progress
+MAIN10924,EQX1196,2025-06-19,Preventive Maintenance,Track Wear,Hydraulic Pump,13.5,105741,2025-08-03,Completed
+MAIN10925,EQX1001,2024-07-10,Corrective Maintenance,Engine Overheating,Bucket Teeth,26.9,33268,2024-09-08,Completed
+MAIN10926,EQX1296,2025-07-01,Preventive Maintenance,Track Wear,Bucket Teeth,24.1,55233,2025-08-30,Completed
+MAIN10927,EQX1276,2025-04-13,Hydraulic Service,Battery Failure,Oil Filter,31.6,91562,2025-06-12,Completed
+MAIN10928,EQX1019,2024-08-01,Preventive Maintenance,Bucket Damage,Hydraulic Hose,31.9,95926,2024-09-30,Completed
+MAIN10929,EQX1099,2025-02-09,Emergency Repair,Battery Failure,Hydraulic Hose,45.2,86725,2025-04-10,Completed
+MAIN10930,EQX1018,2025-05-11,Hydraulic Service,Track Wear,Bucket Teeth,15.4,62060,2025-07-10,Completed
+MAIN10931,EQX1292,2024-10-05,Corrective Maintenance,Brake Wear,Bucket Teeth,38.9,104542,2024-12-04,Completed
+MAIN10932,EQX1038,2025-01-23,Preventive Maintenance,Track Wear,Hydraulic Pump,13.9,16484,2025-02-22,Completed
+MAIN10933,EQX1241,2025-06-18,Emergency Repair,Track Wear,Brake Pads,47.2,85447,2025-07-18,Completed
+MAIN10934,EQX1214,2024-07-14,Corrective Maintenance,Track Wear,Track Chain,8.4,74045,2024-08-28,Scheduled
+MAIN10935,EQX1293,2024-11-29,Inspection,No Issue,None,13.1,131194,2025-01-28,Completed
+MAIN10936,EQX1003,2024-09-10,Hydraulic Service,Engine Overheating,Hydraulic Hose,13.6,121820,2024-10-10,Completed
+MAIN10937,EQX1191,2024-07-25,Corrective Maintenance,Transmission Fault,Hydraulic Pump,31.2,92309,2024-09-08,Completed
+MAIN10938,EQX1266,2024-09-27,Preventive Maintenance,Bucket Damage,Hydraulic Hose,39.2,14096,2024-11-26,In Progress
+MAIN10939,EQX1124,2025-02-08,Preventive Maintenance,Brake Wear,Hydraulic Pump,44.1,134212,2025-03-25,Completed
+MAIN10940,EQX1145,2024-07-04,Corrective Maintenance,Battery Failure,Brake Pads,47.4,113871,2024-08-18,Completed
+MAIN10941,EQX1067,2024-09-17,Emergency Repair,Brake Wear,Engine Belt,2.9,81729,2024-11-01,In Progress
+MAIN10942,EQX1228,2025-01-24,Corrective Maintenance,Engine Overheating,Engine Belt,21.6,143906,2025-03-25,Completed
+MAIN10943,EQX1072,2025-04-06,Preventive Maintenance,Brake Wear,Hydraulic Hose,25.5,88079,2025-05-06,Completed
+MAIN10944,EQX1078,2024-10-26,Emergency Repair,Hydraulic Leakage,Oil Filter,7.3,9720,2024-12-10,Completed
+MAIN10945,EQX1209,2024-09-15,Corrective Maintenance,Hydraulic Leakage,Track Chain,35.2,19229,2024-10-15,Completed
+MAIN10946,EQX1216,2025-03-08,Corrective Maintenance,Fuel Leakage,Hydraulic Hose,2.3,90276,2025-04-07,Completed
+MAIN10947,EQX1137,2024-08-07,Corrective Maintenance,Transmission Fault,Brake Pads,18.0,40373,2024-10-06,Completed
+MAIN10948,EQX1300,2024-07-16,Oil Change,Hydraulic Leakage,Hydraulic Hose,2.5,135709,2024-08-30,Completed
+MAIN10949,EQX1132,2025-06-22,Emergency Repair,Low Engine Oil,Track Chain,48.0,53333,2025-08-21,Completed
+MAIN10950,EQX1299,2025-03-07,Preventive Maintenance,Battery Failure,Fuel Filter,40.3,43461,2025-04-06,Scheduled
+MAIN10951,EQX1071,2025-05-21,Preventive Maintenance,Engine Overheating,Battery,18.3,135067,2025-06-20,In Progress
+MAIN10952,EQX1133,2025-05-08,Corrective Maintenance,Low Engine Oil,Brake Pads,31.9,38416,2025-06-07,In Progress
+MAIN10953,EQX1289,2025-05-07,Corrective Maintenance,Battery Failure,Oil Filter,15.7,98555,2025-06-06,Scheduled
+MAIN10954,EQX1284,2025-01-07,Emergency Repair,Hydraulic Leakage,Fuel Filter,41.2,86042,2025-03-08,Completed
+MAIN10955,EQX1179,2024-07-12,Inspection,No Issue,None,40.3,109741,2024-08-26,Completed
+MAIN10956,EQX1188,2024-08-24,Corrective Maintenance,Hydraulic Leakage,Bucket Teeth,35.4,10364,2024-10-08,Completed
+MAIN10957,EQX1067,2024-11-20,Corrective Maintenance,Brake Wear,Brake Pads,30.0,56872,2024-12-20,Completed
+MAIN10958,EQX1285,2025-02-18,Emergency Repair,Brake Wear,Brake Pads,39.7,95115,2025-04-04,Completed
+MAIN10959,EQX1101,2025-03-06,Corrective Maintenance,Track Wear,Fuel Filter,15.5,12260,2025-04-20,Completed
+MAIN10960,EQX1241,2025-04-08,Corrective Maintenance,Low Engine Oil,Battery,12.2,102893,2025-05-08,Completed
+MAIN10961,EQX1065,2024-12-13,Emergency Repair,Track Wear,Engine Belt,35.8,111091,2025-02-11,Scheduled
+MAIN10962,EQX1239,2025-03-28,Inspection,No Issue,None,7.8,45892,2025-05-12,Completed
+MAIN10963,EQX1244,2024-12-28,Hydraulic Service,Engine Overheating,Bucket Teeth,32.9,90025,2025-02-26,Completed
+MAIN10964,EQX1216,2025-01-01,Corrective Maintenance,Track Wear,Hydraulic Hose,38.4,7084,2025-01-31,Completed
+MAIN10965,EQX1091,2025-02-06,Hydraulic Service,Bucket Damage,Track Chain,38.8,98651,2025-03-08,Completed
+MAIN10966,EQX1062,2024-11-18,Preventive Maintenance,Low Engine Oil,Hydraulic Pump,23.0,86905,2025-01-02,Completed
+MAIN10967,EQX1041,2024-09-30,Emergency Repair,Engine Overheating,Brake Pads,24.2,68315,2024-11-29,Completed
+MAIN10968,EQX1280,2025-01-23,Inspection,No Issue,None,14.8,57217,2025-03-24,In Progress
+MAIN10969,EQX1027,2024-07-13,Inspection,No Issue,None,36.7,137145,2024-08-27,Completed
+MAIN10970,EQX1117,2025-03-03,Hydraulic Service,Low Engine Oil,Battery,35.0,96591,2025-05-02,In Progress
+MAIN10971,EQX1188,2024-12-22,Corrective Maintenance,Engine Overheating,Hydraulic Pump,21.6,132934,2025-02-05,Completed
+MAIN10972,EQX1161,2025-03-16,Corrective Maintenance,Transmission Fault,Battery,21.3,46290,2025-05-15,Completed
+MAIN10973,EQX1074,2025-04-05,Inspection,No Issue,None,19.7,43112,2025-05-20,Scheduled
+MAIN10974,EQX1149,2024-10-10,Emergency Repair,Hydraulic Leakage,Engine Belt,36.0,13140,2024-12-09,Completed
+MAIN10975,EQX1225,2024-08-16,Corrective Maintenance,Engine Overheating,Fuel Filter,25.3,123742,2024-10-15,Completed
+MAIN10976,EQX1237,2025-03-31,Inspection,No Issue,None,31.8,103081,2025-05-15,Completed
+MAIN10977,EQX1011,2024-08-28,Emergency Repair,Track Wear,Battery,2.0,25398,2024-10-27,Scheduled
+MAIN10978,EQX1196,2024-12-17,Inspection,No Issue,None,9.7,51144,2025-02-15,Completed
+MAIN10979,EQX1152,2024-08-18,Emergency Repair,Engine Overheating,Fuel Filter,35.4,63256,2024-10-02,Completed
+MAIN10980,EQX1213,2024-07-01,Inspection,No Issue,None,23.6,17799,2024-08-15,Completed
+MAIN10981,EQX1262,2024-07-20,Corrective Maintenance,Engine Overheating,Track Chain,25.4,58566,2024-08-19,Completed
+MAIN10982,EQX1283,2024-10-07,Hydraulic Service,Low Engine Oil,Hydraulic Pump,22.8,138386,2024-11-21,Completed
+MAIN10983,EQX1263,2024-08-05,Corrective Maintenance,Engine Overheating,Hydraulic Pump,29.8,35272,2024-10-04,In Progress
+MAIN10984,EQX1007,2024-08-25,Emergency Repair,Brake Wear,Engine Belt,41.8,56958,2024-09-24,Completed
+MAIN10985,EQX1069,2024-12-02,Preventive Maintenance,Engine Overheating,Bucket Teeth,26.0,52847,2025-01-31,Completed
+MAIN10986,EQX1162,2024-07-09,Hydraulic Service,Battery Failure,Bucket Teeth,23.1,58033,2024-08-08,Completed
+MAIN10987,EQX1168,2024-11-24,Corrective Maintenance,Fuel Leakage,Brake Pads,40.4,100036,2024-12-24,Completed
+MAIN10988,EQX1206,2025-05-31,Corrective Maintenance,Low Engine Oil,Hydraulic Hose,47.8,9480,2025-06-30,In Progress
+MAIN10989,EQX1212,2025-01-04,Preventive Maintenance,Transmission Fault,Bucket Teeth,29.5,127760,2025-03-05,Completed
+MAIN10990,EQX1182,2024-10-15,Corrective Maintenance,Track Wear,Battery,11.2,93151,2024-11-14,Completed
+MAIN10991,EQX1188,2024-12-29,Preventive Maintenance,Engine Overheating,Track Chain,17.9,100230,2025-02-27,Completed
+MAIN10992,EQX1053,2025-01-28,Preventive Maintenance,Low Engine Oil,Oil Filter,35.8,131995,2025-02-27,Completed
+MAIN10993,EQX1187,2025-05-20,Inspection,No Issue,None,37.7,47018,2025-07-04,Completed
+MAIN10994,EQX1084,2024-07-13,Corrective Maintenance,Transmission Fault,Fuel Filter,18.3,25736,2024-09-11,Completed
+MAIN10995,EQX1035,2025-02-24,Inspection,No Issue,None,15.8,47700,2025-04-10,Completed
+MAIN10996,EQX1057,2024-09-23,Corrective Maintenance,Transmission Fault,Oil Filter,12.1,107430,2024-10-23,Completed
+MAIN10997,EQX1004,2024-07-21,Hydraulic Service,Track Wear,Brake Pads,42.0,106401,2024-09-19,Scheduled
+MAIN10998,EQX1068,2024-09-19,Emergency Repair,Track Wear,Hydraulic Pump,33.8,107054,2024-11-18,Scheduled
+MAIN10999,EQX1089,2025-01-07,Corrective Maintenance,Battery Failure,Bucket Teeth,41.1,82253,2025-02-06,Completed
+MAIN11000,EQX1055,2025-05-11,Corrective Maintenance,Engine Overheating,Fuel Filter,40.1,24960,2025-07-10,Completed
+MAIN11001,EQX1132,2024-12-17,Emergency Repair,Hydraulic Leakage,Brake Pads,26.8,101357,2025-01-31,Completed
+MAIN11002,EQX1126,2025-01-03,Corrective Maintenance,Bucket Damage,Engine Belt,23.2,105273,2025-03-04,Completed
+MAIN11003,EQX1115,2025-06-17,Hydraulic Service,Transmission Fault,Hydraulic Hose,31.5,65815,2025-07-17,Completed
+MAIN11004,EQX1275,2025-05-21,Preventive Maintenance,Fuel Leakage,Brake Pads,4.3,86750,2025-07-20,Completed
+MAIN11005,EQX1233,2024-08-20,Hydraulic Service,Transmission Fault,Oil Filter,15.4,112326,2024-10-19,Completed
+MAIN11006,EQX1105,2025-03-28,Corrective Maintenance,Hydraulic Leakage,Hydraulic Pump,41.3,104198,2025-04-27,Completed
+MAIN11007,EQX1073,2024-12-08,Hydraulic Service,Hydraulic Leakage,Battery,28.3,82107,2025-01-22,Completed
+MAIN11008,EQX1184,2025-01-28,Preventive Maintenance,Battery Failure,Brake Pads,4.3,21801,2025-03-29,Scheduled
+MAIN11009,EQX1018,2024-08-18,Corrective Maintenance,Engine Overheating,Bucket Teeth,2.2,10913,2024-10-17,Completed
+MAIN11010,EQX1147,2025-04-07,Corrective Maintenance,Battery Failure,Oil Filter,29.7,104810,2025-05-22,Completed
+MAIN11011,EQX1048,2025-02-01,Corrective Maintenance,Transmission Fault,Brake Pads,35.4,137377,2025-04-02,Completed
+MAIN11012,EQX1265,2024-09-18,Preventive Maintenance,Low Engine Oil,Track Chain,28.6,132834,2024-11-17,Completed
+MAIN11013,EQX1185,2025-03-17,Inspection,No Issue,None,43.1,93347,2025-05-01,Completed
+MAIN11014,EQX1118,2024-07-20,Corrective Maintenance,Low Engine Oil,Hydraulic Pump,31.6,33334,2024-09-18,Completed
+MAIN11015,EQX1039,2024-09-29,Preventive Maintenance,Brake Wear,Brake Pads,24.1,65390,2024-11-28,Completed
+MAIN11016,EQX1268,2024-09-14,Inspection,No Issue,None,30.2,129885,2024-10-14,In Progress
+MAIN11017,EQX1007,2024-08-06,Emergency Repair,Hydraulic Leakage,Hydraulic Pump,29.1,85601,2024-09-05,In Progress
+MAIN11018,EQX1245,2024-12-05,Corrective Maintenance,Brake Wear,Hydraulic Hose,15.4,147083,2025-01-04,Completed
+MAIN11019,EQX1121,2025-03-12,Inspection,No Issue,None,10.4,74698,2025-04-26,Scheduled
+MAIN11020,EQX1183,2025-01-24,Preventive Maintenance,Battery Failure,Battery,22.4,78598,2025-02-23,Completed
+MAIN11021,EQX1060,2024-07-02,Corrective Maintenance,Hydraulic Leakage,Hydraulic Pump,35.6,50121,2024-08-01,In Progress
+MAIN11022,EQX1101,2025-02-09,Corrective Maintenance,Bucket Damage,Fuel Filter,24.3,114900,2025-04-10,Completed
+MAIN11023,EQX1269,2025-01-23,Corrective Maintenance,Engine Overheating,Hydraulic Hose,18.0,134380,2025-03-09,Completed
+MAIN11024,EQX1208,2024-10-02,Corrective Maintenance,Bucket Damage,Brake Pads,32.2,56137,2024-11-16,Completed
+MAIN11025,EQX1224,2024-11-09,Emergency Repair,Track Wear,Oil Filter,35.7,127056,2024-12-09,Completed
+MAIN11026,EQX1214,2025-05-18,Emergency Repair,Bucket Damage,Hydraulic Hose,47.4,103434,2025-07-17,Completed
+MAIN11027,EQX1128,2024-09-15,Corrective Maintenance,Fuel Leakage,Hydraulic Hose,7.9,102240,2024-10-30,Completed
+MAIN11028,EQX1154,2025-06-23,Preventive Maintenance,Fuel Leakage,Fuel Filter,32.3,26460,2025-08-07,Completed
+MAIN11029,EQX1092,2024-11-02,Oil Change,Low Engine Oil,Battery,7.2,104078,2025-01-01,Completed
+MAIN11030,EQX1034,2025-05-13,Corrective Maintenance,Track Wear,Hydraulic Hose,4.7,74125,2025-06-27,Completed
+MAIN11031,EQX1234,2024-07-30,Emergency Repair,Engine Overheating,Track Chain,16.4,54904,2024-09-13,Completed
+MAIN11032,EQX1123,2025-02-02,Hydraulic Service,Bucket Damage,Fuel Filter,33.4,133816,2025-04-03,Completed
+MAIN11033,EQX1086,2024-11-07,Inspection,No Issue,None,23.8,81683,2024-12-07,Completed
+MAIN11034,EQX1106,2025-04-07,Inspection,No Issue,None,3.5,39662,2025-05-07,Completed
+MAIN11035,EQX1272,2025-03-20,Corrective Maintenance,Engine Overheating,Hydraulic Pump,40.3,37601,2025-04-19,In Progress
+MAIN11036,EQX1191,2025-02-22,Corrective Maintenance,Transmission Fault,Brake Pads,6.3,131943,2025-04-23,Completed
+MAIN11037,EQX1220,2024-07-29,Preventive Maintenance,Fuel Leakage,Battery,37.9,95312,2024-09-27,Completed
+MAIN11038,EQX1274,2024-08-23,Preventive Maintenance,Battery Failure,Battery,4.6,46651,2024-09-22,In Progress
+MAIN11039,EQX1102,2024-12-03,Corrective Maintenance,Fuel Leakage,Brake Pads,27.1,20673,2025-01-02,Completed
+MAIN11040,EQX1025,2024-11-13,Emergency Repair,Brake Wear,Hydraulic Pump,14.6,48058,2025-01-12,Completed
+MAIN11041,EQX1114,2024-11-21,Corrective Maintenance,Low Engine Oil,Oil Filter,7.6,123191,2025-01-05,Completed
+MAIN11042,EQX1025,2025-02-21,Emergency Repair,Bucket Damage,Bucket Teeth,12.0,139300,2025-04-07,Completed
+MAIN11043,EQX1143,2024-07-04,Preventive Maintenance,Brake Wear,Battery,34.4,123582,2024-09-02,Scheduled
+MAIN11044,EQX1116,2025-02-18,Emergency Repair,Battery Failure,Track Chain,3.5,135220,2025-04-04,Completed
+MAIN11045,EQX1175,2024-11-21,Corrective Maintenance,Hydraulic Leakage,Brake Pads,29.8,80228,2025-01-05,Completed
+MAIN11046,EQX1043,2024-08-11,Preventive Maintenance,Low Engine Oil,Battery,9.2,86110,2024-10-10,Completed
+MAIN11047,EQX1190,2025-04-21,Emergency Repair,Bucket Damage,Battery,15.9,71757,2025-05-21,Completed
+MAIN11048,EQX1033,2025-03-12,Hydraulic Service,Transmission Fault,Oil Filter,29.4,107117,2025-04-11,Completed
+MAIN11049,EQX1202,2025-02-12,Emergency Repair,Transmission Fault,Track Chain,36.2,62713,2025-03-14,Completed
+MAIN11050,EQX1039,2025-04-27,Inspection,No Issue,None,16.7,134797,2025-06-11,Completed
+MAIN11051,EQX1048,2024-09-01,Inspection,No Issue,None,18.7,119736,2024-10-31,In Progress
+MAIN11052,EQX1050,2025-04-14,Emergency Repair,Track Wear,Bucket Teeth,43.9,91061,2025-05-14,In Progress
+MAIN11053,EQX1160,2024-07-21,Inspection,No Issue,None,22.0,110918,2024-09-04,Completed
+MAIN11054,EQX1100,2025-01-22,Inspection,No Issue,None,3.6,53137,2025-02-21,Completed
+MAIN11055,EQX1062,2025-01-16,Inspection,No Issue,None,47.3,13281,2025-02-15,Completed
+MAIN11056,EQX1293,2025-05-27,Inspection,No Issue,None,33.8,72326,2025-07-11,Completed
+MAIN11057,EQX1260,2024-11-10,Emergency Repair,Track Wear,Track Chain,30.7,59794,2025-01-09,In Progress
+MAIN11058,EQX1194,2024-09-11,Preventive Maintenance,Fuel Leakage,Hydraulic Pump,12.5,47210,2024-10-26,Completed
+MAIN11059,EQX1156,2025-01-11,Emergency Repair,Hydraulic Leakage,Bucket Teeth,41.2,138545,2025-02-25,Completed
+MAIN11060,EQX1212,2025-03-24,Inspection,No Issue,None,6.3,33703,2025-04-23,Completed
+MAIN11061,EQX1004,2024-09-09,Corrective Maintenance,Transmission Fault,Track Chain,28.1,144000,2024-10-09,Completed
+MAIN11062,EQX1244,2024-09-28,Corrective Maintenance,Fuel Leakage,Brake Pads,9.5,134442,2024-11-12,In Progress
+MAIN11063,EQX1262,2024-11-16,Corrective Maintenance,Battery Failure,Fuel Filter,27.4,30369,2024-12-31,Completed
+MAIN11064,EQX1230,2024-12-20,Corrective Maintenance,Fuel Leakage,Hydraulic Pump,29.2,79951,2025-02-03,Completed
+MAIN11065,EQX1194,2025-02-01,Inspection,No Issue,None,47.7,131909,2025-03-18,In Progress
+MAIN11066,EQX1098,2025-03-05,Hydraulic Service,Bucket Damage,Hydraulic Pump,39.8,55053,2025-05-04,Completed
+MAIN11067,EQX1144,2024-08-21,Preventive Maintenance,Low Engine Oil,Fuel Filter,35.8,98758,2024-10-20,Completed
+MAIN11068,EQX1214,2025-03-04,Hydraulic Service,Engine Overheating,Brake Pads,13.2,144479,2025-04-18,Completed
+MAIN11069,EQX1223,2024-10-10,Inspection,No Issue,None,46.5,142309,2024-11-24,Completed
+MAIN11070,EQX1099,2025-03-05,Corrective Maintenance,Fuel Leakage,Engine Belt,7.4,54314,2025-05-04,Completed
+MAIN11071,EQX1210,2025-02-02,Emergency Repair,Bucket Damage,Hydraulic Pump,38.9,97507,2025-04-03,Completed
+MAIN11072,EQX1220,2024-11-19,Preventive Maintenance,Track Wear,Hydraulic Pump,26.6,42986,2024-12-19,Completed
+MAIN11073,EQX1159,2025-01-26,Emergency Repair,Bucket Damage,Fuel Filter,34.9,13001,2025-03-12,Completed
+MAIN11074,EQX1091,2025-04-26,Corrective Maintenance,Hydraulic Leakage,Bucket Teeth,21.5,147893,2025-06-10,Scheduled
+MAIN11075,EQX1231,2025-01-28,Corrective Maintenance,Track Wear,Engine Belt,2.5,62680,2025-03-14,Completed
+MAIN11076,EQX1209,2024-11-25,Preventive Maintenance,Hydraulic Leakage,Track Chain,29.8,121551,2025-01-09,Completed
+MAIN11077,EQX1095,2024-08-03,Preventive Maintenance,Fuel Leakage,Engine Belt,21.2,48691,2024-09-02,Completed
+MAIN11078,EQX1077,2025-02-20,Emergency Repair,Bucket Damage,Bucket Teeth,22.1,14182,2025-03-22,Scheduled
+MAIN11079,EQX1179,2024-08-20,Inspection,No Issue,None,35.7,129265,2024-09-19,Scheduled
+MAIN11080,EQX1118,2024-07-20,Inspection,No Issue,None,24.7,59496,2024-08-19,Completed
+MAIN11081,EQX1224,2024-09-28,Hydraulic Service,Transmission Fault,Hydraulic Hose,26.8,21280,2024-11-27,In Progress
+MAIN11082,EQX1004,2025-02-07,Emergency Repair,Brake Wear,Hydraulic Pump,40.5,68554,2025-03-24,Completed
+MAIN11083,EQX1015,2025-04-28,Corrective Maintenance,Fuel Leakage,Brake Pads,20.2,110942,2025-06-27,Completed
+MAIN11084,EQX1287,2024-11-21,Inspection,No Issue,None,44.2,41816,2025-01-05,Completed
+MAIN11085,EQX1213,2024-10-25,Oil Change,Track Wear,Brake Pads,15.1,127840,2024-12-24,Completed
+MAIN11086,EQX1206,2024-07-08,Emergency Repair,Brake Wear,Hydraulic Pump,33.5,74813,2024-08-07,Completed
+MAIN11087,EQX1258,2025-04-07,Emergency Repair,Hydraulic Leakage,Oil Filter,32.6,24529,2025-05-22,Completed
+MAIN11088,EQX1032,2025-01-28,Oil Change,Brake Wear,Track Chain,25.5,125565,2025-03-14,In Progress
+MAIN11089,EQX1212,2024-11-10,Preventive Maintenance,Low Engine Oil,Bucket Teeth,38.8,117460,2024-12-10,Completed
+MAIN11090,EQX1296,2025-06-01,Inspection,No Issue,None,4.1,136994,2025-07-16,In Progress
+MAIN11091,EQX1240,2024-08-10,Inspection,No Issue,None,32.8,58283,2024-10-09,Completed
+MAIN11092,EQX1176,2025-01-29,Inspection,No Issue,None,26.3,96603,2025-03-30,Completed
+MAIN11093,EQX1238,2025-04-27,Corrective Maintenance,Fuel Leakage,Track Chain,13.3,71686,2025-05-27,Scheduled
+MAIN11094,EQX1093,2025-06-04,Emergency Repair,Low Engine Oil,Brake Pads,37.3,10594,2025-07-19,Completed
+MAIN11095,EQX1067,2025-05-25,Corrective Maintenance,Low Engine Oil,Battery,25.9,99364,2025-07-24,Completed
+MAIN11096,EQX1272,2024-10-27,Corrective Maintenance,Low Engine Oil,Hydraulic Hose,17.6,93715,2024-12-11,Completed
+MAIN11097,EQX1251,2024-12-22,Corrective Maintenance,Battery Failure,Hydraulic Pump,30.5,41815,2025-01-21,In Progress
+MAIN11098,EQX1080,2025-06-14,Emergency Repair,Engine Overheating,Bucket Teeth,42.6,69159,2025-08-13,Completed
+MAIN11099,EQX1276,2024-11-23,Emergency Repair,Engine Overheating,Hydraulic Hose,11.3,61495,2025-01-07,Completed
+MAIN11100,EQX1096,2024-11-05,Corrective Maintenance,Low Engine Oil,Hydraulic Pump,29.4,46893,2025-01-04,Scheduled
+MAIN11101,EQX1164,2024-09-21,Corrective Maintenance,Low Engine Oil,Battery,28.5,141463,2024-10-21,Completed
+MAIN11102,EQX1029,2025-05-03,Preventive Maintenance,Engine Overheating,Track Chain,32.0,93900,2025-07-02,Completed
+MAIN11103,EQX1178,2024-10-11,Corrective Maintenance,Transmission Fault,Brake Pads,13.7,93997,2024-12-10,Completed
+MAIN11104,EQX1112,2025-01-05,Emergency Repair,Low Engine Oil,Hydraulic Hose,7.5,33285,2025-02-19,Completed
+MAIN11105,EQX1284,2024-08-28,Corrective Maintenance,Track Wear,Battery,28.8,118577,2024-09-27,Completed
+MAIN11106,EQX1097,2024-07-13,Emergency Repair,Hydraulic Leakage,Oil Filter,39.7,51721,2024-09-11,Completed
+MAIN11107,EQX1060,2024-09-28,Preventive Maintenance,Bucket Damage,Brake Pads,7.5,143108,2024-10-28,Completed
+MAIN11108,EQX1263,2024-12-14,Preventive Maintenance,Transmission Fault,Hydraulic Hose,41.7,77849,2025-01-13,Completed
+MAIN11109,EQX1224,2024-07-07,Corrective Maintenance,Low Engine Oil,Hydraulic Pump,40.2,42959,2024-09-05,Completed
+MAIN11110,EQX1106,2025-01-29,Inspection,No Issue,None,39.0,118240,2025-02-28,Completed
+MAIN11111,EQX1262,2025-01-22,Corrective Maintenance,Battery Failure,Brake Pads,45.8,12339,2025-03-08,Completed
+MAIN11112,EQX1074,2024-08-07,Inspection,No Issue,None,11.5,99387,2024-09-06,Completed
+MAIN11113,EQX1055,2024-12-28,Hydraulic Service,Engine Overheating,Battery,28.3,51240,2025-02-26,Completed
+MAIN11114,EQX1029,2025-01-30,Inspection,No Issue,None,38.8,68502,2025-03-31,Completed
+MAIN11115,EQX1172,2025-02-06,Corrective Maintenance,Track Wear,Oil Filter,4.3,96716,2025-04-07,In Progress
+MAIN11116,EQX1235,2025-05-07,Preventive Maintenance,Engine Overheating,Oil Filter,39.2,15092,2025-06-06,Completed
+MAIN11117,EQX1014,2024-12-31,Preventive Maintenance,Battery Failure,Bucket Teeth,33.3,59066,2025-02-14,Completed
+MAIN11118,EQX1071,2024-08-21,Preventive Maintenance,Battery Failure,Hydraulic Hose,4.8,106643,2024-09-20,Completed
+MAIN11119,EQX1180,2024-09-05,Emergency Repair,Hydraulic Leakage,Brake Pads,16.7,15015,2024-10-05,In Progress
+MAIN11120,EQX1019,2025-02-17,Preventive Maintenance,Hydraulic Leakage,Fuel Filter,37.9,77724,2025-04-18,Completed
+MAIN11121,EQX1086,2025-06-10,Inspection,No Issue,None,19.7,77509,2025-07-25,Completed
+MAIN11122,EQX1164,2025-02-26,Preventive Maintenance,Brake Wear,Engine Belt,12.7,59366,2025-04-27,In Progress
+MAIN11123,EQX1169,2025-04-18,Corrective Maintenance,Hydraulic Leakage,Engine Belt,17.7,61361,2025-05-18,Completed
+MAIN11124,EQX1075,2024-07-16,Oil Change,Transmission Fault,Oil Filter,32.5,130264,2024-08-15,Completed
+MAIN11125,EQX1019,2024-08-22,Inspection,No Issue,None,6.3,101016,2024-10-21,Completed
+MAIN11126,EQX1007,2025-05-12,Emergency Repair,Transmission Fault,Engine Belt,47.3,54845,2025-07-11,Completed
+MAIN11127,EQX1148,2024-11-10,Emergency Repair,Engine Overheating,Hydraulic Pump,12.7,49239,2024-12-10,Completed
+MAIN11128,EQX1038,2025-04-29,Preventive Maintenance,Fuel Leakage,Hydraulic Pump,32.6,78674,2025-06-28,Completed
+MAIN11129,EQX1044,2025-04-01,Inspection,No Issue,None,5.6,131650,2025-05-16,Completed
+MAIN11130,EQX1033,2024-09-15,Hydraulic Service,Bucket Damage,Brake Pads,26.3,33730,2024-11-14,Completed
+MAIN11131,EQX1137,2025-03-11,Emergency Repair,Brake Wear,Bucket Teeth,21.9,139407,2025-05-10,Completed
+MAIN11132,EQX1281,2025-06-23,Inspection,No Issue,None,17.5,128436,2025-08-07,Completed
+MAIN11133,EQX1169,2024-09-15,Corrective Maintenance,Low Engine Oil,Fuel Filter,37.9,109628,2024-11-14,Scheduled
+MAIN11134,EQX1185,2025-06-09,Preventive Maintenance,Brake Wear,Track Chain,47.7,57875,2025-08-08,Completed
+MAIN11135,EQX1163,2025-02-27,Preventive Maintenance,Low Engine Oil,Battery,26.0,78989,2025-04-13,Completed
+MAIN11136,EQX1221,2025-03-19,Corrective Maintenance,Transmission Fault,Brake Pads,40.2,71626,2025-05-03,Completed
+MAIN11137,EQX1252,2024-10-06,Hydraulic Service,Bucket Damage,Oil Filter,3.4,28027,2024-11-20,Completed
+MAIN11138,EQX1155,2024-08-17,Corrective Maintenance,Battery Failure,Hydraulic Hose,43.7,115797,2024-10-01,Completed
+MAIN11139,EQX1159,2024-12-09,Hydraulic Service,Track Wear,Engine Belt,34.3,116359,2025-01-08,Completed
+MAIN11140,EQX1283,2024-07-10,Corrective Maintenance,Engine Overheating,Hydraulic Hose,3.8,133168,2024-08-09,Completed
+MAIN11141,EQX1079,2025-05-16,Preventive Maintenance,Low Engine Oil,Track Chain,41.9,60702,2025-06-30,Scheduled
+MAIN11142,EQX1250,2024-10-26,Corrective Maintenance,Brake Wear,Brake Pads,27.0,115754,2024-11-25,Completed
+MAIN11143,EQX1143,2025-01-01,Inspection,No Issue,None,18.6,20431,2025-01-31,Completed
+MAIN11144,EQX1293,2025-01-04,Preventive Maintenance,Low Engine Oil,Bucket Teeth,40.0,57839,2025-02-18,Completed
+MAIN11145,EQX1267,2025-02-12,Inspection,No Issue,None,28.5,136345,2025-03-29,Completed
+MAIN11146,EQX1210,2025-01-25,Hydraulic Service,Bucket Damage,Brake Pads,14.3,88697,2025-03-26,Completed
+MAIN11147,EQX1140,2025-03-05,Corrective Maintenance,Track Wear,Hydraulic Pump,32.5,94435,2025-04-04,Completed
+MAIN11148,EQX1081,2025-03-22,Corrective Maintenance,Hydraulic Leakage,Track Chain,23.2,16059,2025-05-06,Completed
+MAIN11149,EQX1172,2025-06-13,Corrective Maintenance,Brake Wear,Fuel Filter,24.7,103915,2025-07-13,Completed
+MAIN11150,EQX1219,2024-09-12,Preventive Maintenance,Fuel Leakage,Brake Pads,43.4,103338,2024-10-12,Completed
+MAIN11151,EQX1055,2024-09-16,Hydraulic Service,Hydraulic Leakage,Brake Pads,39.5,101903,2024-10-31,Completed
+MAIN11152,EQX1016,2025-04-22,Oil Change,Hydraulic Leakage,Track Chain,35.7,110237,2025-06-06,Completed
+MAIN11153,EQX1281,2025-06-27,Corrective Maintenance,Battery Failure,Hydraulic Pump,20.4,95596,2025-07-27,Completed
+MAIN11154,EQX1239,2024-09-30,Preventive Maintenance,Track Wear,Hydraulic Hose,30.7,101314,2024-10-30,Completed
+MAIN11155,EQX1203,2025-05-01,Emergency Repair,Battery Failure,Hydraulic Hose,32.1,134803,2025-06-30,Completed
+MAIN11156,EQX1118,2025-01-24,Inspection,No Issue,None,36.3,48422,2025-03-10,Completed
+MAIN11157,EQX1110,2025-05-10,Preventive Maintenance,Battery Failure,Bucket Teeth,3.7,81008,2025-07-09,Completed
+MAIN11158,EQX1062,2025-06-23,Preventive Maintenance,Brake Wear,Engine Belt,38.9,23593,2025-07-23,Completed
+MAIN11159,EQX1108,2025-01-26,Preventive Maintenance,Bucket Damage,Hydraulic Pump,18.2,124171,2025-03-27,Completed
+MAIN11160,EQX1200,2024-11-13,Corrective Maintenance,Bucket Damage,Hydraulic Pump,6.2,94331,2024-12-13,Completed
+MAIN11161,EQX1053,2024-11-22,Preventive Maintenance,Engine Overheating,Battery,19.9,116065,2024-12-22,Completed
+MAIN11162,EQX1012,2024-07-02,Emergency Repair,Fuel Leakage,Track Chain,19.9,125148,2024-08-31,Completed
+MAIN11163,EQX1052,2024-11-10,Preventive Maintenance,Hydraulic Leakage,Oil Filter,23.3,96621,2025-01-09,Completed
+MAIN11164,EQX1012,2025-07-01,Hydraulic Service,Fuel Leakage,Fuel Filter,44.0,54892,2025-07-31,Completed
+MAIN11165,EQX1028,2024-11-01,Corrective Maintenance,Hydraulic Leakage,Hydraulic Pump,21.0,55920,2024-12-01,Completed
+MAIN11166,EQX1091,2024-11-21,Hydraulic Service,Track Wear,Bucket Teeth,17.8,28618,2024-12-21,Completed
+MAIN11167,EQX1112,2024-10-06,Corrective Maintenance,Battery Failure,Battery,5.8,105614,2024-11-20,Completed
+MAIN11168,EQX1051,2024-08-29,Emergency Repair,Bucket Damage,Engine Belt,14.5,148720,2024-10-28,Completed
+MAIN11169,EQX1124,2024-12-19,Inspection,No Issue,None,38.5,77091,2025-02-02,Completed
+MAIN11170,EQX1298,2025-05-26,Preventive Maintenance,Brake Wear,Hydraulic Hose,15.2,97997,2025-07-25,Scheduled
+MAIN11171,EQX1015,2025-06-10,Preventive Maintenance,Battery Failure,Battery,2.5,46771,2025-07-10,Completed
+MAIN11172,EQX1293,2024-10-30,Inspection,No Issue,None,27.3,41725,2024-12-29,In Progress
+MAIN11173,EQX1186,2025-01-12,Oil Change,Transmission Fault,Oil Filter,31.9,75184,2025-03-13,Completed
+MAIN11174,EQX1144,2024-11-24,Inspection,No Issue,None,42.8,26229,2025-01-08,Completed
+MAIN11175,EQX1148,2025-05-13,Emergency Repair,Brake Wear,Oil Filter,27.0,120909,2025-06-12,In Progress
+MAIN11176,EQX1057,2025-04-16,Hydraulic Service,Engine Overheating,Battery,34.1,102787,2025-06-15,Completed
+MAIN11177,EQX1065,2025-04-30,Corrective Maintenance,Bucket Damage,Bucket Teeth,19.0,10407,2025-06-14,Completed
+MAIN11178,EQX1072,2025-04-16,Preventive Maintenance,Engine Overheating,Engine Belt,29.3,72316,2025-05-31,Completed
+MAIN11179,EQX1072,2024-08-17,Preventive Maintenance,Low Engine Oil,Engine Belt,19.0,81154,2024-09-16,Scheduled
+MAIN11180,EQX1089,2025-02-19,Corrective Maintenance,Low Engine Oil,Brake Pads,12.4,110034,2025-04-05,Completed
+MAIN11181,EQX1137,2025-03-06,Hydraulic Service,Battery Failure,Oil Filter,44.6,62645,2025-04-05,Completed
+MAIN11182,EQX1242,2024-07-05,Emergency Repair,Low Engine Oil,Fuel Filter,18.9,45469,2024-08-19,Completed
+MAIN11183,EQX1083,2025-02-03,Corrective Maintenance,Bucket Damage,Hydraulic Hose,3.3,27542,2025-03-05,Completed
+MAIN11184,EQX1190,2024-11-19,Emergency Repair,Hydraulic Leakage,Track Chain,16.1,80571,2024-12-19,Completed
+MAIN11185,EQX1048,2024-09-05,Preventive Maintenance,Transmission Fault,Fuel Filter,12.2,117772,2024-11-04,Completed
+MAIN11186,EQX1031,2025-05-25,Corrective Maintenance,Bucket Damage,Fuel Filter,6.4,94494,2025-06-24,Completed
+MAIN11187,EQX1094,2025-05-13,Preventive Maintenance,Track Wear,Hydraulic Pump,18.4,64395,2025-06-12,Scheduled
+MAIN11188,EQX1146,2025-04-10,Corrective Maintenance,Low Engine Oil,Bucket Teeth,34.8,64286,2025-06-09,Completed
+MAIN11189,EQX1274,2024-09-22,Inspection,No Issue,None,7.0,13970,2024-10-22,In Progress
+MAIN11190,EQX1240,2024-07-03,Corrective Maintenance,Bucket Damage,Battery,25.7,76506,2024-09-01,Completed
+MAIN11191,EQX1074,2025-06-19,Inspection,No Issue,None,18.5,84665,2025-08-18,Completed
+MAIN11192,EQX1173,2025-03-17,Preventive Maintenance,Transmission Fault,Battery,46.6,144707,2025-04-16,Scheduled
+MAIN11193,EQX1235,2024-11-03,Preventive Maintenance,Battery Failure,Bucket Teeth,25.2,68894,2024-12-18,In Progress
+MAIN11194,EQX1109,2025-04-26,Corrective Maintenance,Brake Wear,Engine Belt,27.6,49793,2025-05-26,Completed
+MAIN11195,EQX1235,2024-10-08,Corrective Maintenance,Low Engine Oil,Hydraulic Pump,36.4,23534,2024-12-07,Completed
+MAIN11196,EQX1088,2025-02-08,Inspection,No Issue,None,12.6,81649,2025-04-09,In Progress
+MAIN11197,EQX1183,2024-12-06,Inspection,No Issue,None,25.6,124863,2025-01-05,Completed
+MAIN11198,EQX1041,2025-04-18,Emergency Repair,Low Engine Oil,Track Chain,38.0,68570,2025-06-02,Completed
+MAIN11199,EQX1061,2025-06-14,Preventive Maintenance,Transmission Fault,Hydraulic Hose,39.3,30327,2025-08-13,Completed
+MAIN11200,EQX1039,2025-04-29,Preventive Maintenance,Engine Overheating,Hydraulic Pump,41.2,122016,2025-06-28,Completed
+MAIN11201,EQX1089,2025-05-14,Corrective Maintenance,Battery Failure,Hydraulic Pump,44.7,59691,2025-07-13,Completed
+MAIN11202,EQX1287,2025-03-30,Corrective Maintenance,Fuel Leakage,Hydraulic Pump,12.0,48890,2025-05-29,Completed
+MAIN11203,EQX1016,2025-01-08,Inspection,No Issue,None,8.9,31013,2025-02-07,Completed
+MAIN11204,EQX1235,2024-07-01,Preventive Maintenance,Transmission Fault,Fuel Filter,14.4,27575,2024-08-15,Completed
+MAIN11205,EQX1043,2024-07-19,Corrective Maintenance,Brake Wear,Fuel Filter,29.2,142389,2024-08-18,Completed
+MAIN11206,EQX1030,2025-04-16,Preventive Maintenance,Transmission Fault,Brake Pads,37.3,7936,2025-05-16,Completed
+MAIN11207,EQX1158,2024-08-02,Corrective Maintenance,Engine Overheating,Hydraulic Pump,23.5,93684,2024-09-16,Completed
+MAIN11208,EQX1109,2024-07-31,Inspection,No Issue,None,39.8,104759,2024-09-14,Completed
+MAIN11209,EQX1239,2025-04-15,Preventive Maintenance,Transmission Fault,Hydraulic Pump,14.9,134986,2025-06-14,Completed
+MAIN11210,EQX1292,2024-09-24,Emergency Repair,Transmission Fault,Oil Filter,36.9,118291,2024-10-24,Completed
+MAIN11211,EQX1009,2025-05-12,Hydraulic Service,Hydraulic Leakage,Hydraulic Hose,3.1,19196,2025-07-11,In Progress
+MAIN11212,EQX1136,2024-12-22,Inspection,No Issue,None,21.8,114533,2025-01-21,Completed
+MAIN11213,EQX1056,2024-11-04,Preventive Maintenance,Bucket Damage,Fuel Filter,24.8,24388,2024-12-04,In Progress
+MAIN11214,EQX1005,2025-04-18,Corrective Maintenance,Fuel Leakage,Brake Pads,5.7,132602,2025-06-02,Completed
+MAIN11215,EQX1116,2025-03-30,Corrective Maintenance,Fuel Leakage,Battery,5.4,107574,2025-05-29,Completed
+MAIN11216,EQX1283,2025-05-27,Emergency Repair,Battery Failure,Fuel Filter,4.3,24094,2025-07-11,Completed
+MAIN11217,EQX1220,2024-11-26,Corrective Maintenance,Brake Wear,Hydraulic Pump,43.6,48912,2025-01-25,Completed
+MAIN11218,EQX1042,2024-07-25,Corrective Maintenance,Low Engine Oil,Hydraulic Pump,23.0,138417,2024-09-23,Completed
+MAIN11219,EQX1050,2024-12-05,Corrective Maintenance,Brake Wear,Hydraulic Hose,38.2,141168,2025-02-03,Completed
+MAIN11220,EQX1297,2025-03-02,Corrective Maintenance,Track Wear,Oil Filter,42.4,141741,2025-05-01,Completed
+MAIN11221,EQX1253,2024-07-24,Oil Change,Engine Overheating,Track Chain,19.3,24984,2024-08-23,Completed
+MAIN11222,EQX1077,2025-04-19,Emergency Repair,Battery Failure,Track Chain,36.7,115433,2025-06-03,Completed
+MAIN11223,EQX1290,2024-07-25,Inspection,No Issue,None,46.2,15900,2024-09-23,Completed
+MAIN11224,EQX1085,2025-03-31,Inspection,No Issue,None,18.7,16178,2025-04-30,Completed
+MAIN11225,EQX1165,2024-09-17,Corrective Maintenance,Fuel Leakage,Engine Belt,28.2,8975,2024-10-17,In Progress
+MAIN11226,EQX1193,2025-01-25,Preventive Maintenance,Transmission Fault,Hydraulic Hose,24.5,133640,2025-03-11,Completed
+MAIN11227,EQX1136,2024-07-07,Preventive Maintenance,Track Wear,Engine Belt,10.4,96808,2024-08-21,Completed
+MAIN11228,EQX1103,2025-04-29,Inspection,No Issue,None,39.4,8644,2025-06-13,Completed
+MAIN11229,EQX1203,2024-11-01,Emergency Repair,Low Engine Oil,Hydraulic Pump,40.7,78362,2024-12-31,Completed
+MAIN11230,EQX1010,2024-10-23,Inspection,No Issue,None,9.8,91416,2024-12-07,Completed
+MAIN11231,EQX1271,2024-07-21,Emergency Repair,Transmission Fault,Hydraulic Pump,9.0,149264,2024-08-20,Completed
+MAIN11232,EQX1063,2025-05-20,Emergency Repair,Fuel Leakage,Battery,33.9,60492,2025-07-19,Completed
+MAIN11233,EQX1252,2024-12-27,Corrective Maintenance,Brake Wear,Oil Filter,17.2,67262,2025-02-25,Completed
+MAIN11234,EQX1024,2024-07-31,Corrective Maintenance,Transmission Fault,Hydraulic Hose,5.0,101834,2024-08-30,Scheduled
+MAIN11235,EQX1271,2024-08-21,Hydraulic Service,Transmission Fault,Battery,36.1,66608,2024-09-20,Completed
+MAIN11236,EQX1258,2024-08-12,Emergency Repair,Battery Failure,Battery,39.3,32879,2024-09-11,Completed
+MAIN11237,EQX1282,2025-05-11,Inspection,No Issue,None,23.1,80038,2025-06-10,Scheduled
+MAIN11238,EQX1225,2024-09-18,Corrective Maintenance,Fuel Leakage,Brake Pads,5.4,99172,2024-10-18,Completed
+MAIN11239,EQX1072,2025-05-26,Preventive Maintenance,Bucket Damage,Oil Filter,14.1,79433,2025-07-10,Completed
+MAIN11240,EQX1286,2024-08-07,Corrective Maintenance,Transmission Fault,Battery,39.8,88423,2024-09-06,Completed
+MAIN11241,EQX1097,2025-05-09,Hydraulic Service,Brake Wear,Fuel Filter,24.3,88445,2025-07-08,Completed
+MAIN11242,EQX1205,2025-02-10,Hydraulic Service,Hydraulic Leakage,Track Chain,12.3,120047,2025-03-27,Completed
+MAIN11243,EQX1083,2025-02-20,Preventive Maintenance,Brake Wear,Track Chain,24.1,76074,2025-04-06,Completed
+MAIN11244,EQX1275,2025-01-03,Inspection,No Issue,None,31.2,138421,2025-02-02,In Progress
+MAIN11245,EQX1160,2025-04-02,Preventive Maintenance,Fuel Leakage,Track Chain,44.8,9148,2025-05-02,Completed
+MAIN11246,EQX1274,2024-11-01,Corrective Maintenance,Hydraulic Leakage,Battery,31.1,55567,2024-12-31,In Progress
+MAIN11247,EQX1242,2024-07-21,Corrective Maintenance,Brake Wear,Brake Pads,3.2,26319,2024-09-19,Completed
+MAIN11248,EQX1113,2024-09-18,Inspection,No Issue,None,36.0,53983,2024-11-17,Completed
+MAIN11249,EQX1101,2024-08-02,Emergency Repair,Engine Overheating,Oil Filter,47.6,97754,2024-09-01,Completed
+MAIN11250,EQX1254,2024-09-04,Corrective Maintenance,Fuel Leakage,Brake Pads,43.6,113571,2024-10-04,Completed
+MAIN11251,EQX1158,2024-10-10,Emergency Repair,Track Wear,Bucket Teeth,7.5,134623,2024-12-09,Completed
+MAIN11252,EQX1050,2025-05-08,Emergency Repair,Track Wear,Oil Filter,2.2,144314,2025-07-07,Completed
+MAIN11253,EQX1023,2024-08-15,Corrective Maintenance,Low Engine Oil,Bucket Teeth,14.4,14421,2024-10-14,Completed
+MAIN11254,EQX1089,2025-06-05,Emergency Repair,Brake Wear,Bucket Teeth,7.5,48956,2025-08-04,Completed
+MAIN11255,EQX1146,2025-01-10,Inspection,No Issue,None,25.2,42959,2025-02-09,Completed
+MAIN11256,EQX1300,2024-07-11,Preventive Maintenance,Hydraulic Leakage,Hydraulic Hose,11.1,32582,2024-08-10,In Progress
+MAIN11257,EQX1261,2024-07-05,Preventive Maintenance,Battery Failure,Brake Pads,42.4,67440,2024-08-19,Completed
+MAIN11258,EQX1210,2024-11-08,Emergency Repair,Engine Overheating,Brake Pads,22.9,101381,2024-12-08,Completed
+MAIN11259,EQX1047,2024-11-02,Emergency Repair,Battery Failure,Battery,32.2,82376,2025-01-01,Completed
+MAIN11260,EQX1158,2024-09-10,Corrective Maintenance,Fuel Leakage,Track Chain,2.4,128142,2024-10-10,Completed
+MAIN11261,EQX1266,2024-07-09,Corrective Maintenance,Brake Wear,Battery,27.9,140598,2024-09-07,Completed
+MAIN11262,EQX1171,2024-12-12,Emergency Repair,Track Wear,Hydraulic Hose,6.7,113072,2025-02-10,Completed
+MAIN11263,EQX1192,2025-05-31,Preventive Maintenance,Hydraulic Leakage,Brake Pads,36.0,67204,2025-06-30,Completed
+MAIN11264,EQX1100,2025-01-23,Corrective Maintenance,Track Wear,Battery,5.9,16885,2025-03-24,Completed
+MAIN11265,EQX1182,2025-04-27,Emergency Repair,Low Engine Oil,Battery,6.9,86611,2025-05-27,Completed
+MAIN11266,EQX1021,2025-03-27,Preventive Maintenance,Bucket Damage,Battery,40.5,111152,2025-04-26,Completed
+MAIN11267,EQX1280,2024-11-05,Preventive Maintenance,Fuel Leakage,Hydraulic Pump,33.8,60447,2024-12-05,Completed
+MAIN11268,EQX1118,2025-01-15,Corrective Maintenance,Battery Failure,Hydraulic Pump,10.9,122288,2025-02-14,Scheduled
+MAIN11269,EQX1297,2025-04-08,Corrective Maintenance,Fuel Leakage,Fuel Filter,11.2,59369,2025-05-08,Completed
+MAIN11270,EQX1269,2025-01-22,Corrective Maintenance,Low Engine Oil,Engine Belt,8.7,47634,2025-02-21,Completed
+MAIN11271,EQX1285,2024-10-13,Hydraulic Service,Engine Overheating,Battery,46.9,82942,2024-11-27,Completed
+MAIN11272,EQX1079,2024-10-11,Preventive Maintenance,Brake Wear,Battery,36.1,65863,2024-12-10,Completed
+MAIN11273,EQX1106,2025-01-28,Inspection,No Issue,None,16.6,23838,2025-03-29,Completed
+MAIN11274,EQX1190,2025-04-23,Corrective Maintenance,Fuel Leakage,Hydraulic Hose,47.9,148964,2025-05-23,In Progress
+MAIN11275,EQX1004,2025-02-06,Corrective Maintenance,Track Wear,Bucket Teeth,5.8,70669,2025-03-23,Completed
+MAIN11276,EQX1275,2024-12-18,Oil Change,Hydraulic Leakage,Oil Filter,7.0,5212,2025-02-16,In Progress
+MAIN11277,EQX1060,2024-11-07,Preventive Maintenance,Engine Overheating,Fuel Filter,45.7,85620,2024-12-07,In Progress
+MAIN11278,EQX1227,2024-11-08,Corrective Maintenance,Low Engine Oil,Bucket Teeth,17.3,47383,2025-01-07,Completed
+MAIN11279,EQX1126,2025-04-13,Emergency Repair,Low Engine Oil,Fuel Filter,11.0,89652,2025-06-12,Completed
+MAIN11280,EQX1120,2025-01-13,Corrective Maintenance,Bucket Damage,Hydraulic Hose,30.4,97225,2025-02-12,Completed
+MAIN11281,EQX1012,2025-03-06,Emergency Repair,Track Wear,Hydraulic Pump,15.0,140768,2025-05-05,Completed
+MAIN11282,EQX1187,2025-01-10,Inspection,No Issue,None,38.5,122111,2025-02-09,Completed
+MAIN11283,EQX1083,2024-10-20,Preventive Maintenance,Battery Failure,Brake Pads,23.1,78411,2024-11-19,Completed
+MAIN11284,EQX1014,2024-12-04,Preventive Maintenance,Transmission Fault,Hydraulic Pump,43.1,62133,2025-01-18,Completed
+MAIN11285,EQX1050,2025-04-18,Corrective Maintenance,Fuel Leakage,Track Chain,8.5,51387,2025-06-02,Completed
+MAIN11286,EQX1063,2024-08-06,Hydraulic Service,Low Engine Oil,Engine Belt,37.3,143809,2024-10-05,Completed
+MAIN11287,EQX1047,2025-06-10,Corrective Maintenance,Bucket Damage,Hydraulic Pump,44.8,67004,2025-08-09,In Progress
+MAIN11288,EQX1238,2024-11-15,Emergency Repair,Bucket Damage,Track Chain,40.0,54978,2025-01-14,Completed
+MAIN11289,EQX1052,2025-01-27,Preventive Maintenance,Fuel Leakage,Brake Pads,22.3,137821,2025-03-28,Completed
+MAIN11290,EQX1070,2025-02-23,Preventive Maintenance,Bucket Damage,Hydraulic Pump,31.9,26185,2025-04-09,Completed
+MAIN11291,EQX1213,2024-07-05,Inspection,No Issue,None,32.3,64125,2024-08-04,Completed
+MAIN11292,EQX1034,2025-01-18,Emergency Repair,Engine Overheating,Engine Belt,15.1,35777,2025-03-04,In Progress
+MAIN11293,EQX1064,2024-12-24,Inspection,No Issue,None,15.5,132904,2025-02-22,Completed
+MAIN11294,EQX1101,2025-06-04,Corrective Maintenance,Track Wear,Hydraulic Hose,37.9,88623,2025-07-04,Completed
+MAIN11295,EQX1061,2025-03-28,Inspection,No Issue,None,32.2,34181,2025-04-27,In Progress
+MAIN11296,EQX1211,2025-03-12,Emergency Repair,Battery Failure,Engine Belt,19.0,32242,2025-04-11,Scheduled
+MAIN11297,EQX1082,2024-07-27,Hydraulic Service,Fuel Leakage,Hydraulic Hose,32.9,102253,2024-08-26,Completed
+MAIN11298,EQX1213,2025-03-07,Oil Change,Fuel Leakage,Bucket Teeth,32.0,7060,2025-05-06,Completed
+MAIN11299,EQX1132,2025-02-21,Emergency Repair,Bucket Damage,Fuel Filter,16.3,105455,2025-04-07,Completed
+MAIN11300,EQX1228,2025-03-30,Emergency Repair,Low Engine Oil,Hydraulic Pump,13.7,121296,2025-05-14,Completed
+MAIN11301,EQX1174,2024-09-11,Emergency Repair,Track Wear,Fuel Filter,17.7,127822,2024-10-26,Completed
+MAIN11302,EQX1091,2024-11-12,Emergency Repair,Brake Wear,Engine Belt,9.3,67545,2024-12-12,Scheduled
+MAIN11303,EQX1098,2025-05-16,Corrective Maintenance,Fuel Leakage,Oil Filter,22.1,110212,2025-07-15,In Progress
+MAIN11304,EQX1203,2025-05-24,Corrective Maintenance,Bucket Damage,Oil Filter,16.5,85787,2025-07-08,Completed
+MAIN11305,EQX1127,2025-05-12,Emergency Repair,Hydraulic Leakage,Engine Belt,44.9,134451,2025-07-11,Completed
+MAIN11306,EQX1044,2025-05-06,Corrective Maintenance,Brake Wear,Battery,2.9,147309,2025-06-20,Completed
+MAIN11307,EQX1127,2024-08-31,Corrective Maintenance,Hydraulic Leakage,Fuel Filter,35.5,32680,2024-10-15,Completed
+MAIN11308,EQX1138,2025-02-18,Inspection,No Issue,None,45.0,82533,2025-03-20,Completed
+MAIN11309,EQX1168,2024-08-19,Preventive Maintenance,Transmission Fault,Bucket Teeth,30.3,57041,2024-10-03,Completed
+MAIN11310,EQX1165,2024-12-11,Inspection,No Issue,None,25.0,76225,2025-01-10,Scheduled
+MAIN11311,EQX1020,2025-06-07,Corrective Maintenance,Engine Overheating,Track Chain,45.6,132722,2025-08-06,Completed
+MAIN11312,EQX1016,2025-01-25,Preventive Maintenance,Hydraulic Leakage,Hydraulic Pump,11.8,113989,2025-02-24,Completed
+MAIN11313,EQX1035,2024-10-02,Preventive Maintenance,Track Wear,Track Chain,10.4,19502,2024-12-01,Completed
+MAIN11314,EQX1250,2025-04-04,Corrective Maintenance,Battery Failure,Battery,41.7,23203,2025-05-04,Completed
+MAIN11315,EQX1245,2024-11-21,Emergency Repair,Engine Overheating,Hydraulic Hose,46.2,32987,2025-01-05,Completed
+MAIN11316,EQX1284,2025-06-02,Emergency Repair,Low Engine Oil,Oil Filter,47.5,140465,2025-07-02,Completed
+MAIN11317,EQX1023,2025-02-07,Emergency Repair,Low Engine Oil,Engine Belt,40.1,133748,2025-03-09,Completed
+MAIN11318,EQX1025,2024-08-18,Emergency Repair,Engine Overheating,Oil Filter,38.0,120555,2024-09-17,In Progress
+MAIN11319,EQX1004,2024-07-24,Corrective Maintenance,Brake Wear,Track Chain,11.8,82081,2024-09-07,Completed
+MAIN11320,EQX1264,2024-11-02,Emergency Repair,Track Wear,Bucket Teeth,31.2,119243,2024-12-02,Completed
+MAIN11321,EQX1111,2025-03-07,Corrective Maintenance,Bucket Damage,Fuel Filter,23.1,17390,2025-05-06,Completed
+MAIN11322,EQX1253,2024-09-03,Preventive Maintenance,Track Wear,Oil Filter,42.8,37274,2024-10-18,Scheduled
+MAIN11323,EQX1224,2024-11-02,Emergency Repair,Hydraulic Leakage,Brake Pads,46.1,112677,2025-01-01,Completed
+MAIN11324,EQX1145,2024-09-24,Emergency Repair,Track Wear,Engine Belt,43.6,128082,2024-10-24,Completed
+MAIN11325,EQX1173,2024-10-30,Preventive Maintenance,Hydraulic Leakage,Engine Belt,42.0,21010,2024-12-29,In Progress
+MAIN11326,EQX1205,2024-07-28,Corrective Maintenance,Fuel Leakage,Bucket Teeth,27.5,49031,2024-09-26,In Progress
+MAIN11327,EQX1078,2024-10-27,Corrective Maintenance,Hydraulic Leakage,Oil Filter,17.6,45187,2024-12-11,Completed
+MAIN11328,EQX1266,2025-01-07,Preventive Maintenance,Hydraulic Leakage,Oil Filter,42.3,74131,2025-03-08,Completed
+MAIN11329,EQX1243,2025-06-18,Hydraulic Service,Brake Wear,Track Chain,40.1,120312,2025-08-17,In Progress
+MAIN11330,EQX1004,2024-07-04,Emergency Repair,Brake Wear,Track Chain,31.4,128286,2024-08-03,Completed
+MAIN11331,EQX1165,2025-03-17,Preventive Maintenance,Brake Wear,Bucket Teeth,17.1,92518,2025-05-16,Completed
+MAIN11332,EQX1276,2024-11-07,Corrective Maintenance,Hydraulic Leakage,Hydraulic Pump,40.5,22406,2024-12-22,Completed
+MAIN11333,EQX1206,2024-07-25,Emergency Repair,Engine Overheating,Brake Pads,33.8,128921,2024-09-08,Completed
+MAIN11334,EQX1154,2025-04-17,Inspection,No Issue,None,24.8,139621,2025-06-01,Completed
+MAIN11335,EQX1171,2024-08-09,Hydraulic Service,Transmission Fault,Brake Pads,26.5,9865,2024-09-08,Completed
+MAIN11336,EQX1104,2024-12-21,Hydraulic Service,Engine Overheating,Hydraulic Pump,8.9,133671,2025-02-19,In Progress
+MAIN11337,EQX1025,2024-09-25,Emergency Repair,Bucket Damage,Hydraulic Hose,25.1,43472,2024-11-09,Completed
+MAIN11338,EQX1116,2025-05-12,Corrective Maintenance,Engine Overheating,Brake Pads,45.3,82068,2025-06-11,Completed
+MAIN11339,EQX1248,2025-01-26,Corrective Maintenance,Battery Failure,Oil Filter,42.5,68747,2025-03-27,Completed
+MAIN11340,EQX1150,2025-04-29,Corrective Maintenance,Bucket Damage,Fuel Filter,11.3,96321,2025-06-13,In Progress
+MAIN11341,EQX1058,2024-12-12,Preventive Maintenance,Battery Failure,Track Chain,26.7,79952,2025-01-11,Completed
+MAIN11342,EQX1101,2024-07-26,Corrective Maintenance,Track Wear,Hydraulic Pump,31.3,119787,2024-09-09,Completed
+MAIN11343,EQX1283,2024-12-09,Emergency Repair,Low Engine Oil,Hydraulic Hose,22.7,58726,2025-01-23,Completed
+MAIN11344,EQX1239,2024-12-22,Corrective Maintenance,Low Engine Oil,Hydraulic Hose,15.4,102038,2025-02-20,Completed
+MAIN11345,EQX1216,2025-04-26,Corrective Maintenance,Brake Wear,Battery,30.7,76650,2025-06-10,Completed
+MAIN11346,EQX1219,2024-12-13,Preventive Maintenance,Battery Failure,Bucket Teeth,19.3,23123,2025-01-27,Completed
+MAIN11347,EQX1043,2024-07-18,Preventive Maintenance,Brake Wear,Track Chain,45.8,80343,2024-08-17,Completed
+MAIN11348,EQX1151,2025-06-19,Preventive Maintenance,Brake Wear,Fuel Filter,35.0,60126,2025-08-18,Completed
+MAIN11349,EQX1238,2025-01-03,Corrective Maintenance,Battery Failure,Battery,6.4,96024,2025-02-02,Completed
+MAIN11350,EQX1169,2025-04-30,Corrective Maintenance,Battery Failure,Fuel Filter,2.1,144307,2025-06-14,Completed
+MAIN11351,EQX1011,2024-12-11,Hydraulic Service,Transmission Fault,Battery,22.6,148553,2025-02-09,Scheduled
+MAIN11352,EQX1119,2025-01-26,Corrective Maintenance,Brake Wear,Hydraulic Hose,47.8,17353,2025-03-12,Completed
+MAIN11353,EQX1058,2025-03-23,Preventive Maintenance,Transmission Fault,Track Chain,11.1,11582,2025-05-22,Completed
+MAIN11354,EQX1189,2025-04-17,Inspection,No Issue,None,16.2,116958,2025-06-01,Completed
+MAIN11355,EQX1275,2024-07-11,Preventive Maintenance,Brake Wear,Battery,12.7,5422,2024-08-25,In Progress
+MAIN11356,EQX1008,2024-11-14,Corrective Maintenance,Bucket Damage,Bucket Teeth,10.3,88527,2025-01-13,Completed
+MAIN11357,EQX1273,2025-02-21,Hydraulic Service,Track Wear,Brake Pads,22.1,134933,2025-04-07,Completed
+MAIN11358,EQX1049,2025-02-12,Hydraulic Service,Bucket Damage,Track Chain,43.1,16270,2025-03-14,In Progress
+MAIN11359,EQX1125,2024-07-18,Preventive Maintenance,Fuel Leakage,Brake Pads,17.8,102276,2024-09-16,Completed
+MAIN11360,EQX1031,2025-02-01,Corrective Maintenance,Low Engine Oil,Fuel Filter,42.5,38556,2025-03-18,Completed
+MAIN11361,EQX1019,2024-08-23,Inspection,No Issue,None,39.0,144299,2024-10-07,Completed
+MAIN11362,EQX1293,2024-07-25,Oil Change,Brake Wear,Hydraulic Pump,7.0,44814,2024-09-23,Completed
+MAIN11363,EQX1025,2024-11-29,Corrective Maintenance,Fuel Leakage,Hydraulic Hose,24.5,105136,2025-01-28,Completed
+MAIN11364,EQX1275,2025-03-22,Oil Change,Hydraulic Leakage,Hydraulic Hose,20.8,35245,2025-05-21,In Progress
+MAIN11365,EQX1128,2025-05-28,Corrective Maintenance,Fuel Leakage,Track Chain,10.7,8964,2025-07-12,Scheduled
+MAIN11366,EQX1268,2024-10-10,Corrective Maintenance,Battery Failure,Brake Pads,29.1,98557,2024-11-09,Completed
+MAIN11367,EQX1295,2025-04-02,Corrective Maintenance,Fuel Leakage,Oil Filter,14.9,11814,2025-05-17,Completed
+MAIN11368,EQX1086,2025-01-11,Preventive Maintenance,Bucket Damage,Track Chain,4.0,108582,2025-02-25,Completed
+MAIN11369,EQX1170,2025-04-29,Hydraulic Service,Battery Failure,Hydraulic Hose,5.1,123310,2025-06-13,Scheduled
+MAIN11370,EQX1127,2024-07-09,Emergency Repair,Bucket Damage,Fuel Filter,40.5,16100,2024-08-08,Completed
+MAIN11371,EQX1210,2025-02-05,Hydraulic Service,Low Engine Oil,Hydraulic Hose,39.3,145586,2025-03-07,Completed
+MAIN11372,EQX1021,2025-01-23,Preventive Maintenance,Engine Overheating,Engine Belt,31.6,31088,2025-03-09,Completed
+MAIN11373,EQX1045,2025-06-30,Inspection,No Issue,None,47.5,104659,2025-08-14,In Progress
+MAIN11374,EQX1080,2025-02-06,Emergency Repair,Bucket Damage,Engine Belt,13.1,86095,2025-03-08,Completed
+MAIN11375,EQX1046,2025-06-01,Corrective Maintenance,Hydraulic Leakage,Fuel Filter,3.9,92361,2025-07-16,Completed
+MAIN11376,EQX1149,2024-07-19,Corrective Maintenance,Engine Overheating,Battery,40.1,107841,2024-09-02,Completed
+MAIN11377,EQX1043,2024-08-03,Preventive Maintenance,Transmission Fault,Engine Belt,37.6,31261,2024-10-02,In Progress
+MAIN11378,EQX1029,2024-11-30,Preventive Maintenance,Bucket Damage,Hydraulic Pump,25.4,98390,2025-01-14,Completed
+MAIN11379,EQX1163,2025-02-24,Preventive Maintenance,Low Engine Oil,Engine Belt,27.1,50363,2025-04-25,Completed
+MAIN11380,EQX1179,2024-08-13,Inspection,No Issue,None,27.3,22185,2024-09-27,Completed
+MAIN11381,EQX1090,2025-01-02,Preventive Maintenance,Bucket Damage,Brake Pads,38.9,68402,2025-03-03,Completed
+MAIN11382,EQX1249,2024-08-26,Preventive Maintenance,Bucket Damage,Hydraulic Pump,12.0,76893,2024-10-10,Completed
+MAIN11383,EQX1069,2025-05-17,Preventive Maintenance,Transmission Fault,Bucket Teeth,35.1,67940,2025-07-16,Completed
+MAIN11384,EQX1217,2025-04-27,Emergency Repair,Low Engine Oil,Hydraulic Hose,40.7,95258,2025-05-27,Completed
+MAIN11385,EQX1171,2025-05-18,Emergency Repair,Brake Wear,Brake Pads,40.0,83070,2025-07-17,Completed
+MAIN11386,EQX1293,2024-10-23,Preventive Maintenance,Track Wear,Bucket Teeth,4.8,90479,2024-12-07,Completed
+MAIN11387,EQX1024,2024-07-05,Preventive Maintenance,Battery Failure,Hydraulic Hose,25.0,19216,2024-08-04,Completed
+MAIN11388,EQX1205,2025-03-12,Corrective Maintenance,Hydraulic Leakage,Hydraulic Pump,10.1,38263,2025-04-26,In Progress
+MAIN11389,EQX1271,2024-09-05,Hydraulic Service,Track Wear,Battery,43.3,118447,2024-10-05,Completed
+MAIN11390,EQX1126,2025-03-22,Corrective Maintenance,Bucket Damage,Battery,30.6,89736,2025-05-21,Completed
+MAIN11391,EQX1028,2024-07-31,Emergency Repair,Bucket Damage,Brake Pads,7.7,29823,2024-09-29,Scheduled
+MAIN11392,EQX1285,2024-07-11,Emergency Repair,Fuel Leakage,Hydraulic Hose,41.4,107713,2024-09-09,Completed
+MAIN11393,EQX1300,2024-11-22,Oil Change,Engine Overheating,Engine Belt,16.6,107912,2025-01-06,Completed
+MAIN11394,EQX1058,2025-02-28,Corrective Maintenance,Battery Failure,Battery,6.9,32215,2025-03-30,Completed
+MAIN11395,EQX1024,2024-08-27,Preventive Maintenance,Low Engine Oil,Bucket Teeth,36.2,96296,2024-09-26,Completed
+MAIN11396,EQX1261,2024-09-10,Inspection,No Issue,None,47.7,39808,2024-11-09,In Progress
+MAIN11397,EQX1249,2025-03-30,Preventive Maintenance,Low Engine Oil,Engine Belt,27.9,36398,2025-04-29,Completed
+MAIN11398,EQX1203,2024-08-20,Corrective Maintenance,Transmission Fault,Track Chain,10.0,101621,2024-09-19,Completed
+MAIN11399,EQX1247,2025-03-07,Preventive Maintenance,Hydraulic Leakage,Brake Pads,21.3,36643,2025-04-21,In Progress
+MAIN11400,EQX1020,2024-10-10,Corrective Maintenance,Low Engine Oil,Oil Filter,40.5,107592,2024-12-09,In Progress
+MAIN11401,EQX1219,2024-07-12,Corrective Maintenance,Fuel Leakage,Oil Filter,27.2,79608,2024-08-11,Completed
+MAIN11402,EQX1224,2024-10-18,Emergency Repair,Track Wear,Hydraulic Pump,34.1,48456,2024-12-17,Completed
+MAIN11403,EQX1182,2024-09-13,Corrective Maintenance,Fuel Leakage,Hydraulic Hose,46.6,96791,2024-10-13,Completed
+MAIN11404,EQX1191,2024-07-18,Emergency Repair,Battery Failure,Hydraulic Hose,11.4,21231,2024-09-01,Completed
+MAIN11405,EQX1050,2024-11-20,Emergency Repair,Brake Wear,Brake Pads,16.3,89586,2025-01-19,Completed
+MAIN11406,EQX1144,2024-12-05,Preventive Maintenance,Fuel Leakage,Engine Belt,42.2,114633,2025-01-19,Completed
+MAIN11407,EQX1175,2024-11-07,Corrective Maintenance,Track Wear,Hydraulic Hose,35.7,95879,2024-12-07,Completed
+MAIN11408,EQX1141,2024-12-22,Emergency Repair,Track Wear,Hydraulic Pump,18.1,40139,2025-02-05,Completed
+MAIN11409,EQX1183,2024-09-12,Inspection,No Issue,None,9.8,46065,2024-11-11,Scheduled
+MAIN11410,EQX1138,2025-06-29,Corrective Maintenance,Battery Failure,Fuel Filter,34.1,54822,2025-08-13,Completed
+MAIN11411,EQX1191,2025-01-13,Hydraulic Service,Engine Overheating,Engine Belt,12.8,112452,2025-02-12,Completed
+MAIN11412,EQX1241,2025-05-01,Corrective Maintenance,Brake Wear,Bucket Teeth,24.4,145009,2025-06-30,In Progress
+MAIN11413,EQX1098,2025-06-16,Emergency Repair,Battery Failure,Bucket Teeth,42.1,106770,2025-07-31,Completed
+MAIN11414,EQX1005,2025-06-06,Inspection,No Issue,None,17.4,34823,2025-07-21,Completed
+MAIN11415,EQX1244,2025-03-22,Corrective Maintenance,Transmission Fault,Battery,34.8,31808,2025-04-21,Completed
+MAIN11416,EQX1112,2024-08-24,Emergency Repair,Transmission Fault,Hydraulic Hose,21.9,61946,2024-09-23,Completed
+MAIN11417,EQX1184,2024-12-22,Preventive Maintenance,Hydraulic Leakage,Bucket Teeth,22.9,101478,2025-01-21,Completed
+MAIN11418,EQX1267,2025-02-02,Preventive Maintenance,Hydraulic Leakage,Hydraulic Pump,26.5,73930,2025-03-19,Completed
+MAIN11419,EQX1265,2025-02-10,Preventive Maintenance,Transmission Fault,Hydraulic Hose,44.7,14997,2025-03-12,Completed
+MAIN11420,EQX1135,2025-05-06,Corrective Maintenance,Battery Failure,Fuel Filter,46.1,123316,2025-07-05,Completed
+MAIN11421,EQX1267,2025-01-30,Inspection,No Issue,None,33.0,72610,2025-03-01,Completed
+MAIN11422,EQX1166,2024-10-07,Inspection,No Issue,None,17.9,33881,2024-11-06,Completed
+MAIN11423,EQX1252,2024-12-31,Hydraulic Service,Low Engine Oil,Hydraulic Pump,30.2,77362,2025-01-30,In Progress
+MAIN11424,EQX1055,2024-11-27,Emergency Repair,Transmission Fault,Engine Belt,34.6,64618,2024-12-27,In Progress
+MAIN11425,EQX1231,2025-06-10,Corrective Maintenance,Engine Overheating,Hydraulic Pump,46.1,109276,2025-08-09,Completed
+MAIN11426,EQX1023,2024-09-03,Corrective Maintenance,Low Engine Oil,Hydraulic Hose,28.7,103857,2024-11-02,Completed
+MAIN11427,EQX1145,2024-11-23,Corrective Maintenance,Engine Overheating,Engine Belt,43.0,69825,2024-12-23,Completed
+MAIN11428,EQX1287,2024-09-22,Preventive Maintenance,Track Wear,Fuel Filter,37.9,93420,2024-11-06,Scheduled
+MAIN11429,EQX1206,2024-10-22,Emergency Repair,Low Engine Oil,Bucket Teeth,7.8,122936,2024-11-21,In Progress
+MAIN11430,EQX1285,2024-11-28,Emergency Repair,Brake Wear,Engine Belt,28.3,132398,2025-01-27,Completed
+MAIN11431,EQX1195,2025-02-25,Corrective Maintenance,Battery Failure,Oil Filter,17.9,138370,2025-03-27,Completed
+MAIN11432,EQX1118,2024-07-24,Corrective Maintenance,Bucket Damage,Engine Belt,44.2,90558,2024-09-07,Completed
+MAIN11433,EQX1267,2025-05-22,Preventive Maintenance,Low Engine Oil,Hydraulic Pump,43.1,85673,2025-07-21,Completed
+MAIN11434,EQX1137,2024-11-03,Hydraulic Service,Battery Failure,Track Chain,36.0,124172,2024-12-18,In Progress
+MAIN11435,EQX1092,2025-06-22,Inspection,No Issue,None,12.8,74109,2025-07-22,In Progress
+MAIN11436,EQX1292,2024-11-19,Hydraulic Service,Transmission Fault,Engine Belt,45.7,93035,2025-01-18,Completed
+MAIN11437,EQX1201,2024-12-11,Corrective Maintenance,Fuel Leakage,Engine Belt,35.4,55920,2025-02-09,Completed
+MAIN11438,EQX1251,2024-12-23,Emergency Repair,Brake Wear,Fuel Filter,3.5,84606,2025-01-22,In Progress
+MAIN11439,EQX1180,2025-04-12,Corrective Maintenance,Transmission Fault,Oil Filter,17.8,105051,2025-05-12,Completed
+MAIN11440,EQX1210,2024-07-24,Emergency Repair,Bucket Damage,Engine Belt,27.0,6219,2024-08-23,Completed
+MAIN11441,EQX1161,2025-03-13,Corrective Maintenance,Fuel Leakage,Hydraulic Hose,7.3,96085,2025-04-12,Completed
+MAIN11442,EQX1040,2024-09-21,Emergency Repair,Engine Overheating,Battery,16.9,83109,2024-10-21,Completed
+MAIN11443,EQX1009,2024-10-10,Corrective Maintenance,Engine Overheating,Hydraulic Pump,35.5,101703,2024-12-09,Completed
+MAIN11444,EQX1040,2025-05-16,Corrective Maintenance,Engine Overheating,Hydraulic Hose,3.0,58952,2025-06-30,Completed
+MAIN11445,EQX1099,2025-05-24,Emergency Repair,Battery Failure,Brake Pads,9.3,107945,2025-07-08,Completed
+MAIN11446,EQX1226,2024-08-29,Corrective Maintenance,Brake Wear,Oil Filter,8.0,91723,2024-09-28,Completed
+MAIN11447,EQX1010,2025-02-20,Preventive Maintenance,Fuel Leakage,Brake Pads,34.0,43622,2025-03-22,Completed
+MAIN11448,EQX1126,2025-04-27,Emergency Repair,Brake Wear,Oil Filter,35.7,126580,2025-05-27,Completed
+MAIN11449,EQX1239,2024-10-14,Preventive Maintenance,Low Engine Oil,Oil Filter,25.0,117772,2024-11-13,Completed
+MAIN11450,EQX1213,2025-05-09,Oil Change,Hydraulic Leakage,Fuel Filter,3.0,12775,2025-06-08,Completed
+MAIN11451,EQX1266,2024-08-22,Preventive Maintenance,Bucket Damage,Track Chain,17.9,77324,2024-10-21,In Progress
+MAIN11452,EQX1145,2025-01-29,Hydraulic Service,Hydraulic Leakage,Track Chain,16.2,21133,2025-03-30,Completed
+MAIN11453,EQX1103,2025-01-13,Preventive Maintenance,Battery Failure,Fuel Filter,24.5,7877,2025-02-12,Completed
+MAIN11454,EQX1088,2024-07-04,Inspection,No Issue,None,47.2,55943,2024-08-18,Completed
+MAIN11455,EQX1009,2024-09-22,Emergency Repair,Fuel Leakage,Battery,40.8,68109,2024-11-21,Completed
+MAIN11456,EQX1094,2025-02-23,Corrective Maintenance,Engine Overheating,Brake Pads,2.3,30185,2025-03-25,Completed
+MAIN11457,EQX1247,2025-01-26,Inspection,No Issue,None,12.7,9337,2025-02-25,Completed
+MAIN11458,EQX1212,2024-09-25,Preventive Maintenance,Hydraulic Leakage,Hydraulic Pump,46.0,121420,2024-11-09,Completed
+MAIN11459,EQX1187,2025-01-13,Inspection,No Issue,None,27.3,136857,2025-03-14,In Progress
+MAIN11460,EQX1128,2025-03-18,Corrective Maintenance,Brake Wear,Battery,34.2,65698,2025-05-02,In Progress
+MAIN11461,EQX1237,2024-07-24,Preventive Maintenance,Low Engine Oil,Hydraulic Pump,37.6,133479,2024-09-22,In Progress
+MAIN11462,EQX1217,2024-08-20,Emergency Repair,Brake Wear,Bucket Teeth,7.9,65396,2024-10-19,Completed
+MAIN11463,EQX1097,2024-11-15,Hydraulic Service,Hydraulic Leakage,Bucket Teeth,33.3,144937,2025-01-14,Completed
+MAIN11464,EQX1016,2024-11-08,Inspection,No Issue,None,12.0,112464,2024-12-08,Completed
+MAIN11465,EQX1015,2024-08-24,Preventive Maintenance,Low Engine Oil,Hydraulic Pump,41.2,111540,2024-09-23,Scheduled
+MAIN11466,EQX1129,2024-12-10,Corrective Maintenance,Brake Wear,Hydraulic Hose,22.0,49573,2025-02-08,Completed
+MAIN11467,EQX1130,2025-04-03,Inspection,No Issue,None,3.5,54233,2025-05-03,Completed
+MAIN11468,EQX1102,2025-06-24,Corrective Maintenance,Hydraulic Leakage,Engine Belt,16.1,32535,2025-08-23,Completed
+MAIN11469,EQX1248,2024-07-20,Corrective Maintenance,Battery Failure,Engine Belt,11.8,78311,2024-08-19,Completed
+MAIN11470,EQX1190,2025-06-25,Emergency Repair,Fuel Leakage,Hydraulic Pump,7.5,51202,2025-08-09,Scheduled
+MAIN11471,EQX1121,2025-02-08,Preventive Maintenance,Brake Wear,Oil Filter,43.0,137456,2025-03-25,Completed
+MAIN11472,EQX1285,2025-05-06,Emergency Repair,Transmission Fault,Bucket Teeth,43.8,70558,2025-07-05,Completed
+MAIN11473,EQX1213,2025-05-16,Preventive Maintenance,Low Engine Oil,Oil Filter,18.5,18516,2025-06-30,Completed
+MAIN11474,EQX1097,2024-11-11,Corrective Maintenance,Hydraulic Leakage,Hydraulic Hose,23.5,11502,2024-12-26,Completed
+MAIN11475,EQX1220,2024-07-28,Corrective Maintenance,Battery Failure,Track Chain,21.2,50480,2024-08-27,Completed
+MAIN11476,EQX1124,2025-05-02,Preventive Maintenance,Fuel Leakage,Engine Belt,34.9,128897,2025-07-01,In Progress
+MAIN11477,EQX1122,2024-10-13,Emergency Repair,Hydraulic Leakage,Bucket Teeth,29.2,103034,2024-11-12,In Progress
+MAIN11478,EQX1151,2024-08-25,Corrective Maintenance,Low Engine Oil,Track Chain,40.3,64664,2024-10-24,Scheduled
+MAIN11479,EQX1150,2025-02-12,Corrective Maintenance,Track Wear,Bucket Teeth,17.5,67604,2025-03-29,Completed
+MAIN11480,EQX1226,2025-03-10,Preventive Maintenance,Brake Wear,Battery,46.1,46260,2025-05-09,Completed
+MAIN11481,EQX1194,2025-06-22,Inspection,No Issue,None,34.0,81973,2025-07-22,Completed
+MAIN11482,EQX1294,2024-08-09,Hydraulic Service,Engine Overheating,Battery,26.4,137223,2024-09-08,Completed
+MAIN11483,EQX1115,2025-06-25,Corrective Maintenance,Track Wear,Bucket Teeth,13.9,68979,2025-08-24,In Progress
+MAIN11484,EQX1165,2024-09-30,Corrective Maintenance,Brake Wear,Battery,42.5,136386,2024-11-14,Completed
+MAIN11485,EQX1073,2025-01-24,Hydraulic Service,Bucket Damage,Brake Pads,19.2,132413,2025-03-10,Completed
+MAIN11486,EQX1186,2024-09-12,Preventive Maintenance,Hydraulic Leakage,Bucket Teeth,9.4,109614,2024-11-11,Completed
+MAIN11487,EQX1044,2024-12-03,Inspection,No Issue,None,39.4,108104,2025-01-02,Scheduled
+MAIN11488,EQX1228,2024-10-22,Hydraulic Service,Brake Wear,Engine Belt,15.8,87594,2024-12-21,Completed
+MAIN11489,EQX1266,2025-04-06,Preventive Maintenance,Brake Wear,Hydraulic Hose,22.5,130040,2025-05-06,Scheduled
+MAIN11490,EQX1218,2024-09-05,Emergency Repair,Fuel Leakage,Battery,43.5,80293,2024-11-04,Completed
+MAIN11491,EQX1026,2025-05-21,Emergency Repair,Low Engine Oil,Hydraulic Pump,17.7,40660,2025-07-20,Completed
+MAIN11492,EQX1054,2025-01-04,Emergency Repair,Battery Failure,Brake Pads,12.0,57921,2025-03-05,Completed
+MAIN11493,EQX1006,2025-01-15,Corrective Maintenance,Transmission Fault,Track Chain,39.2,147732,2025-02-14,Completed
+MAIN11494,EQX1082,2025-04-25,Emergency Repair,Battery Failure,Oil Filter,19.7,122948,2025-05-25,Completed
+MAIN11495,EQX1040,2025-06-01,Corrective Maintenance,Hydraulic Leakage,Track Chain,23.6,118034,2025-07-16,Completed
+MAIN11496,EQX1065,2025-02-27,Corrective Maintenance,Low Engine Oil,Engine Belt,8.2,8837,2025-04-13,In Progress
+MAIN11497,EQX1212,2024-10-27,Inspection,No Issue,None,10.0,99867,2024-12-11,Completed
+MAIN11498,EQX1028,2025-05-03,Hydraulic Service,Battery Failure,Hydraulic Hose,41.4,9453,2025-06-02,Completed
+MAIN11499,EQX1091,2025-06-03,Corrective Maintenance,Fuel Leakage,Battery,35.4,95463,2025-08-02,Completed

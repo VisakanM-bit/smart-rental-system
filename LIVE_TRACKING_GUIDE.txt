@@ -1,0 +1,47 @@
+FLEETSIGHT LIVE TRACKING — LEAFLET IMPLEMENTATION GUIDE
+Updated: 30 July 2026
+
+1. WHAT IS IMPLEMENTED
+FleetSight uses Leaflet 1.9.4 with OpenStreetMap tiles for interactive equipment
+tracking. The map replaces the basic static footprint panel on the Dashboard.
+
+- Every latest telemetry point with valid GPS latitude/longitude becomes an asset marker.
+- Marker colour: red = critical alert or outside geofence; amber = warning alert;
+  teal = normal status.
+- Marker popups show equipment ID/type/status, health, fuel, temperature, geofence,
+  and last signal timestamp.
+- The most recent 25 GPS points are linked as a route line for up to 20 assets.
+  This preserves smooth performance with the 100,000-row telemetry dataset.
+- The view fits the current fleet automatically and supports pan, zoom, and popup use.
+
+2. DATA FLOW
+Telemetry_Logs.csv -> SQLite telemetry table -> latest record by equipment_id ->
+Leaflet marker. Recent telemetry ordered by timestamp -> compact track polyline.
+
+The map uses `gps_lat`, `gps_lon`, `timestamp`, `equipment_id`, and telemetry
+condition/fuel/temperature fields. Machine master adds equipment type, current
+status, and geofence context. The alert table adds the visible severity state.
+
+3. PRIVACY AND PRODUCTION NOTES
+Map coordinates are shown only to an authenticated FleetSight user. Production must
+enforce tenant/customer scope at the API/database-query level so a customer cannot
+see another customer’s asset coordinates. Do not put raw location histories into the
+integrity ledger; the ledger hashes data batches only.
+
+The demo uses OpenStreetMap's standard tile URL and attribution as required by its
+terms. For a production fleet, use an approved map-tile provider or self-hosted
+tiles, follow its rate/usage policy, cache appropriately, and protect GPS APIs.
+
+4. HOW TO DEMONSTRATE
+1. Open Dashboard.
+2. Scroll to Live equipment tracking.
+3. Pan/zoom to inspect the marker set.
+4. Click a red or amber marker to explain its current operational context.
+5. Point out the coloured track lines as recent movement history rather than a
+   guaranteed road route.
+
+5. CHANGE RECORD
+The component is in app/components/leaflet_tracker.py and is a Streamlit Custom
+Components v2 implementation. It uses no deprecated Streamlit components.v1 APIs.
+The Dashboard path was validated with Streamlit's application test runner with no
+application exceptions.
