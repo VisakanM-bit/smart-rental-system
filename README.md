@@ -2,6 +2,17 @@
 
 FleetSight is a hackathon-ready operational dashboard for heavy-equipment rental fleets. It turns rental records and IoT-style telemetry into an actionable view of fleet availability, machine condition, alerts, anomalies, demand, and service risk.
 
+## Solution at a glance
+
+- Unifies asset availability, rental operations, machine condition, maintenance, alerts and forecasting in one operational workspace.
+- Uses AI-assisted decision support to detect unusual behaviour, predict maintenance, misuse and overdue-return risk, classify machine health, and forecast demand.
+- Provides an interactive Leaflet map with colour-coded equipment status and recent movement history.
+- Runs automated checks for high temperature, excessive idle time, unusual fuel consumption, geofence exits, overdue rentals and service due dates.
+- Protects historical-record integrity with tenant-aware SHA-256 Merkle proofs and a hash chain, without putting sensitive GPS, financial or customer data on the ledger.
+- Supports secure demo roles for administrators, managers, operators and customers, with reports available for export.
+
+See [summary.txt](summary.txt) for the current project overview, achieved milestones and planned next steps.
+
 The supplied dataset package has been imported into `data/uploaded/` and is used automatically at startup. See [DATA_INTERPRETATION_GUIDE.txt](C:\Users\pl\Desktop\visionaryminds\DATA_INTERPRETATION_GUIDE.txt) for reviewer-facing ranges, rules, expected results, and limitations.
 
 ## What is included

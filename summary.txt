@@ -1,0 +1,47 @@
+FLEETSIGHT - PROJECT SUMMARY
+Status as of 06:00 PM, 30 July 2026
+
+* Tools & Technology Used
+  - Python and Streamlit for the interactive, responsive FleetSight dashboard.
+  - Pandas, Plotly and SQLAlchemy for data processing, visual analytics and a portable database layer (SQLite locally, PostgreSQL-ready for deployment).
+  - Scikit-learn Isolation Forest and XGBoost for anomaly detection and equipment-risk prediction; TensorFlow/Keras LSTM models for demand and telemetry trend forecasting.
+  - Leaflet with OpenStreetMap for interactive equipment location tracking and movement history.
+  - SHA-256 Merkle proofs and a tenant-aware hash chain for historical-data integrity, with an optional Hyperledger Fabric integration path.
+  - Passlib/bcrypt for secure password hashing, with role-based demo accounts.
+
+* How We Plan to Use AI
+  - AI turns raw rental, maintenance and IoT-style telemetry data into early operational signals instead of waiting for a machine to fail or a rental issue to escalate.
+  - The system detects unusual behaviour, estimates maintenance, overdue-return and misuse risk, classifies machine health, and forecasts upcoming demand by site and equipment type.
+  - Results are designed as decision support: managers can investigate high-risk assets, plan servicing, improve fleet allocation and reduce avoidable downtime. The models will be continuously retrained and calibrated when verified live operational data becomes available.
+
+* Our Approach to the Problem
+  - We approached fleet operations as one connected workflow: asset availability, rental lifecycle, location, equipment condition, maintenance and customer return risk are viewed from a single command centre.
+  - We combined clear business rules (temperature, idle time, fuel use, geofence and service thresholds) with machine-learning signals, so the system remains both practical and explainable.
+  - The solution is privacy-conscious: sensitive raw GPS, financial and customer information stays in the operational database, while only cryptographic proofs are used for integrity verification.
+  - The current imported dataset is historical/synthetic, so the product is positioned honestly as a validated operational prototype that is ready to connect to live data.
+
+* Key Features & Unique Selling Point
+  - One unified dashboard for heavy-equipment rentals: live fleet KPIs, asset condition, rentals, alerts, maintenance, analytics, forecasting and downloadable reports.
+  - Interactive live map with colour-coded asset markers, health context and compact recent movement paths.
+  - Automated monitoring agents for excessive idling, high temperature, geofence exits, unusual fuel consumption, overdue rentals and maintenance due dates.
+  - Hybrid intelligence: transparent health scoring plus anomaly detection, XGBoost risk models and LSTM forecasts.
+  - Multi-role secure login for admin, manager, operator and customer demonstrations.
+  - Unique selling point: FleetSight brings predictive fleet intelligence and privacy-preserving, tamper-evident historical data verification together in one rental-operations platform.
+
+* Milestones Achieved by 06:00 PM, 30 July 2026
+  - Built and validated the full FleetSight Streamlit application with modular Python architecture and PostgreSQL-ready data support.
+  - Imported and integrated the project dataset: 300 machines, 5,000 rentals, 100,000 telemetry events, 1,500 maintenance records and 120 customer records.
+  - Implemented dashboards for assets, rentals, alerts, forecasting, analytics, ML models, maintenance, reports, admin settings and connected operations.
+  - Completed monitoring agents, role-based demo authentication, downloadable CSV reports and explainable health scoring.
+  - Trained and saved anomaly, risk-classification and forecasting model artifacts using the uploaded data workflow.
+  - Added the Leaflet live-tracking experience and the tenant-aware Merkle/hash-chain integrity ledger.
+  - Completed application testing across all workspaces with zero page-level exceptions, plus compilation and dependency checks.
+  - Published the validated project source, datasets, models, documentation and assets to the assigned GitHub repository.
+
+* Outstanding Milestones for the Next ~15 Hours
+  - Prepare the final live-demo script and presentation narrative around dashboard insights, alerts, AI predictions, map tracking and ledger verification.
+  - Perform a final end-to-end smoke test on the target machine, including login, imports, model views, map rendering, reports and integrity verification.
+  - Refine the most important dashboard examples and screenshots for clearer judging/demo impact.
+  - Package deployment instructions, environment variables and dependency setup for a reliable handover.
+  - Document production next steps: live IoT ingestion, scheduled alert workers, FCM/email notifications, SSO/RBAC enforcement, Alembic migrations, managed secrets and model calibration with verified real-world labels.
+  - If time permits, deploy the PostgreSQL-connected version and demonstrate the optional permissioned Hyperledger Fabric anchoring path.
